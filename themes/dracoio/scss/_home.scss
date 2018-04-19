@@ -1,0 +1,128 @@
+////////////////////////////////////////////////////////////////////////////////
+// HOME
+////////////////////////////////////////////////////////////////////////////////
+
+@import 'colors';
+@import 'navbar';
+
+body.home {
+
+  #wrapper {
+    padding-top: $navbar-min-height;
+  }
+
+  #main, #main .main-content {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100% !important;
+  }
+
+  ////////////////////////////////////////////////////////////////////////////////
+  // NAVBAR OVERRIDES
+  ////////////////////////////////////////////////////////////////////////////////
+
+  nav.navbar {
+    &.sps--abv {
+      background-color: transparent !important;
+      transition: background-color 800ms ease-in-out;
+    }
+
+    &.sps--blw {
+      background-color: inherit;
+      transition: background-color 800ms ease-in-out;
+    }
+
+    .collapsing, .collapse.show {
+      background-color: $brand-primary;
+      width: calc(100% + (2 * #{$navbar-padding-x}));
+      margin: calc(-#{$navbar-padding-y} - 74px) -$navbar-padding-x 0;
+      padding: calc(#{$navbar-padding-y} + 74px) $navbar-padding-x 0;
+      z-index: -1;
+    }
+  }
+
+
+  ////////////////////////////////////////////////////////////////////////////////
+  // JUMBOTRON
+  ////////////////////////////////////////////////////////////////////////////////
+
+  .jumbotron {
+    position: relative;
+    padding-top: $navbar-min-height + 16px;
+    margin-top: -$navbar-min-height;
+
+    h1,h2,h3,h4,h5,h6 {
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.5);
+    }
+
+// color: #bee1f4;
+    .title {
+      color: #d6d320;
+    }
+
+    .lead {
+      text-shadow: 1px 2px 2px rgba(0,0,0,0.5);
+    }
+
+    .btn-outline-learn-more {
+      @include button-outline-variant($brand-info, $brand-primary);
+    }
+
+    .btn-get-started {
+//      @include button-variant($pf-cyan-100, $pf-blue-500, $pf-blue-300);
+//
+      @include button-variant(#fffd76, #464dd1, #0316ec);
+      @include hover {
+        color: $brand-info;
+        background-color: $brand-primary;
+        border-color: $brand-info;
+      }
+    }
+  }
+
+
+  ////////////////////////////////////////////////////////////////////////////////
+  // MAILING LIST
+  ////////////////////////////////////////////////////////////////////////////////
+
+  .mailing-list {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    background-color: $brand-secondary;
+
+    .lead {
+      text-shadow: none;
+    }
+
+    .btn {
+      font-weight: bold;
+    }
+  }
+
+  ////////////////////////////////////////////////////////////////////////////////
+  // CONTENT
+  ////////////////////////////////////////////////////////////////////////////////
+
+  .full-width-feature {
+    .screenshot {
+      width: 100%;
+      box-shadow: 2px 4px 4px rgba(0,0,0,0.5);
+    }
+  }
+
+  ////////////////////////////////////////////////////////////////////////////////
+  // PARTICLE.JS
+  ////////////////////////////////////////////////////////////////////////////////
+
+  #particles {
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    opacity: 0.5;
+  }
+}
+

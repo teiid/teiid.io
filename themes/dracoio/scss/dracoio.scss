@@ -1,0 +1,52 @@
+@import './bootstrap/_variables';
+@import '../../../node_modules/bootstrap/scss/bootstrap';
+
+@import 'blog';
+@import 'colors';
+@import 'docs';
+@import 'footer';
+@import 'github-corner';
+@import 'home';
+@import 'icons';
+@import 'navbar';
+@import 'sidenav';
+@import 'toc';
+@import 'highlighting';
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+  padding-top: $navbar-min-height + 26px;
+}
+
+#main {
+  padding-bottom: 20rem;
+
+  @include media-breakpoint-down(sm) {
+    padding-bottom: 32rem;
+  }
+
+  .main-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+
+    @include media-breakpoint-up(lg) {
+      width: calc(100% - 214px - 314px);
+    }
+  }
+}
+
+:target::before {
+  display: block;
+  content: " ";
+  margin-top: -100px;
+  height: 100px;
+  visibility: hidden;
+}
+

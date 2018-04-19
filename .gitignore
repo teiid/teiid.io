@@ -1,0 +1,12 @@
+/node_modules
+/public
+/themes/dracoio/static/js
+/themes/dracoio/static/css
+/themes/dracoio/static/fonts
+/themes/dracoio/static/CNAME
+/static/CNAME
+/data/sri
+.cache
+.config
+.yarnrc
+yarn-error.log

@@ -1,0 +1,31 @@
+name = "Draco"
+license = "Apache-2.0"
+licenselink = "https://github.com/teiid/community-website/blob/master/LICENSE.md"
+description = "A flexible, customizable, open source platform that provides core integration capabilities as a service."
+homepage = "https://github.com/teiid/community-website"
+tags = []
+features = []
+min_version = "0.20.6"
+
+[author]
+  name = "Teiid Developers"
+  homepage = "https://teiid/"
+
+[[docs.sidenav]]
+    name = "code"
+    weight = -110
+    identifier = "code"
+    url = "https://github.com/teiid"
+
+[[docs.sidenav]]
+    name = "faq"
+    weight = -120
+    identifier = "faq"
+    url = "/faq/"
+
+[[docs.sidenav]]
+    name = "blog"
+    weight = -130
+    identifier = "blog"
+    url = "http://teiid.blogspot.com/"
+

@@ -1,0 +1,38 @@
+@import 'colors';
+
+.no-toc {
+  @include media-breakpoint-up(lg) {
+    flex: 0 0 214px;
+  }
+}
+
+.toc {
+  @include media-breakpoint-up(lg) {
+    flex: 0 0 314px;
+  }
+}
+
+#TableOfContents{
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 10px 20px 10px 20px;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 10px;
+
+    li {
+      display: block;
+    }
+  }
+
+  &>ul>li>ul>li>a,
+  &>ul>li>a {
+    font-weight: bold;
+    margin: 0 2px;
+  }
+
+  &>ul>li>ul>li>a {
+    font-style: italic;
+  }
+}

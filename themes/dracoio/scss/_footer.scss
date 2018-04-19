@@ -1,0 +1,57 @@
+////////////////////////////////////////////////////////////////////////////////
+// FOOTER
+////////////////////////////////////////////////////////////////////////////////
+
+@import 'colors';
+
+.page-footer {
+  background-color: $pf-black;
+  color: $pf-white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  height: 20rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @include media-breakpoint-down(sm) {
+    height: 32rem;
+  }
+
+  .btn-secondary {
+    @include button-variant($pf-white, $pf-red, $pf-white);
+    font-weight: bold;
+    width: 40%;
+  }
+
+  .btn-primary {
+    @include button-variant($pf-white, $pf-red-200, $pf-blue);
+    font-weight: bold;
+    width: 40%;
+
+    @include media-breakpoint-down(lg) {
+      width: 70%;
+    }
+
+    @include media-breakpoint-down(md) {
+      width: 60%;
+    }
+
+    @include media-breakpoint-down(xs) {
+      width: 70%;
+    }
+  }
+
+  .rh-logo {
+    padding-top: 2rem;
+  }
+
+  h4 {
+    font-family: $font-family-base;
+  }
+}

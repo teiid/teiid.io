@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  {{ .Hugo.Generator }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}"> {{ end }}
+
+  <!-- Site verification -->
+  {{ if .IsHome }} {{ partial "site-verification" . }} {{ end }}
+  <!-- add googleAnalytics in config.toml -->
+  {{ template "_internal/google_analytics.html" . }}
+  {{ if .RSSLink }}<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />{{ end }}
+  <link rel="canonical" href="{{ .Permalink }}"> {{ if (isset .Params "prev") }}
+  <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
+  <link rel="next" href="{{ .Params.next }}"> {{ end }}
+
+  {{ partial "favicon" . }}
+
+  <!-- Bootstrap CSS -->{{ .Hugo.Generator }}
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,500|Righteous" rel="stylesheet">
+  <link rel="stylesheet" href="/css/dracoio.css">
+</head>
+
+<body class="{{ .Type }}{{ if .IsHome }} home{{ end }}">
+  <div id="wrapper">
+    {{ partial "github-corner.html" .}}
+    {{ partial "topnav" . }}
+
+    <div id="main"{{ if not .IsHome }} class="d-flex flex-row"{{ end}}>
+      {{ if not .IsHome }}<div id="sidebar" class="sidenav{{ if not (isset .Params "sidebar") }} no-sidebar{{ end }}">{{ if isset .Params "sidebar" }}{{ partial "sidenav" . }}{{ end }}</div>{{ end }}
+      <div class="main-content">
+        {{ block "main" . }}{{ end }}
+      </div>
+      {{ if .Params.toc }}
+        <div class="toc hidden-md-down">
+          {{ .TableOfContents }}
+        </div>
+      {{ else }}
+        <div class="no-toc hidden-md-down"></div>
+      {{ end}}
+    </div>
+
+    {{ partial "footer" . }}
+  </div>
+
+  <script src="/js/dracoio.js"></script>
+  {{ block "pagejs" . }}{{ end }}
+</body>
+</html>

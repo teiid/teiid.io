@@ -1,0 +1,116 @@
+{{ define "title" }}{{ .Site.Title}}{{ end }}
+
+{{ define "pagejs" }}
+<script src="/js/connectingDots.js"></script> 
+{{ end }}
+
+{{ define "main" }}
+
+<div class="jumbotron jumbotron-fluid text-center text-white mb-0">
+   <canvas id="particles"></canvas> 
+	<div class="container">
+    <h1 class="display-4"><img class="screenshot" style="padding:1rem" src="images/teiid_181x80.png" /> <span class="title">Introducing </span> Teiid <span class="title"> in the cloud</span></h1>
+    <p class="lead">Bring open source flexibility and security to your data services in the cloud.</p>
+    <a class="btn btn-get-started" href="/quickstarts" role="button"><strong>Get Started</strong></a> 
+    <a class="btn btn-get-started" href="/about" role="button"><strong>Learn</strong></a>
+  </div>
+</div>
+<!-- <div class="mailing-list text-center">
+  <div class="container">
+    <p class="lead">
+      We're hard at work building the platform's community site. Check back for updates on progress, or
+      sign up to our mailing list to get the latest news.
+      <a href="http://teiid.jboss.org/mailinglists/" rel="nofollow" 
+         target="_blank" class="btn btn-primary text-capitalize teiid-white">
+      	 Subscribe to the mailing list
+      </a>
+    </p>
+  </div>
+</div> -->
+ 
+<div class="full-width-feature text-center mt-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 push-md-6 mb-2">
+        <div class="row feature-images">
+          <div class="col col-md-12 pull-md-1 mb-md-2">
+            <a href="https://twitter.com/"><img style="height: 3rem" src="images/twitter-logo.svg" alt="Twitter"/></a>
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+            <a href="https://facebook.com/"><img style="height: 3rem" src="images/facebook-logo.svg" alt="Facebook"/></a>
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+            <a href="https://linkedin.com/"><img style="height: 3rem" src="images/linkedin-logo.svg" alt="LinkedIn"/></a>
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+            <a href="https://github.com/"><img style="height: 3rem" src="images/github-logo.svg" alt="GitHub"/></a>
+            <i class="fa fa-arrow-right ml-1" aria-hidden="true"></i>
+            <a href="https://google.com/"><img style="height: 3rem" src="images/google-logo.svg" alt="Google"/></a>
+            <i class="fa fa-arrow-right ml-1" aria-hidden="true"></i>
+            <a href="https://salesforce.com/"><img style="height: 3rem" src="images/salesforce-logo.svg" alt="Salesforce"/></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pull-md-6">
+        <h4>
+          <img style="padding-right:6px" src="images/beetle_1.png" />Build services via 
+          <a href="../tools/beetle_studio" role="button"><strong>Beetle Studio</strong></a> 
+        </h4>
+        <p class="lead">
+        
+          <strong>Beetle Studio</strong> can manage your cloud data services based on proven Teiid technologies.... blah, blah, blah.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="full-width-feature text-center mt-4 mt-md-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-2">
+        <img class="screenshot" src="images/bs-das-summary.png" alt="Data Services List"/>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <h4>
+          <img style="padding-right:6px" src="images/beetle_1.png" />Visual data service design tool
+        </h4>
+        <p class="lead">
+          <strong>Beetle Studio</strong> allows literally anyone to connect to data sources, graphically create data services and access them via your
+          critical services and applications.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="full-width-feature text-center mt-4 mt-md-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 push-md-6 mb-2">
+        <img class="screenshot" src="images/bs-das-wizard.png" alt="Data Service Wizard"/>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pull-md-6">
+        <h4>
+          <img style="padding:1rem" src="images/beetle_1.png" />Your data is only one step away
+        </h4>
+        <p class="lead">
+          Beetle Studio lets you connect to, view, combine and secure your data.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="full-width-feature text-center mt-4 mb-4 mt-md-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-2">
+        <a href="http://openshift.org/"><img style="height: 10rem" src="images/openshift-logo.svg" alt="OpenShift"/></a>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <h4>
+          Flexible Deployments on OpenShift Origins
+        </h4>
+        <p class="lead">
+          Don’t get tied into a single technology or platform. With Beetle Studio, you have choices. Access it in the cloud or on-premise, with OpenShift Origins.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
