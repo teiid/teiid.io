@@ -15,6 +15,6 @@ after_success: |
     mv public/* .
     rm -rf public master*
     git add -f --ignore-errors --all
-    git -c user.name='travis' -c user.email='travis' commit -m init
+    git -c user.name='blafond' -c user.email='blafond' commit -m init
     git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG gh-pages
     fi
