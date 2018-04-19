@@ -8,10 +8,10 @@ install:
 
 script:
     - hugo
-    - gulp build
 
 after_success: |
     if [ -n "$GITHUB_API_KEY" ]; then
+    gulp build
     git checkout --orphan gh-pages
     git rm -rf .
     mv public/* .
