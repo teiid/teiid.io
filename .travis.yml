@@ -11,13 +11,14 @@ script:
 
 after_success: |
     if [ -n "$GITHUB_API_KEY" ]; then
-     ./publish-to-gh-pages.sh
-#    gulp build
-#    git checkout --orphan gh-pages
-#    git rm -rf .
-#    mv public/* .
-#    rm -rf public master*
-#   git add -f --ignore-errors --all
-#    git -c user.name='blafond' -c user.email='blafond' commit -m init
-#    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG gh-pages
+	rm -rf public
+	mkdir public
+	git worktree prune
+	rm -rf .git/worktrees/public/
+	rm -rf public/*
+	gulp build
+	cd public
+	git add -f --ignore-errors --all
+    git -c user.name='blafond' -c user.email='blafond' commit -m init
+    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG gh-pages
     fi
