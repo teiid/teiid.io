@@ -28,7 +28,7 @@ A Transaltor along with its Resource Adaptor is always must be configured on a *
 
 A Translator is defined by using one of the default pre-built ones, or you can override the default properties of the pre-built ones to define your own. The tooling will provide mechanisms to define override translators.
 
-Check out [**Developer's Guide**](https://teiid.gitbooks.io/documents/content/dev/Developers_Guide.html) on how to create a custom Translator that works with your Resource Adaptor.
+Check out [**Developer's Guide**](http://teiid.github.io/teiid-documents/master/content/dev/Developers_Guide.html) on how to create a custom Translator that works with your Resource Adaptor.
 
 ### Resouce Adaptors
 
@@ -38,7 +38,7 @@ However, if your source needs participate in distributed XA transactions, then t
 
 A instance of resouce adaptor is created by defining a "-ds.xml" file in the JBoss AS. This is same operation that is used to create Data Sources in JBoss AS.
 
-Check out the [**Developer's Guide**](https://teiid.gitbooks.io/documents/content/dev/Developers_Guide.html)  on how to create a custom Resource Adaptor.
+Check out the [**Developer's Guide**](http://teiid.github.io/teiid-documents/master/content/dev/Developers_Guide.html)  on how to create a custom Resource Adaptor.
 
 ### Translator Capabilities
 

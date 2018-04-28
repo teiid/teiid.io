@@ -56,8 +56,8 @@ manage Teiid along with JBoss AS.
   4.  View current system properties
   5.  more...
 
-Look at the [Teiid Console](https://teiid.gitbooks.io/documents/content/admin/Teiid_Console.html) section of 
-the [Admin Guide](https://teiid.gitbooks.io/documents/content/v/10.1.x/admin/Administrators_Guide.html) document for 
+Look at the [Teiid Console](http://teiid.github.io/teiid-documents/master/content/admin/Teiid_Console.html) section of 
+the [Admin Guide](http://teiid.github.io/teiid-documents/10.1.x/content/admin/Administrators_Guide.html) document for 
 installation and descriptions of all the features it supports.
 
 <div>
@@ -72,5 +72,5 @@ functions on a Teiid Server from a command line shell, GUI shell or a script fil
 with its tooling to allow easily editable scripting. 
 
 If you would like to know more about the tool and how it can be used please look at the
- [AdminShell](https://teiid.gitbooks.io/documents/content/v/10.1.x/admin/AdminShell.html) section of the
-  [Admin Guide](https://teiid.gitbooks.io/documents/content/v/10.1.x/admin/Administrators_Guide.html).
+ [AdminShell](http://teiid.github.io/teiid-documents/10.1.x/content/admin/AdminShell.html) section of the
+  [Admin Guide](http://teiid.github.io/teiid-documents/10.1.x/content/admin/Administrators_Guide.html).
