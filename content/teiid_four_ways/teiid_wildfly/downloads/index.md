@@ -93,7 +93,7 @@ Docker images of the combined WildFly/Teiid/Console runtime are available at [Do
 
 ### Installation
 
-Please consult the respective Migration Guides [**from 8.x to 9.x**](https://teiid.gitbooks.io/documents/content/admin/Migration_Guide_From_Teiid_8.x.html) and [**from 9.x to 10.x.**](https://teiid.gitbooks.io/documents/content/admin/Migration_Guide_From_Teiid_9.x.html)
+Please consult the respective Migration Guides [**from 8.x to 9.x**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_8.x.html) and [**from 9.x to 10.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_9.x.html)
 
 Teiid Requires:
 
