@@ -13,27 +13,48 @@ toc: true
 weight: 20
 ---
 
-**Virtualization Quickstart** > [Set-up](./setup) > [Define a Data Service](./define-data-service) > [Access Data Service](./access-data-service)
+**Virtualization Quickstart** > [Setup](./setup) > [Define a Data Service](./define-data-service) > [Access Data Service](./access-data-service)
 
-**This "Teiid in the Cloud" quickstart will lead you through virtualization of a data service**
+**This "Teiid in the Cloud" quickstart demonstrates the virtualization of a data service**
 
-**Goal**: I have a database instance that I want to expose as OData - let's show that in under 5 minutes.
+**Goal**: A database instance exposed as OData.
 
-## [Set-up](./setup)
-- install and set-up a running mini-shift instance containing the following services
-  - Beetle Studio + Teiid Runtime + Wildfly server
-  - PostgresSQL DB data service
-  - MySQL DB data service
-  - Superset service
-  
-## [Define a Data Service](./define-data-service)
-- Open Beetle Studio
-  - connect to MySQL database
-  - create a view joining some of your data
-  - test your data
-  - publish your data service
-  - copy the URL provided for the OData route.
-  
-## [Access Your Data Service](./access-data-service)
-- Open new browser with the copied OData route URL
-  - execute example OData queries and see results
+<div>
+  <a class="qstartblock" href="./setup">
+    Setup
+    <div class="qstartblock-content">
+    <ul>
+      <li>Install minishift</li>
+      <li>Configure minishift with the following services</li>
+      <ul>
+        <li>PostgresSQL DB data service</li>
+        <li>Beetle Studio / Teiid Runtime / Wildfly server</li>
+      </ul>
+    </ul>
+    </div>
+  </a>
+</div>
+
+<div>
+  <a class="qstartblock" href="./define-data-service">
+    Define a Data Service
+    <div class="qstartblock-content">
+    <ul>
+      <li>Create a connection to the DB data service</li>
+      <li>Create a virtualization of the connection</li>
+      <li>Publish the virtualization</li>
+    </ul>
+    </div>
+  </a>
+</div>
+
+<div>
+  <a class="qstartblock" href="./access-data-service">
+    Access the Data Service
+    <div class="qstartblock-content">
+    <ul>
+      <li>Execute example OData queries and see results</li>
+    </ul>
+    </div>
+  </a>
+</div>

@@ -1,0 +1,47 @@
+@import './bootstrap/_variables';
+@import 'colors';
+
+////////////////////////////////////////////////////////////////////////////////
+// Quickstarts Customisation
+////////////////////////////////////////////////////////////////////////////////
+
+.qstartblock {
+  float:left;
+  background-color:#0088ce;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  width:75%;
+  padding: 1em;
+  transition: color 0.5s ease,background 0.5s ease,border-color 0.5s ease;
+  margin-bottom: 2em;
+  font-size: $font-size-h2;
+}
+
+.qstartblock:hover {
+  background-color:#00006c;
+  color: white;
+  text-decoration: none;
+}
+
+.qstartblock:focus {
+  color: white;
+  text-decoration: none;
+}
+
+.qstartblock-content {
+  text-align: left;
+  font-size: small;
+  margin-top: 0.2em;
+}
+
+.thumbnail-video {
+  margin-bottom: 3em;
+}
+
+.thumbnail-video #caption {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-size: small;
+}

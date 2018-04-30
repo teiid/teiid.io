@@ -13,9 +13,9 @@ toc: true
 weight: 20
 ---
 
-[Integration Quickstart](..) > **Set-up** > [Define a Data Service](../define-data-service) > [Access Data Service](../access-data-service)
+[Integration Quickstart](..) > **Setup** > [Define a Data Service](../define-data-service) > [Access Data Service](../access-data-service)
 
-### Set-up
+### Setup
 
 All you need is a [Minishift](https://www.openshift.org/minishift/) installation which is available for all the  major operating systems (Linux, OS X and Windows).
 

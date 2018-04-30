@@ -12,11 +12,21 @@ title: "Define a Data Service"
 toc: true
 weight: 20
 ---
-[Virtualization Quickstart](..) > [Set-up](../setup) > **Define a Data Service** > [Access Data Service](../access-data-service)
+[Virtualization Quickstart](..) > [Setup](../setup) > **Define a Data Service** > [Access Data Service](../access-data-service)
 
-- Open Beetle Studio
-  - connect to MySQL database
-  - create a view joining some of your data
-  - test your data
-  - publish your data service
-  - copy the URL provided for the OData route.
+##### Pre-Requisites
+* [Setup](../setup)
+
+##### Define a Data Service
+Uses beetle-studio to:
+
+1. Create a connection to the Openshift US-States database service;
+2. Create a virtualization using the connection adding filters if required;
+3. Publish the virtualization to Openshift.
+
+<div class="thumbnail-video">
+  <video width="600" height="400" poster="/videos/quickstart/virtualization/_thb_create-publish-virt.png" controls>
+    <source src="/videos/quickstart/virtualization/create-publish-virt.webm" type='video/webm'>
+  </video>
+  <div id="caption">Video creating a new virtualization</div>
+</div>

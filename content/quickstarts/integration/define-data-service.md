@@ -12,7 +12,7 @@ title: "Define a Data Service"
 toc: true
 weight: 20
 ---
-[Integration Quickstart](..) > [Set-up](../setup) > **Define a Data Service** > [Access Data Service](../access-data-service)
+[Integration Quickstart](..) > [Setup](../setup) > **Define a Data Service** > [Access Data Service](../access-data-service)
 
 - Open Beetle Studio
   - connect to MySQL database

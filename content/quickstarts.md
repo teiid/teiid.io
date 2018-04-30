@@ -19,11 +19,11 @@ toc: true
 
 ## [Virtualization Quickstart](./virtualization)
 
-- Exposing single database as an OData service in less than 5 minutes
+- Exposing single database as an OData service
 
 <div>
-<br>
-<img  width="603" height="190" src="../images/virtualization.png" frameborder="2" hspace="40" usemap="#teiidmap"></img>
+  <br/>
+  <img  width="603" height="190" src="../images/virtualization.png" frameborder="2" hspace="40"></img>
 </div>
 
 ---
@@ -31,4 +31,3 @@ toc: true
 ## [Integration Quickstart](./integration)
 
 - Combine 2 database instances and report as single source in under 5 minutes
-
