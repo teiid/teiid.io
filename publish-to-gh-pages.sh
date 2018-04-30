@@ -18,7 +18,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-gulp build
+gulp build || { echo "Error: gulp failed to build" && exit 1; }
 
 cd public
 if [[ -n "$(git status -s)" ]] ; then
