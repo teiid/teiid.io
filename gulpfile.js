@@ -51,12 +51,16 @@ gulp.task('watch', gulp.parallel(gulp.series('fonts', 'fonts:watch'), gulp.serie
 gulp.task('hugo:serve', function (cb) {
   var exec = require('child_process').exec;
 
-  exec('hugo serve', function (err, stdout, stderr) {
+  var hugoServe = exec('hugo serve', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     cb(err);
   });
+
+  hugoServe.stdout.pipe(process.stdout);
+  hugoServe.stderr.pipe(process.stderr);
 });
+
 gulp.task('hugo', function (cb) {
   var exec = require('child_process').exec;
 
