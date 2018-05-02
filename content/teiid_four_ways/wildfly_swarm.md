@@ -15,7 +15,7 @@ weight: 20
 [**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; **Wildfly Swarm** &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp; | &nbsp;&nbsp; [Embedded](../embedded)
 
 <div>
-<img width="583" height="487" src="../../images/teiid-wildfly-swarm.png" frameborder="2" hspace="40" ></img>
+<img width="583" height="487" src="/images/teiid-wildfly-swarm.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---

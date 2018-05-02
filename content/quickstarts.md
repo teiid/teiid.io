@@ -23,7 +23,7 @@ toc: true
 
 <div>
   <br/>
-  <img  width="603" height="190" src="../images/virtualization.png" frameborder="2" hspace="40"></img>
+  <img  width="603" height="190" src="/images/virtualization.png" frameborder="2" hspace="40"></img>
 </div>
 
 ---

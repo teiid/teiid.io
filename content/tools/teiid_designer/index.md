@@ -17,7 +17,7 @@ weight: 100
 and testing your VDBs using the Teiid runtime framework.
 
 <div>
-<img width="600" height="363" src="../../../images/teiid-designer-perspective.png" frameborder="2" hspace="40" vspace="20" ></img>
+<img width="600" height="363" src="/images/teiid-designer-perspective.png" frameborder="2" hspace="40" vspace="20" ></img>
 </div>
 
 ---

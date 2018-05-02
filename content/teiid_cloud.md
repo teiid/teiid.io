@@ -18,7 +18,7 @@ With Teiid Cloud you can...
 
 <div>
 <br>
-<img  width="540" height="314" src="../images/teiid-cloud.png" frameborder="2" hspace="40" usemap="#teiidmap"></img>
+<img  width="540" height="314" src="/images/teiid-cloud.png" frameborder="2" hspace="40" usemap="#teiidmap"></img>
 
 <map name="teiidmap">
   <area shape="rect" coords="12,12,170,60" alt="Computer" href="../teiid_four_ways/microservices">
