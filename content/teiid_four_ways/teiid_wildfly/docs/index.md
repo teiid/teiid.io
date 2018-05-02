@@ -23,13 +23,12 @@ Teiid documentation provides introductory material, manuals, and guides covering
 ### Community Resources
 
 Many "How To" and other documents are posted as WIKI pages and articles on the [Teiid Community](https://www.jboss.org/community/docs/DOC-12956) and on the [Teiid Blog.](http://teiid.blogspot.com/)
-
 Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 ### Version 10 Releases
 
-- #### **Full book set** - Version [10.1](http://teiid.github.io/teiid-documents/10.2.x/content) 
-| [10.1](http://teiid.github.io/teiid-documents/10.1.x/content)  
+- #### **Full book set** - Version [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
+| [10.1](http://teiid.github.io/teiid-documents/10.1.x/content) 
 | [10.0](http://teiid.github.io/teiid-documents/10.0.x/content)
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
 
@@ -39,7 +38,7 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
   - Version 10.0+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
 
 - #### **API Docs**
-  - Version [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
+  - Version [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
 
 ### Version 9 Releases
 
