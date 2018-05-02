@@ -1,8 +1,8 @@
 {
-  "name": "community-website",
+  "name": "teiid.io",
   "version": "1.0.0",
   "private": true,
-  "repository": "git@github.com:teiid/community-website",
+  "repository": "git@github.com:teiid/teiid.io",
   "contributors": [
     {
       "name": "Jimmi Dyson",

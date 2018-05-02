@@ -23,7 +23,7 @@ Documentation is in various places in our repositories. We are committed to stre
 
 Each page on the website has a `Refine this page` link in the left sidenav. Clicking this will take you through to the GitHub UI to edit the page, commit, and send a pull request. Simples!
 
-For more extensive changes, you can follow the [`Submitting a Pull Request`]({{< relref "#submitting-a-pull-request" >}}) details below for the https://github.com/teiid/community-website repository.
+For more extensive changes, you can follow the [`Submitting a Pull Request`]({{< relref "#submitting-a-pull-request" >}}) details below for the https://github.com/teiid/teiid.io repository.
 
 ### Project documentation
 
@@ -60,17 +60,17 @@ layer of structure of how repositories can relate to each other.
 Once you have successfully forked your repository, you will need to clone it locally to your machine:
 
 ```bash
-$ git clone git@github.com:username/community-website.git
+$ git clone git@github.com:<username>/teiid.io.git
 ```
 
-This will clone your fork to your current path in a directory named `community-website`.
+This will clone your fork to your current path in a directory named `teiid.io`.
 
 You should also set up the `upstream` repository.  This will allow you to take changes from the "master" repository
 and merge them into your local clone and then push them to your GitHub fork:
 
 ```bash
-$ cd community-website
-$ git remote add upstream git@github.com:teiid/community-website.git
+$ cd teiid.io
+$ git remote add upstream git@github.com:teiid/teiid.io.git
 $ git fetch upstream
 ```
 
@@ -182,10 +182,10 @@ Minishift and run Maven build with `-Ddeploy` property set. This will trigger `f
 ```bash
 $ eval $(minishift docker-env)
 $ ./mvnw -Ddeploy
-$ oc delete pod -l component=community-website-rest
+$ oc delete pod -l component=teiid.io-rest
 ```
 
-After the build finishes delete the `community-website-rest` pod
+After the build finishes delete the `teiid.io-rest` pod
 
 [help documentation]: http://help.github.com/send-pull-requests
 [bug database]: http://bugs.dojotoolkit.org/

@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: teiid/community-website-image:latest
+      - image: teiid/teiid.io:latest
 
     working_directory: /workspace
 
@@ -46,7 +46,7 @@ jobs:
             git config --global user.name "${GIT_NAME}"
 
             if [[ "${CIRCLE_PROJECT_USERNAME}" == "teiid" ]]; then
-              echo community-website > static/CNAME
+              echo teiid.io > static/CNAME
             fi
 
             ./publish-to-gh-pages.sh

@@ -29,7 +29,7 @@ To set up on your own fork for the first time:
 3. Run the following:
 
 ```
-$ cd community-website
+$ cd teiid.io
 $ git checkout --orphan gh-pages
 $ git rm -rf .
 $ rm '.gitignore'
@@ -39,7 +39,7 @@ $ git checkout master
 $ ./publish-to-gh-pages.sh
 ```
 
-Your published fork should now be running at https://<USERNAME>.github.io/community-website/.
+Your published fork should now be running at https://<USERNAME>.github.io/teiid.io/.
 
 ### Publishing Each Time After Setup
 From the `master` branch, or any branch other than `gh-pages`, first update your local fork:
