@@ -45,7 +45,7 @@
     </li>
   {{end}}
   {{ if .IsPage }}
-  {{ $File := .File }} {{with $File.Path }}<li><a href="https://github.com/teiid/community-website/edit/draco/content/{{ $File.Dir }}{{ $File.LogicalName }}" target="blank"><i class='fa fa-fw fa-edit'></i> Refine this Page</a></li>{{end}}
+  {{ $File := .File }} {{with $File.Path }}<li><a href="https://github.com/teiid/teiid.io/edit/master/content/{{ $File.Dir }}{{ $File.LogicalName }}" target="blank"><i class='fa fa-fw fa-edit'></i> Refine this Page</a></li>{{end}}
   {{ end }}
   </ul>
 </aside>

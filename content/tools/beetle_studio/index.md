@@ -19,5 +19,5 @@ and testing your data services.
 Connect to your sources, define the views and the source data you want to access in your applications and create data services
 
 <div>
-<img width="600" height="363" src="../../../images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
+<img width="600" height="363" src="/images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
 </div>

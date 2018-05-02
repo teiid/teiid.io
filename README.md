@@ -1,4 +1,4 @@
-# community-website website
+# teiid.io website
 
 ## Building
 
@@ -12,7 +12,7 @@
 * Run `yarn`
 
 ### Previewing
-Run `gulp` and open your browser at http://localhost:1313.
+Run `gulp` and open your browser at http://localhost:1313/teiid.io.
 
 ### Building
 Run `gulp build` to build site into `public` directory.
@@ -22,12 +22,14 @@ Run `gulp build` to build site into `public` directory.
 To set up on your own fork for the first time:
 
 1. Fork this repo.
-2. Clone to your machine: `$ git clone git@github.com:<USERNAME>/community-website.git`
+2. Clone to your machine: `$ git clone git@github.com:<USERNAME>/teiid.io.git`
+  - ( or `$git clone https://github.com/<USERNAME>/teiid.io.git`
+  
 2. Make sure that your GitHub repo settings for the branch and directory of your GitHub pages is set to `master/gh-pages`.
 3. Run the following:
 
 ```
-$ cd community-website
+$ cd teiid.io
 $ git checkout --orphan gh-pages
 $ git rm -rf .
 $ rm '.gitignore'
@@ -37,7 +39,7 @@ $ git checkout master
 $ ./publish-to-gh-pages.sh
 ```
 
-Your published fork should now be running at https://<USERNAME>.github.io/community-website/.
+Your published fork should now be running at https://<USERNAME>.github.io/teiid.io/.
 
 ### Publishing Each Time After Setup
 From the `master` branch, or any branch other than `gh-pages`, first update your local fork:

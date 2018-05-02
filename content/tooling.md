@@ -17,18 +17,18 @@ The Teiid project includes a few tools to help you develop and manage various ar
 ## [Beetle Studio](/tools/beetle_studio)
 
 <div>
-<img width="600" height="363" src="../images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
+<img width="600" height="363" src="/images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---
 
 ## [Teiid Designer](/tools/teiid_designer)
 
-*Teiid Designer** is a visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
+**Teiid Designer** is a visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
 and testing your VDBs using the Teiid runtime framework.
 
 <div>
-<img width="600" height="363" src="../images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
+<img width="600" height="363" src="/images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---

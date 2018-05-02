@@ -1,8 +1,8 @@
 name = "Draco"
 license = "Apache-2.0"
-licenselink = "https://github.com/teiid/community-website/blob/master/LICENSE.md"
+licenselink = "https://github.com/teiid/teiid.io/blob/master/LICENSE.md"
 description = "A flexible, customizable, open source platform that provides core integration capabilities as a service."
-homepage = "https://github.com/teiid/community-website"
+homepage = "https://github.com/teiid/teiid.io"
 tags = []
 features = []
 min_version = "0.20.6"
