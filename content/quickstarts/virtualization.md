@@ -13,7 +13,7 @@ toc: true
 weight: 20
 ---
 
-**Virtualization Quickstart** > [Setup](./setup) > [Define a Data Service](./define-data-service) > [Access Data Service](./access-data-service)
+[**Quickstarts**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Virtualization Quickstart**  &nbsp;&nbsp; >  &nbsp;&nbsp; [Setup](./setup) &nbsp;&nbsp; >  &nbsp;&nbsp; [Define a Data Service](./define-data-service)  &nbsp;&nbsp; >  &nbsp;&nbsp; [Access Data Service](./access-data-service)
 
 **This "Teiid in the Cloud" quickstart demonstrates the virtualization of a data service**
 

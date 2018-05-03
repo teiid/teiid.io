@@ -12,8 +12,8 @@ toc: true
 
 With Teiid Cloud you can...
 
- - Define and utilize simple cloud microservices that provide access to specific data sets from one or more sources
- - Define simple microservices from within your application and expose them in the cloud via your application
+ - **Define and utilize simple cloud microservices that provide access to specific data sets from one or more sources**
+ - **Access your microservices by binding with your cloud application**
 
 
 <div>
@@ -31,7 +31,7 @@ With Teiid Cloud you can...
 
 ## Data Virtualization Services
 
-Teiid is all about virtualizing your data to provide an abstraction layer to facilitate
+**Teiid is all [about](about) virtualizing your data to provide an [abstraction layer](about/basics/vdbs) to facilitate .  .  . .**
 
  - performance optimization
  - micro data services

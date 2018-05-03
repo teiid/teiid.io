@@ -13,7 +13,7 @@ toc: true
 weight: 20
 ---
 
-[Virtualization Quickstart](..) > **Setup** > [Define a Data Service](../define-data-service) > [Access Data Service](../access-data-service)
+[**Quickstarts**](../..) &nbsp;&nbsp; < &nbsp;&nbsp; [Virtualization Quickstart](..)  &nbsp;&nbsp; >  &nbsp;&nbsp; **Setup**  &nbsp;&nbsp; >  &nbsp;&nbsp; [Define a Data Service](../define-data-service)  &nbsp;&nbsp; >  &nbsp;&nbsp; [Access Data Service](../access-data-service)
 
 ### Setup
 

@@ -12,7 +12,8 @@ title: "Define a Data Service"
 toc: true
 weight: 20
 ---
-[Integration Quickstart](..) > [Setup](../setup) > **Define a Data Service** > [Access Data Service](../access-data-service)
+[**Quickstarts**](../..) &nbsp;&nbsp; < &nbsp;&nbsp; [Integration Quickstart](..)  &nbsp;&nbsp; >  &nbsp;&nbsp; [Setup](../setup)  &nbsp;&nbsp; >  &nbsp;&nbsp; **Define a Data Service**  &nbsp;&nbsp; >  &nbsp;&nbsp; [Access Data Service](../access-data-service)
+
 
 - Open Beetle Studio
   - connect to MySQL database
@@ -20,3 +21,7 @@ weight: 20
   - test your data
   - publish your data service
   - copy the URL provided for the OData route.
+  
+<div>
+<strong><font color="red" emphasis="bold">*** This page is a work in progress... Check back later! ***</strong>
+</div>
