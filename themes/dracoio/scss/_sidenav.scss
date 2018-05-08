@@ -5,8 +5,8 @@
 @import 'colors';
 
 .sidenav {
-  color: $brand-primary;
-  background-color: #eee;
+  color: $brand-selection;
+  background-color: $pf-teiid-sidenav-bkgd;
   margin-top: -26px;
   margin-left: 0;
   border-right: 1px solid #d7d7d7;
@@ -68,7 +68,7 @@
 ul.sidebar-menu {
   padding: 0;
   margin: -2px 0 0;
-  background-color: #eeeeee;
+  background-color: $pf-teiid-sidenav-bkgd;
 
   li {
 
@@ -77,7 +77,7 @@ ul.sidebar-menu {
       padding: 0;
 
       li {
-        background: #eeeeee;
+        background: $pf-teiid-sidenav-bkgd;
         margin-bottom: 0;
         margin-left: 0;
         margin-right: 0;
@@ -96,7 +96,7 @@ ul.sidebar-menu {
           color: $pf-black-600;
 
           &:hover {
-            color: $brand-primary;
+            color: $brand-selection;
             transition: all 0.2s ease;
             display: block;
           }
@@ -105,7 +105,7 @@ ul.sidebar-menu {
 
       li.active {
         a {
-          color: $brand-primary;
+          color: $brand-selection;
           transition: all 0.2s ease;
           display: block;
         }
@@ -117,7 +117,7 @@ ul.sidebar-menu {
       padding: 0;
 
       li {
-        background: #eeeeee;
+        background: $pf-teiid-sidenav-bkgd;
         margin-bottom: 0;
         margin-left: 0;
         margin-right: 0;
@@ -136,7 +136,7 @@ ul.sidebar-menu {
           color: $pf-black-600;
 
           &:hover {
-            color: $brand-primary;
+            color: $brand-selection;
             transition: all 0.2s ease;
             display: block;
           }
@@ -145,7 +145,7 @@ ul.sidebar-menu {
 
       li.active {
         a {
-          color: $brand-primary;
+          color: $brand-selection;
           transition: all 0.2s ease;
           display: block;
         }
@@ -171,26 +171,26 @@ ul.sidebar-menu {
       white-space: nowrap;
 
       &:hover {
-        background: #eeeeee;
-        color: $brand-primary;
+        background: $pf-teiid-sidenav-bkgd;
+        color: $brand-selection;
         display: block;
         transition: all 0.2s ease;
         border-bottom: 1px solid $brand-secondary;
 
         i {
-          color: $brand-primary;
+          color: $brand-selection;
         }
       }
 
       &:focus {
-        background: #eeeeee;
-        color: $brand-primary;
+        background: $pf-teiid-sidenav-bkgd;
+        color: $brand-selection;
         display: block;
         transition: all 0.2s ease;
         border-bottom: 1px solid $brand-secondary;
 
         i {
-          color: $brand-primary;
+          color: $brand-selection;
         }
       }
 
@@ -217,13 +217,13 @@ ul.sidebar-menu {
 
   li.active {
     a {
-      background: #eeeeee;
-      color: $brand-primary;
+      background: $pf-teiid-sidenav-bkgd;
+      color: $brand-active;
       display: block;
       transition: all 0.2s ease;
 
       i {
-        color: $brand-primary;
+        color: $brand-active;
       }
 
     }
@@ -231,7 +231,7 @@ ul.sidebar-menu {
   .sub-menu {
     li.active {
       a {
-        border-bottom: 1px solid $brand-secondary;
+        border-bottom: 1px solid $brand-active;
       }
     }
   }

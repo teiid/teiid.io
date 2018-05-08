@@ -17,7 +17,8 @@
             lineWidth = o.lineWidth || 2,
             distance = o.distance || 500,
             randomSize = o.randomSize || 0.5,
-            bgColor = o.bgColor || '#0088CE';
+            bgColor = o.bgColor || '#339966'; 
+
 
             function setCanvasSize() {
                 w = canvas.width = canvas.parentNode.offsetWidth;
@@ -54,7 +55,7 @@
                 ctx.fillRect(0, 0, w, h);
 
                 ctx.lineWidth = lineWidth;
-                ctx.fillStyle = 'hsl(190,55%,54%)';
+                ctx.fillStyle = 'hsl(156, 100%, 25%)';
 
                 var screenDelta = Math.sqrt(w + h) / 100;
                 var useDistance = distance * screenDelta;
@@ -70,7 +71,7 @@
                         if (distance <= useDistance) {
                             var alpha = 1.0 - (distance / useDistance);
 
-                            ctx.strokeStyle = 'hsla(190,65%,10%, ' + alpha + ')';
+                            ctx.strokeStyle = 'hsla(156, 100%, 40%, ' + alpha + ')';
 
                             ctx.beginPath();
                             ctx.moveTo(point.x, point.y);
@@ -166,13 +167,12 @@
           // Size of particles in px
           size:               4,
           // Connection width in px
-          lineWidth:          2,
+          lineWidth:          1,
           // Max distances between particles where a connection should be drawn
-          distance:           400,
+          distance:           550,
           // Bluriness
-          randomSize:         2.5,
-          // Background color
-          bgColor:           'rgba(0,120,255,0.7)' //'hsla(190,60%,45%, 0.1)'
+          randomSize:         .5,
+          bgColor:           'rgba(51, 153, 102, 51,0.7)' //'hsla(120, 60%, 50%, 0.1)'
       }
     );
 })();

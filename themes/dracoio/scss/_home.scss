@@ -71,13 +71,11 @@ body.home {
     }
 
     .btn-get-started {
-//      @include button-variant($pf-cyan-100, $pf-blue-500, $pf-blue-300);
-//
-      @include button-variant(#fffd76, #464dd1, #0316ec);
+      @include button-variant($pf-teiid-green-400, $pf-teiid-green-100, $pf-teiid-green-300);
       @include hover {
         color: $brand-info;
-        background-color: $brand-primary;
-        border-color: $brand-info;
+        background-color: $pf-teiid-green-200;
+        border-color: $pf-teiid-green-100;
       }
     }
   }
