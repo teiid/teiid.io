@@ -25,7 +25,7 @@
   <link rel="stylesheet" href="/css/dracoio.css">
 </head>
 
-<body class="{{ .Type }}{{ if .IsHome }} home{{ end }}">
+<body class="{{ if .IsHome }} home{{ end }}">
   <div id="wrapper">
     {{ partial "github-corner.html" .}}
     {{ partial "topnav" . }}

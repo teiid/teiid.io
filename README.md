@@ -1,7 +1,23 @@
 # teiid.io website
 
-## Building
+## Repo Structure
 
+The teiid.io website repo contains 3 branches.
+
+
+* **dev**
+  * development branch used to stage the latest yet-to-be-released content
+  * commits/merges will trigger a Netlify build (~ 5 minutes) that will generate and publish web content
+  * view staging website at: https://teiiddev.netlify.com/
+* **master**
+  * contains the approved/latest site source code/markdown
+  * when sufficient new content is added to **dev**, or critical fixes or additions are applied, a PR will be created and merged to the **master** branch.
+  * 
+* **gh-pages**
+  * changes to the **master** branch will trigger a [.travis.yml](https://github.com/teiid/teiid.io/blob/master/.travis.yml)  build to generate content, merge to **gh-pages** and published to https://teiid.github.io/teiid.io/
+
+
+## Building Locally
 ### Prerequisites
 * Install NodeJS
 * Install `yarn`: `curl -o- -L https://yarnpkg.com/install.sh | bash`
