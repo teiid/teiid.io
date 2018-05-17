@@ -24,9 +24,9 @@ The easiest way to get started with the code is to [create your own **fork**](ht
  of this repository, and then clone your fork:
 
 ```bash
-  $ git clone git@github.com:teiid/beetle-studio.git
-  $ cd beetle-studio
-  $ git remote add upstream git@github.com:teiid/beetle-studio.git
+  $ git clone git@github.com:<github-username>/teiid.io.git
+  $ cd teiid.io
+  $ git remote add upstream git@github.com:<github-username>/teiid.io.git
 ```
 
 At any time, you can pull changes from the upstream and merge them onto your **dev**:
