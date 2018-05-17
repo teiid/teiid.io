@@ -20,3 +20,4 @@ Here are some important links:
 
 * **Source code:** [GitHub organization](https://github.com/teiid)
 * **IRC:** [#teiid on freenode](irc://freenode.net/teiid)
+* **Gitter:** [Teiid](https://gitter.im/teiid)
