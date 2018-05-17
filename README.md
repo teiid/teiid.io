@@ -17,6 +17,24 @@ The teiid.io website repo contains 3 branches.
   * changes to the **master** branch will trigger a [.travis.yml](https://github.com/teiid/teiid.io/blob/master/.travis.yml)  build to generate content, merge to **gh-pages** and published to https://teiid.github.io/teiid.io/
 
 
+
+## Get the code
+
+The easiest way to get started with the code is to [create your own **fork**](http://help.github.com/forking/)
+ of this repository, and then clone your fork:
+
+```bash
+  $ git clone git@github.com:teiid/beetle-studio.git
+  $ cd beetle-studio
+  $ git remote add upstream git@github.com:teiid/beetle-studio.git
+```
+
+At any time, you can pull changes from the upstream and merge them onto your **dev**:
+```bash
+  $ git checkout dev       # switches to the 'dev' branch
+  $ git pull upstream dev  # fetches all 'upstream' changes and merges 'upstream/dev' onto your 'dev' branch
+  $ git push origin           # pushes all the updates to your fork, which should be in-sync with 'upstream'
+
 ## Building Locally
 ### Prerequisites
 * Install NodeJS
@@ -27,43 +45,21 @@ The teiid.io website repo contains 3 branches.
 * Install `hugo` (see http://gohugo.io/overview/installing/)
 * Run `yarn`
 
-### Previewing
-Run `gulp` and open your browser at http://localhost:1313/teiid.io.
 
 ### Building
 Run `gulp build` to build site into `public` directory.
 
-## Publishing
+### Previewing
+ - Run `gulp`
+ - Open your browser at **http://localhost:1313/teiid.io.**
 
-To set up on your own fork for the first time:
 
-1. Fork this repo.
-2. Clone to your machine: `$ git clone git@github.com:<USERNAME>/teiid.io.git`
-  - ( or `$git clone https://github.com/<USERNAME>/teiid.io.git`
-  
-2. Make sure that your GitHub repo settings for the branch and directory of your GitHub pages is set to `master/gh-pages`.
-3. Run the following:
+## Promoting your changes
 
-```
-$ cd teiid.io
-$ git checkout --orphan gh-pages
-$ git rm -rf .
-$ rm '.gitignore'
-$ git commit -a -m "Setting up gh-pages branch"
-$ git push origin gh-pages
-$ git checkout master
-$ ./publish-to-gh-pages.sh
-```
+1. Commit your changes to your forked **dev** branch
+2. Submit pull request against the teiid.io **dev** branch.
 
-Your published fork should now be running at https://<USERNAME>.github.io/teiid.io/.
+When your PR is merged, a Netlify build (~ 5 minutes) will generate and publish the web content which you can view on our staging site at : **https://teiiddev.netlify.com/**
 
-### Publishing Each Time After Setup
-From the `master` branch, or any branch other than `gh-pages`, first update your local fork:
+Project leads will periodically merge **dev** content into **master** branch which will move the changes to the publich site at: **https://teiid.github.io/teiid.io/**
 
-```
-$ gulp build && git add -A . && git push
-```
-
-Then publish to GitHub pages with:
-
-`$ ./publish-to-gh-pages.sh`
