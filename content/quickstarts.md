@@ -17,7 +17,7 @@ toc: true
 
 ---
 
-## [Virtualization Quickstart](./virtualization)
+## <img src="/images/datavirt-logo.png"> <img> [Virtualization Quickstart](./virtualization)
 
 - Exposing single database as an OData service
 
@@ -28,6 +28,6 @@ toc: true
 
 ---
 
-## [Integration Quickstart](./integration)
+## <img src="/images/dataintegration-icon.png"> <img> [Integration Quickstart](./integration)
 
 - Combine 2 database instances and report as single source in under 5 minutes
