@@ -30,10 +30,12 @@ The easiest way to get started with the code is to [create your own **fork**](ht
 ```
 
 At any time, you can pull changes from the upstream and merge them onto your **dev**:
+
 ```bash
   $ git checkout dev       # switches to the 'dev' branch
   $ git pull upstream dev  # fetches all 'upstream' changes and merges 'upstream/dev' onto your 'dev' branch
   $ git push origin           # pushes all the updates to your fork, which should be in-sync with 'upstream'
+```
 
 ## Building Locally
 ### Prerequisites
