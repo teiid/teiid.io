@@ -27,7 +27,7 @@ Through abstraction and federation, data is accessed and integrated in real-time
 
 ## [Documents](./docs)
 
-## Latest Release Announcement: 10.3.0 Released on May 21th, 2018 ##
+## Latest Release Announcement: 10.3.1 Released on May 21th, 2018 ##
 Teiid 10.3.1 for Wildfly 11.0.0 is now available. The main features are:
 <ul>
   <li><a href="https://issues.jboss.org/browse/TEIID-5293">TEIID-5293</a> Added implicit partition wise joining in non-multisource scenarios as well.</li>
