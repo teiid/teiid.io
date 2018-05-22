@@ -1,4 +1,4 @@
-baseURL: "https://teiid.github.io/teiid.io/"
+baseURL: "https://teiid.io/"
 languageCode: "en-gb"
 title: "Teiid"
 theme: "dracoio"
