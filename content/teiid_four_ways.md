@@ -31,6 +31,6 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
 ---
 
 ## [Teiid Embedded](./embedded)
-  - A light-weight version of Teiid for use in any Java 7+ JRE application.
+  - A light-weight version of Teiid for use in any Java 8+ JRE application.
   
 ---
