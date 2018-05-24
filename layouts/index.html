@@ -6,15 +6,16 @@
 
 {{ define "main" }}
 
-<div class="jumbotron jumbotron-fluid text-center text-white mb-0">
-   <canvas id="particles"></canvas> 
+<div class="jumbotron jumbotron-fluid text-center text-white mb-0" style="min-height: 10px">
+   <canvas id="particles"></canvas>
 	<div class="container">
-    <h1 class="display-4"><img class="screenshot" style="padding:1rem" src="images/teiid_181x80.png" /> <span class="title">Introducing </span> Teiid <span class="title"> in the cloud</span></h1>
-    <p class="lead">Bring open source flexibility and security to your data services in the cloud.</p>
-    <a class="btn btn-get-started" href="/quickstarts" role="button"><strong>Get Started</strong></a> 
-    <a class="btn btn-get-started" href="/about" role="button"><strong>Learn</strong></a>
-  </div>
+	    <h1 class="display-4"> <span class="title">Introducing</span> Teiid <span class="title"> in the cloud</span></h1>
+	    <p class="lead">Bring open source flexibility and security to your data services.</p>
+	    <a class="btn btn-get-started" href="/quickstarts" role="button"><strong>Get Started</strong></a> 
+	    <a class="btn btn-get-started" href="/about" role="button"><strong>Learn</strong></a>
+  	</div> 
 </div>
+
 <!-- <div class="mailing-list text-center">
   <div class="container">
     <p class="lead">
@@ -27,8 +28,10 @@
     </p>
   </div>
 </div> -->
- 
-<div class="full-width-feature text-center mt-4">
+
+{{ partial "important-info.html" .}}
+
+<div class="full-width-feature text-center" style="background-color: #bee1f4;">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 push-md-6 mb-2">
@@ -61,7 +64,7 @@
     </div>
   </div>
 </div>
-<div class="full-width-feature text-center mt-4 mt-md-5">
+<div class="full-width-feature text-center mt-2 mt-md-5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-2">
@@ -79,7 +82,7 @@
     </div>
   </div>
 </div>
-<div class="full-width-feature text-center mt-4 mt-md-5">
+<div class="full-width-feature text-center mt-2 mt-md-5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 push-md-6 mb-2">
@@ -96,7 +99,7 @@
     </div>
   </div>
 </div>
-<div class="full-width-feature text-center mt-4 mb-4 mt-md-5">
+<div class="full-width-feature text-center mt-2 mt-md-5">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mb-2">
