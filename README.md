@@ -53,7 +53,7 @@ Run `gulp build` to build site into `public` directory.
 
 ### Previewing
  - Run `gulp`
- - Open your browser at **http://localhost:1313/teiid.io.**
+ - Open your browser at **http://localhost:1313/**
 
 
 ## Promoting your changes
