@@ -13,7 +13,7 @@ toc: true
 weight: 100
 ---
 
-**Beetle Studio** is a browser-based visual tool that enables rapid, model-driven definition, integration, management
+![Beetle](/images/beetle_32x26.png?raw=true) **Beetle Studio** is a browser-based visual tool that enables rapid, model-driven definition, integration, management
 and testing your data services.
 
 Connect to your sources, define the views and the source data you want to access in your applications and create data services
