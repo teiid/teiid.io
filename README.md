@@ -65,3 +65,16 @@ When your PR is merged, a Netlify build (~ 5 minutes) will generate and publish 
 
 Project leads will periodically merge **dev** content into **master** branch which will move the changes to the publich site at: **https://teiid.github.io/teiid.io/**
 
+### Blog posts
+
+Blog posts can be added by creating/editing and committing markdown files just like any other source
+
+* On the command line create a new markdown file
+
+```bash
+  $ hugo new blog/post-MM-DD-YY.md
+```
+* This will add a timestamp to the mardkdown and set draft: true (changed to *false* before committing)
+* Edit the file and add your content
+* The build framework will discover the new markdown page and add it to the site as an article
+* Build/preview/commit your changes...

@@ -8,13 +8,14 @@ menu:
     name: "Tools"
     pre: "<i class='fa fa-fw fa-wrench'></i>"
     weight: -240
+toc: true
 ---
 
 The Teiid project includes a few tools to help you develop and manage various artifacts and components.
 
 ---
 
-## [Beetle Studio](/tools/beetle_studio)
+## ![Beetle](/images/beetle_32x26.png?raw=true) [Beetle Studio](/tools/beetle_studio)
 
 <div>
 <img width="600" height="363" src="/images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
@@ -22,7 +23,7 @@ The Teiid project includes a few tools to help you develop and manage various ar
 
 ---
 
-## [Teiid Designer](/tools/teiid_designer)
+## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](/tools/teiid_designer)
 
 **Teiid Designer** is a visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
 and testing your VDBs using the Teiid runtime framework.
