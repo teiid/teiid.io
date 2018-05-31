@@ -27,5 +27,5 @@ min_version = "0.20.6"
     name = "blog"
     weight = -130
     identifier = "blog"
-    url = "http://teiid.blogspot.com/"
+    url = "blog"
 

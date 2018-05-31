@@ -2,7 +2,6 @@
 draft: false
 title: "Blog"
 description: "News and details around the Teiid community."
-sidebar: sidenav
 
 menu:
   sidenav:
@@ -10,9 +9,9 @@ menu:
     pre: "<i class='fa fa-fw fa-comments'></i>"
     weight: -180
   topnav:
-    name: "blogspot"
+    name: "blog"
     weight: -190
+sidebar: sidenav
 ---
 
-
-The [Teiid Blog](http://teiid.blogspot.com/) is on Blogspot:  http://teiid.blogspot.com/
+---
