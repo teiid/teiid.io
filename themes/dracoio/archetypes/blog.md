@@ -6,4 +6,5 @@ draft: false
 menu:
   topnav:
     parent: blog
+sidebar: sidenav
 ---
