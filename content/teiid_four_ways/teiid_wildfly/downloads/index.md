@@ -142,6 +142,8 @@ Follow the [quick start](https://docs.jboss.org/author/display/teiidexamples/Hom
 
 ### **Teiid Designer**
 
+Teiid Designer is optional Eclipse based tooling for creation of VDBs in a modeling environment. Note that Teiid Designer currently fully supports managing VDBs targeted for Teiid 9.0 and earlier, these VDBs should work in any later version of Teiid.
+
 #### Latest Release  11.1.3 Final - May 18th, 2018
 
 *   [**Update Site**](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.3.Final/) -  (See installation instructions at the bottom of this page)
