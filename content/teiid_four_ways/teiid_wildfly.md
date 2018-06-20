@@ -13,7 +13,7 @@ title: "Teiid Wildfly"
 toc: true
 weight: 20
 ---
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Wildfly Swarm](../wildfly_swarm) &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp;  | &nbsp;&nbsp; [Embedded](../embedded)
+[**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp;  | &nbsp;&nbsp; [Embedded](../embedded)
 
 **Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.**
 
