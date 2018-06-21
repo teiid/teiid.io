@@ -13,7 +13,7 @@ toc: true
 weight: 20
 ---
 
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Wildfly Swarm](../wildfly_swarm) &nbsp;&nbsp; | &nbsp;&nbsp; **Microservices** &nbsp;&nbsp; | &nbsp;&nbsp;  [Embedded](../embedded)
+[**Teiid 4 Ways**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; **Microservices** &nbsp;&nbsp; | &nbsp;&nbsp;  [Embedded](../embedded)
 
 <div>
 <img width="583" height="435" src="/images/teiid-spring-boot.png" frameborder="2" hspace="40" ></img>

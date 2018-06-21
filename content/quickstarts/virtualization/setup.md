@@ -46,3 +46,5 @@ The beetle-studio services provide the UI, API and repository for generating new
   </video>
   <div id="caption">Video installing beetle-studio</div>
 </div>
+
+**NOTE:** if you are using minishift 1.18, you should install **admin-user** addon to the minishift (*minishift addon apply admin-user*) and login as admin instead of system:admin due to this issue https://github.com/minishift/minishift/issues/2107

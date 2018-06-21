@@ -22,7 +22,7 @@ With Teiid Cloud you can...
 
 <map name="teiidmap">
   <area shape="rect" coords="12,12,170,60" alt="Computer" href="../teiid_four_ways/microservices">
-  <area shape="rect" coords="12,123,170,167" alt="Phone" href="../teiid_four_ways/wildfly_swarm">
+  <area shape="rect" coords="12,123,170,167" alt="Phone" href="../teiid_four_ways/thorntail">
 </map>
 </div>
 
