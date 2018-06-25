@@ -25,7 +25,7 @@ First it's a whiptailed lizard, but it's much more. Teiid provides a data virtua
 
 <div id="proj_faq">**What is Teiid?**
 
-Teiid is a Java component that can be embedded in your Java application to provide integrated access to multiple data sources through a single uniform API. Teiid is a query engine for joining and unioning data from multiple sources in an optimal manner. Using Teiid, your applications can access information using standard JDBC and SQL, even if that information resides in more than one source or in sources that do not understand JDBC and SQL.
+Teiid is a Java component that provides integrated access to multiple data sources through a single uniform API. Teiid is a query engine for joining and unioning data from multiple sources in an optimal manner. Using Teiid, your applications can access information using standard JDBC and SQL, even if that information resides in more than one source or in sources that do not understand JDBC and SQL.
 
 **Is Teiid a database management system?**
 

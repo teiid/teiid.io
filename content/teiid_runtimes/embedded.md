@@ -6,15 +6,15 @@ menu:
   sidenav:
     name: Embedded
     weight: -260
-    parent: Teiid 4 Ways
+    parent: Teiid Runtimes
 sidebar: sidenav
 title: "Teiid Embedded"
 toc: true
 weight: 20
 ---
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp; | &nbsp;&nbsp; **Embedded**
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../microservices) &nbsp;&nbsp; | &nbsp;&nbsp; **Embedded** 
 
-**Teiid Embedded** is a light-weight version of Teiid for use in any Java 8+ JRE. WildFly nor any application server is not required. This feature is still evolving. Please consult the source examples and even unit tests utilizing the EmbeddedServer for a more complete guide as to its use.
+**Teiid Embedded** is raw Teiid jars for use in any Java 8+ JRE application. WildFly nor any application server is not required. This feature is still evolving and is only for highly custom scenarios. Please consult the source examples and even unit tests utilizing the EmbeddedServer for a more complete guide as to its use.
 
 See [**The Embedded Examples**](https://github.com/teiid/teiid-embedded-examples) for how to integrate multiple, heterogeneous data stores and enterprise services in a light-weight way.
 

@@ -4,16 +4,16 @@ date: 2017-05-19T14:40:12+01:00
 draft: false
 menu:
   sidenav:
-    name: Microservices
+    name: Spring Boot
     weight: -280
-    parent: Teiid 4 Ways
+    parent: Teiid Runtimes
 sidebar: sidenav
-title: "Teiid Microservices"
+title: "Teiid Spring Boot"
 toc: true
 weight: 20
 ---
 
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; **Microservices** &nbsp;&nbsp; | &nbsp;&nbsp;  [Embedded](../embedded)
+[**Teiid Runtimes**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; **Spring Boot** &nbsp;&nbsp;
 
 <div>
 <img width="583" height="435" src="/images/teiid-spring-boot.png" frameborder="2" hspace="40" ></img>
