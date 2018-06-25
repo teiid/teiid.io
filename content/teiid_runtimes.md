@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Teiid 4 Ways"
+title: "Teiid Runtimes"
 sidebar: sidenav
 
 menu:
   sidenav:
-    name: "Teiid 4 Ways"
+    name: "Teiid Runtimes"
     pre: "<i class='fa fa-fw fa-cogs'></i>"
     weight: -300
 toc: true
@@ -25,12 +25,12 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
   
 ---
 
-## [Teiid Microservices](./microservices)
-  - Teiid implemented for the Spring Boot framework
+## [Teiid Spring Boot](./microservices)
+  - Teiid implemented for the Spring Boot framework.
 
 ---
 
 ## [Teiid Embedded](./embedded)
-  - A light-weight version of Teiid for use in any Java 8+ JRE application.
+  - Raw Teiid jars for use in any Java 8+ JRE application - only for highly custom scenarios.
   
 ---

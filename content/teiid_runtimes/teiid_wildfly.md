@@ -7,13 +7,13 @@ menu:
   sidenav:
     name: "Teiid Wildfly"
     weight: -310
-    parent: Teiid 4 Ways
+    parent: Teiid Runtimes
 sidebar: sidenav
 title: "Teiid Wildfly"
 toc: true
 weight: 20
 ---
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp;  | &nbsp;&nbsp; [Embedded](../embedded)
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../microservices) &nbsp;&nbsp; 
 
 **Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.**
 

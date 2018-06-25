@@ -6,13 +6,13 @@ menu:
   sidenav:
     name: Thorntail
     weight: -300
-    parent: Teiid 4 Ways
+    parent: Teiid Runtimes
 sidebar: sidenav
 title: "Teiid Thorntail"
 toc: true
 weight: 20
 ---
-[**Teiid 4 Ways**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; **Thorntail** &nbsp;&nbsp; | &nbsp;&nbsp; [Microservices](../microservices) &nbsp;&nbsp; | &nbsp;&nbsp; [Embedded](../embedded)
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; **Thorntail** &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../microservices) &nbsp;&nbsp;
 
 <div>
 <img width="583" height="487" src="/images/teiid-wildfly-swarm.png" frameborder="2" hspace="40" ></img>
