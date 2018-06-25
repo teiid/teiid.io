@@ -28,13 +28,16 @@ Teiid is [open source](../about/license) and has been a part of the [JBoss Commu
 ## Core Teiid Components
 
 *   [Teiid Query Engine](../docs/index.html)
-*   [Teiid Designer](http://teiiddesigner.jboss.org/)
 *   [Virtual Databases](../basics/virtualdatabases/index.html)
 *   [Connector Framework](../basics/connectors/index.html)
+
+## Components/Tooling for EAP/WildFly
+
 *   [Admin Shell](../tools/adminshell/index.html)
 *   [Teiid Web Console](../tools/console/index.html)
-*   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x)
-*   [Teiid Dashboard Builder](https://issues.jboss.org/browse/TEIIDDSHB)
+*   [Teiid Designer](http://teiiddesigner.jboss.org/) *Deprecated*
+*   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
+*   [Teiid Dashboard Builder](https://issues.jboss.org/browse/TEIIDDSHB) *Deprecated*
 
 You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
 
