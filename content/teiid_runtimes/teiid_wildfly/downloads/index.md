@@ -19,25 +19,36 @@ weight: 10
 ---
 
 ### **Latest**
-- **Version 10.3.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.1/teiid-10.3.1-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.1/teiid-10.3.1-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.1/teiid-10.3.1-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.1/teiid-10.3.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.1/teiid-10.3.1-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/10.3.0/teiid-releasenotes.html)
+
+## Latest Release Announcement: 11.0.0 Released on July 2nd, 2018 ##
+Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
+<ul>
+  <li><a href="https://issues.jboss.org/browse/TEIID-4520">TEIID-4520</a> Added the Exasol translator.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5356">TEIID-5356</a> Improved column metadata with DDL views - and other metadata fixes such as TEIID-5361 and TEIID-5359</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-3439">TEIID-3439</a> Added support for table aliases to contain a period '.' character</li>
+  <li>Various SQL compatibility issues to support <a link="https://www.jooq.org">JOQL</a></li>
+  <li><a href="https://issues.jboss.org/browse/TEIIDTOOLS-437">TEIIDTOOLS-437</a> OpenTracing integration for remote JDBC clients.  Further automatic integration will be provided via Thorntail.</li>
+<ul>
+
+- **Version 11.0.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
 ### **Previous**
-- **Version 10.2.2**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.2.2/teiid-10.2.2-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.2.2/teiid-10.2.2-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.2.2/teiid-10.2.2-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.2.2/teiid-10.2.2-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.2.2/teiid-10.2.2-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/10.2.0/teiid-releasenotes.html)
+- **Version 10.3.2**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/10.3.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
 ### **Unstable**
-- **Version 11.0 SNAPSHOT**
+- **Version 11.1 SNAPSHOT**
   - [**Teiid Runtime**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-server&e=zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=adminshell-dist&e=zip)
   - [**JDBC Driver**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
@@ -110,7 +121,7 @@ Docker images of the combined WildFly/Teiid/Console runtime are available at [Do
 
 ### Installation
 
-Please consult the respective Migration Guides [**from 8.x to 9.x**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_8.x.html) and [**from 9.x to 10.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_9.x.html)
+Please consult the respective Migration Guides [**from 8.x to 9.x**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_8.x.html), [**from 9.x to 10.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_9.x.html), and [**from 10.x to 11.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_10.x.html)
 
 Teiid Requires:
 
@@ -118,8 +129,6 @@ Teiid Requires:
   - Java 1.8 for Teiid 9.1+
 - [**WildFly**](http://wildfly.org/downloads/)
   - WildFly 11.0.0 for Teiid 10.0.0+
-  - WildFly 11.0.0.CR1 for Teiid 10.0.0.Beta2+
-  - WildFly 10.0.0 for Teiid 9.1 - 10.0.0.Beta1
 
 For complete installation instructions please refer to "Administrator's Guide" in [Teiid Documents section](../docs/index.html).
 
