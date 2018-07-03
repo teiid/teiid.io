@@ -14,6 +14,8 @@ weight: 10
 
 Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](http://www.jboss.com/products/platforms/dataservices) and the [community resources](../community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/)
  
+- The [11.x](http://teiid.github.io/teiid-documents/11.0.x/content/) series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
+ 
 - The [10.x](http://teiid.github.io/teiid-documents/10.3.x/content/) series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
 
 - The [9.x](http://teiid.github.io/teiid-documents/9.3.x/content/) series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
@@ -27,7 +29,8 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 ### Version 10 Releases
 
-- #### **Full book set** - Version [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
+- #### **Full book set** - Version [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
+| [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
 | [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
 | [10.1](http://teiid.github.io/teiid-documents/10.1.x/content) 
 | [10.0](http://teiid.github.io/teiid-documents/10.0.x/content)
@@ -39,7 +42,7 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
   - Version 10.0+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
 
 - #### **API Docs**
-  - Version [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
+  - Version [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
 
 ### Version 9 Releases
 
