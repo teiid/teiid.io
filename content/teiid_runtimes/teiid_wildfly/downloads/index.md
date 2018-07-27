@@ -18,8 +18,6 @@ weight: 10
 
 ---
 
-### **Latest**
-
 ## Latest Release Announcement: 11.0.0 Released on July 2nd, 2018 ##
 Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
 <ul>
@@ -29,6 +27,8 @@ Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
   <li>Various SQL compatibility issues to support <a link="https://www.jooq.org">JOQL</a></li>
   <li><a href="https://issues.jboss.org/browse/TEIIDTOOLS-437">TEIIDTOOLS-437</a> OpenTracing integration for remote JDBC clients.  Further automatic integration will be provided via Thorntail.</li>
 <ul>
+
+### **Latest**
 
 - **Version 11.0.0**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-server.zip)

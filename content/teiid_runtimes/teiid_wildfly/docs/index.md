@@ -20,8 +20,6 @@ Teiid documentation provides introductory material, manuals, and guides covering
 
 - The [9.x](http://teiid.github.io/teiid-documents/9.3.x/content/) series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
 
-- The 8.x series of releases no longer have the PDF documentation included in the distribution downloads.
-
 ### Community Resources
 
 Many "How To" and other documents are posted as WIKI pages and articles on the [Teiid Community](https://www.jboss.org/community/docs/DOC-12956) and on the [Teiid Blog.](http://teiid.blogspot.com/)
@@ -29,12 +27,13 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 ### Version 10 Releases
 
-- #### **Full book set** - Version [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
+- #### **Full book set** 
+  - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
+  - Version [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
 | [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
 | [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
 | [10.1](http://teiid.github.io/teiid-documents/10.1.x/content) 
 | [10.0](http://teiid.github.io/teiid-documents/10.0.x/content)
-  - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
 
 - #### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/master/README.md)
 
