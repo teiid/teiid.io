@@ -30,20 +30,20 @@ Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
 
 ### **Latest**
 
-- **Version 11.0.0**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.0/teiid-11.0.0-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
+- **Version 11.0.1**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.1/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
 ### **Previous**
-- **Version 10.3.2**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.2/teiid-10.3.2-src.zip)
+- **Version 10.3.3**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.3/teiid-10.3.3-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.3/teiid-10.3.3-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.3/teiid-10.3.3-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.3/teiid-10.3.3-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/10.3.3/teiid-10.3.3-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/10.3.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
