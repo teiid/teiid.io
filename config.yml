@@ -15,3 +15,7 @@ menu:
     weight: -110
     identifier: "code"
     url: "https://github.com/teiid"
+    
+params:
+  proddtm: "http://www.redhat.com/dtm.js"
+  stagingdtm: "http://www.redhat.com/dtm-staging.js"
