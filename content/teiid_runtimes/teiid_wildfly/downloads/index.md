@@ -115,7 +115,7 @@ You should use maven to directly control what features you need when embedding T
 
 ### Docker
 
-Docker images of the combined WildFly/Teiid/Console runtime are available at [Docker Hub.](https://hub.docker.com/r/teiid/teiid/) These are base images from which you may layer in your modules and deployments.
+You can create your own Docker images of the combined WildFly/Teiid/Console runtime by starting with the [Dockerfile](https://github.com/jboss-dockerfiles/teiid/blob/master/Dockerfile) or the [base image](https://hub.docker.com/r/jboss/teiid/). These can be used to create ephemeral instances for testing or you can layer in your modules and deployments.
 
 ---
 
