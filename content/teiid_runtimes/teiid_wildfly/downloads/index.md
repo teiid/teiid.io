@@ -35,7 +35,7 @@ Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-adminshell-dist.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.1/teiid-11.0.1-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.1/teiid-releasenotes.html)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Previous**
@@ -49,10 +49,10 @@ Teiid 11.0.0 for Wildfly 11.0.0 is now available. The main features are:
 
 ### **Unstable**
 - **Version 11.1 SNAPSHOT**
-  - [**Teiid Runtime**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-server&e=zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=adminshell-dist&e=zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
-  - [**Teiid Source**](https://oss.sonatype.org/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=src&e=zip)
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-server&e=zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=adminshell-dist&e=zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=src&e=zip)
   - [**Release Notes/Change Log**](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12336552&projectId=12310782)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
