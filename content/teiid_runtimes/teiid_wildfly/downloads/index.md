@@ -29,11 +29,11 @@ Teiid 11.1.0 for Wildfly 11.0.0 is now available. The main features are:
 
 ### **Latest**
 
-- **Version 11.1.0**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.0/teiid-11.1.0-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.0/teiid-11.1.0-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.0/teiid-11.1.0-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.0/teiid-11.1.0-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.0/teiid-11.1.0-src.zip)
+- **Version 11.1.1**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
@@ -55,7 +55,7 @@ Teiid 11.1.0 for Wildfly 11.0.0 is now available. The main features are:
   - [**Release Notes/Change Log**](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12338999&projectId=12310782)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
-**Historical Version Downloads**
+### **Historical Version Downloads**
 - [**10.x (WildFly 11.0.0 Java 8+)**](http://teiid.jboss.org/downloads_10x)
 - [**9.x (WildFly 10.0.0 Java 8+)**](http://teiid.jboss.org/downloads_9x)
 - [**9.0 (WildFly 9.0.2 Java 7+)**](http://teiid.jboss.org/downloads_900)
