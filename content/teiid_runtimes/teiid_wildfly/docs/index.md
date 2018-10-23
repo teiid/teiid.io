@@ -29,7 +29,8 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 - #### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
-  - Version [11.1](http://teiid.github.io/teiid-documents/11.1.x/content) 
+  - Version [11.2](http://teiid.github.io/teiid-documents/11.2.x/content) 
+| [11.1](http://teiid.github.io/teiid-documents/11.1.x/content) 
 | [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
 | [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
 | [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
@@ -42,7 +43,7 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
   - Version 10.0+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
 
 - #### **API Docs**
-  - Version [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) | [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
+  - Version [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs) | [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) | [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
 
 ### Version 9 Releases
 
