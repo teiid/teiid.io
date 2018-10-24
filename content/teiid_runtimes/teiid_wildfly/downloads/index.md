@@ -50,7 +50,7 @@ Teiid 11.2.0 for Wildfly 11.0.0 is now available. The main features are:
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Unstable**
-- **Version 11.2 SNAPSHOT**
+- **Version 12.0 SNAPSHOT**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-server&e=zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=adminshell-dist&e=zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
