@@ -22,31 +22,32 @@ Teiid documentation provides introductory material, manuals, and guides covering
 
 ### Community Resources
 
-Many "How To" and other documents are posted as WIKI pages and articles on the [Teiid Community](https://www.jboss.org/community/docs/DOC-12956) and on the [Teiid Blog.](http://teiid.blogspot.com/)
+Many "How To" and other documents are posted as WIKI pages and articles on the [Teiid Community](https://www.jboss.org/community/docs/DOC-12956) and on the old [Teiid Blog](http://teiid.blogspot.com/) and the new Teiid Blog [Teiid Blog.](http://teiid.io/blog)
 Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
-### Version 10/11 Releases
+### Version 10 - 11 Releases
 
-- #### **Full book set** 
+- ###### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
-  - Version [11.1](http://teiid.github.io/teiid-documents/11.1.x/content) 
+  - Version [11.2](http://teiid.github.io/teiid-documents/11.2.x/content) 
+| [11.1](http://teiid.github.io/teiid-documents/11.1.x/content) 
 | [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
 | [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
 | [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
 | [10.1](http://teiid.github.io/teiid-documents/10.1.x/content) 
 | [10.0](http://teiid.github.io/teiid-documents/10.0.x/content)
 
-- #### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/master/README.md)
+- ###### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/master/README.md)
 
-- #### **Quick Start**
+- ###### **Quick Start**
   - Version 10.0+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
 
-- #### **API Docs**
-  - Version [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) | [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
+- ###### **API Docs**
+  - Version [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs) | [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) | [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) | [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) | [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) | [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
 
 ### Version 9 Releases
 
-- #### **Full book set**
+- ###### **Full book set**
   -includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
 
   - HTML - Version [9.3](http://teiid.github.io/teiid-documents/9.3.x/content/)
@@ -59,12 +60,12 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 | [9.0](http://teiid.github.io/teiid-documents/9.0.x/teiid-documents.pdf)
 
 
-- #### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/teiid-9.x/README.md)
+- ###### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/teiid-9.x/README.md)
 
-- #### **Quick Start**
+- ###### **Quick Start**
   - [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-9.x/README.adoc)
 
-- #### **API Docs**
+- ###### **API Docs**
   - Version [9.3](http://docs.jboss.org/teiid/9.3.0.Final/apidocs) |
 [9.2](http://docs.jboss.org/teiid/9.2.0.Final/apidocs) |
 [9.1](http://docs.jboss.org/teiid/9.1.0.Final/apidocs) |

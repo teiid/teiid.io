@@ -18,17 +18,29 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 11.1.0 Released on September 4th, 2018 ##
-Teiid 11.1.0 for Wildfly 11.0.0 is now available. The main features are:
+## Latest Release Announcement: 11.2.0 Released on October 23rd, 2018 ##
+Teiid 11.2.0 for Wildfly 11.0.0 is now available. The main features are:
 <ul>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5397">TEIID-5397</a> Allows for type information to be optional with view creation and ALTER support for adding constraints.</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5442">TEIID-5442</a>, <a href="https://issues.jboss.org/browse/TEIID-5447">TEIID-5447</a> Added support for the NTILE, PERCENT_RANK, CUME_DIST, and NTH_VALUE analytic functions.</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-4340">TEIID-4340</a> Added UTF-8-BOM charset and updated the file translator to use the engine encodings - including UTF-8-BOM, HEX, and BASE64.</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5444">TEIID-5444</a> Upgraded to Olingo 4.5 with associated fixes for TEIID-5343 and TEIID-5207</li>
-<ul>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5461">TEIID-5461</a> Added parsing and pushdown support for the window frame clause.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5316">TEIID-5316</a> Engine processing of window functions using the frame clause.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-3931">TEIID-3931</a> Added support for exposing geometry values as OData geometry types.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5480">TEIID-5480</a> Added general support for Geography values, including some system functions, OData exposure, and source support.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-4932">TEIID-4932</a> Added a UDF metadata repository for loading UDFs from a class.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5459">TEIID-5459</a> Added support for COUNT_BIG.  Also added long versions of the analytical ranking functions 
+  - ROW_NUMBER, RANK, DENSE_RANK - which can be enabled by the system property org.teiid.longRanks.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5499">TEIID-5499</a> Added a JSON type.</li>
+</ul>
 
 ### **Latest**
+- **Version 11.2.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.0/teiid-11.2.0-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.0/teiid-11.2.0-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.0/teiid-11.2.0-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.0/teiid-11.2.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.0/teiid-11.2.0-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.0/teiid-releasenotes.html)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
+### **Previous**
 - **Version 11.1.1**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-wildfly-server.zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.1/teiid-11.1.1-adminshell-dist.zip)
@@ -37,17 +49,8 @@ Teiid 11.1.0 for Wildfly 11.0.0 is now available. The main features are:
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.1.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
-### **Previous**
-- **Version 11.0.2**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.2/teiid-11.0.2-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.2/teiid-11.0.2-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.2/teiid-11.0.2-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.2/teiid-11.0.2-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.2/teiid-11.0.2-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
-
 ### **Unstable**
-- **Version 11.2 SNAPSHOT**
+- **Version 12.0 SNAPSHOT**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=wildfly-server&e=zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=adminshell-dist&e=zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
