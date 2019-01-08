@@ -159,17 +159,27 @@ Follow the [quick start](https://docs.jboss.org/author/display/teiidexamples/Hom
 
 Teiid Designer is optional Eclipse based tooling for creation of VDBs in a modeling environment. Note that Teiid Designer currently works with only Teiid 9.0 and earlier.  However VDBs developed against a Teiid 9.0 environment will still be valid for deployment into later releases.
 
-#### Latest Release  11.1.3 Final - May 18th, 2018
+#### Latest Release  11.2.1 Final - Jan 2nd, 2019
 
-*   [**Update Site**](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.3.Final/) -  (See installation instructions at the bottom of this page)
-*   [**Download**](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.3.Final/jbosstools-teiid-designer-11.1.3.Final-updatesite.zip)
+*   [**Update Site**](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/) -  (See installation instructions at the bottom of this page)
+*   [**Download**](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/jbosstools-teiid-designer-11.2.1.Final-updatesite.zip)
 *   Compatible with [**Teiid 9.0**](http://teiid.jboss.org/downloads/) and earlier releases
-*   Compatible with [**JBDS 11**](http://developers.redhat.com/products/devstudio/download/) releases
-*   Download Eclipse distro - [**Eclipse 4.7 (Oxygen)**](http://www.eclipse.org/oxygen/) 
+*   Compatible with [**JBDS 12**](http://developers.redhat.com/products/devstudio/download/) releases
+*   Download Eclipse distro - [**Eclipse 4.8 (Photon)**](http://www.eclipse.org/photon/)
 
 ---
 
-#### Stable 11.x Releases 
+#### Stable 11.x Releases
+
+- **Version 11.2.1** - Released: 1/2/2019 - [Release Notes](https://developer.jboss.org/wiki/TeiidDesigner1121ReleaseNotes) - [User Guide](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/)
+  - [Update Site](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/)
+  - [ZIP](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/jbosstools-teiid-designer-11.2.1.Final-updatesite.zip)
+  - Compatible with [Teiid 9.0](http://teiid.jboss.org/downloads/) & [RHDS 12.0.0 GA](http://developers.redhat.com/products/devstudio/download/) & [Eclipse 4.8 Photon](http://www.eclipse.org/photon/)
+
+- **Version 11.2.0** - Released: 8/9/2019 - [Release Notes](https://developer.jboss.org/wiki/TeiidDesigner112ReleaseNotes) - [User Guide](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/)
+  - [Update Site](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.0.Final/)
+  - [ZIP](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.0.Final/jbosstools-teiid-designer-11.2.0.Final-updatesite.zip)
+  - Compatible with [Teiid 9.0](http://teiid.jboss.org/downloads/) & [RHDS 12.0.0 GA](http://developers.redhat.com/products/devstudio/download/) & [Eclipse 4.8 Photon](http://www.eclipse.org/photon/)
 
 - **Version 11.1.3** - Released: 5/18/2018 - [Release Notes](http://community.jboss.org/wiki/TeiidDesigner1113ReleaseNotes/) - [User Guide](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/)
   - [Update Site](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.3.Final/)
@@ -178,14 +188,35 @@ Teiid Designer is optional Eclipse based tooling for creation of VDBs in a model
 
 - **Version 11.1.0** - Released: 9/7/2017 - [Release Notes](http://community.jboss.org/wiki/TeiidDesigner111ReleaseNotes) - [User Guide](http://docs.jboss.org/teiid/designer/11.1/user-guide/html/)
   - [Update Site](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.0.Final/)
-  - [ZIP](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.0.Final/jbosstools-teiid-designer-11.1.0.Final-updatesite.zip) 
-  - Compatible with [Teiid 9.0](http://teiid.jboss.org/downloads/) & [RHDS 11.0.0 GA](http://developers.redhat.com/products/devstudio/download/) & [Eclipse 4.7 Oxygen](http://www.eclipse.org/oxygen/) 
+  - [ZIP](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.1.0.Final/jbosstools-teiid-designer-11.1.0.Final-updatesite.zip)
+  - Compatible with [Teiid 9.0](http://teiid.jboss.org/downloads/) & [RHDS 11.0.0 GA](http://developers.redhat.com/products/devstudio/download/) & [Eclipse 4.7 Oxygen](http://www.eclipse.org/oxygen/)
 
 
 *   **Version 11.0.0** - Released: 12/5/2016 - [Release Notes](http://community.jboss.org/wiki/TeiidDesigner110ReleaseNotes) - [User Guide](http://docs.jboss.org/teiid/designer/11.0/user-guide/html/)
     *   [Update Site](http://download.jboss.org/jbosstools/oxygen/stable/updates/integration-stack/teiiddesigner/11.0.0.Final/)
-    *   [ZIP](https://sourceforge.net/projects/teiid/files/teiid-designer/11.0/teiid-designer-11.0.0.Final-v20161205-1706-B4115.zip/download/) 
+    *   [ZIP](https://sourceforge.net/projects/teiid/files/teiid-designer/11.0/teiid-designer-11.0.0.Final-v20161205-1706-B4115.zip/download/)
     *   Compatible with [Teiid 9.0](http://teiid.jboss.org/downloads/) & [RHDS 10.0.0 GA](http://developers.redhat.com/products/devstudio/download/) & [Eclipse 4.6 Neon](http://www.eclipse.org/neon/)
+
+---
+
+#### Install into RH Developer Studio 12.0
+
+*   Launch the **Help > Install New Software**** <span style="font-weight: normal">action</span>**
+*   **Add...** the following update site URLs but **DO NOT** install them. Various dependent plugins required for Teiid Designer will be installed as needed. _M**<span style="font-weight: normal">ake sure “Contact all update sites during install to find required software” is checked.</span>**
+    *   **[http://download.jboss.org/jbosstools/targetplatforms/jbtistarget/4.6.1.Final/jbtis/REPO/](http://download.jboss.org/jbosstools/targetplatforms/jbtistarget/4.6.1.Final/jbtis/REPO/)**
+*   Install **Teiid Designer 11.2.1** via update site:
+    *   [**http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/**](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/)
+    *   Click **Install** button and continue through restarting **JBDS**
+
+Install into Eclipse 4.8 (Photon)
+
+*   Launch the **Help > Install New Software**** <span style="font-weight: normal">action</span>**
+*   **Add...** the following update site URLs but **DO NOT install them**. Various dependent plugins required for Teiid Designer will be installed as needed. _M<span style="font-weight: normal">ake sure “Contact all update sites during install to find required software” is checked</span>_**_<span style="font-weight: normal">.</span>**
+    *   **[http://download.jboss.org/jbosstools/targetplatforms/jbtistarget/4.6.1.Final/jbtis/REPO/](http://download.jboss.org/jbosstools/targetplatforms/jbtistarget/4.6.1.Final/jbtis/REPO/)**
+    *   **[http://download.jboss.org/jbosstools/oxygen/stable/updates/](http://download.jboss.org/jbosstools/oxygen/stable/updates/)**
+*   Install **Teiid Designer 11.2.1** via update site:
+    *   [**http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/**](http://download.jboss.org/jbosstools/photon/stable/updates/integration-stack/teiiddesigner/11.2.1.Final/)
+    *   Click **Install** button and continue through restarting Eclipse
 
 ---
 
