@@ -29,9 +29,9 @@ Teiid 12.0.0 for Wildfly 14.0.1 is now available. The main features are:
 
 ### **Latest**
 - **Version 12.0.0**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/wildfly/12.0.0/teiid-wildfly-12.0.0-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly-12.0.0-server.zip)
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.0/teiid-wildfly-12.0.0-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/teiid-wildfly-12.0.0-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.0.0/teiid-12.0.0-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/12.0.0/teiid-wildfly-12.0.0-src.zip)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.0/teiid-wildfly-12.0.0-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 

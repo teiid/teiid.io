@@ -49,7 +49,7 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 - ###### **API Docs**
   - Version [12.0](http://docs.jboss.org/teiid/12.0.0/apidocs) 
-| [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs)  
+| [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs) 
 | [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) 
 | [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) 
 | [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) 
