@@ -24,14 +24,14 @@ The Teiid feature in the [Thorntail](https://docs.thorntail.io) universe is prov
 
 ## **Teiid fraction**
  
-- **https://github.com/thorntail/thorntail/tree/master/fractions/teiid**
+- **https://github.com/teiid/teiid-thorntail/tree/master/fractions**
 
 ## **Config API**
 
-- **https://github.com/thorntail/teiid-config-api**.
+- **https://github.com/teiid/teiid-thorntail/tree/master/config-api**.
 
 ## **Examples**
 
-- **https://github.com/teiid/thorntail-teiid-examples**
+- **https://github.com/teiid/teiid-thorntail/tree/master/examples**
 
 ---

@@ -52,7 +52,3 @@ So, why wait, let's go..
 *   [Data Access Services](../about/dataservices/index.html) - Learn about how Teiid exposes data access service.
 
 ---
-
-For a development perspective on releases, please see our [roadmap page](../roadmap/index.html).&nbsp;
-
----
