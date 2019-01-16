@@ -3,7 +3,7 @@ bref: ""
 draft: false
 menu:
   sidenav:
-    name: Quickstart   -
+    name: Quickstart
     weight: -279
     parent: Teiid Wildfly
 sidebar: sidenav
