@@ -44,6 +44,10 @@ Teiid 12.0.0 for Wildfly 14.0.1 is now available. The main features are:
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.1/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
+### **Older 11.x releases**
+  - [**Version 11.0.3, Version 11.1.2**](/non_menu_pages/downloads_11.x/)
+
+
 ### **Unstable**
 - **Version 12.1 SNAPSHOT**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=dist&e=zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=server&e=zip)
