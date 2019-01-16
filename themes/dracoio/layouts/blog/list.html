@@ -1,7 +1,7 @@
 {{ define "main"}}
 <div class="list">
   <h1>{{ .Title }}</h1>
-  <a>Find older Teiid blogs at on Blogspot</a><a href="http://teiid.blogspot.com/" target="_blank"> http://teiid.blogspot.com/</a>
+  <a>Find older Teiid blogs on Blogspot</a><a href="http://teiid.blogspot.com/" target="_blank"> http://teiid.blogspot.com/</a>
   {{ .Content | safeHTML }}
   <div class="articles">
     {{ range .Paginator.Pages }}{{ partial "page-summary" . }}<hr/>{{ end }}
