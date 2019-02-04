@@ -36,12 +36,12 @@ Teiid 12.0.0 for Wildfly 14.0.1 is now available. The main features are:
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Previous**
-- **Version 11.2.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.1/teiid-11.2.1-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.1/teiid-11.2.1-wildfly-server.zip)
-  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.1/teiid-11.2.1-adminshell-dist.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.1/teiid-11.2.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.1/teiid-11.2.1-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.1/teiid-releasenotes.html)
+- **Version 11.2.2**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-wildfly-dist.zip) [(with Wildfly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
 ### **Older 11.x releases**
@@ -72,12 +72,7 @@ Teiid 12.0.0 for Wildfly 14.0.1 is now available. The main features are:
 
 You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.
 
-**Note:** Releases prior to 10.0 should use the JBoss Public Maven Repository - http://repository.jboss.org/nexus/content/groups/public/ and the org.jboss.teiid group instead.
-
-- http://repository.jboss.org/nexus/content/groups/public/org/teiid/
-- https://mvnrepository.com/artifact/org.teiid
-
-**Note:** Releases prior to 10.1 use the -Final suffix for the initial release 10.0.0-Final, 9.3.0-Final, etc.
+- See https://mvnrepository.com/artifact/org.teiid
 
 #### JDBC Driver
 
@@ -170,7 +165,7 @@ Follow the [quick start](https://docs.jboss.org/author/display/teiidexamples/Hom
 
 ### **Teiid Designer**
 
-Teiid Designer is optional Eclipse based tooling for creation of VDBs in a modeling environment. Note that Teiid Designer currently works with only Teiid 9.0 and earlier.  However VDBs developed against a Teiid 9.0 environment will still be valid for deployment into later releases.
+Teiid Designer is a legacy project for the creation of VDBs in a modeling environment. Note that Teiid Designer currently works directly with Teiid 9.0 and earlier only and support for Teiid Designer VDBs is deprecated in Teiid.
 
 #### Latest Release  11.2.1 Final - Jan 2nd, 2019
 
