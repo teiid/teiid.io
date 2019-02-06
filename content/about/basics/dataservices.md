@@ -67,7 +67,7 @@ Teiid provides a suite of projects that provide _data services_ to business appl
 
 #### The Business Viewpoint
 
-A more business- or user-centric view of data services is that they are information representations required by business applications. From this perspective, data services are defined and _designed_ by business analysts, modelers, and developers to represent the information structures required by business applications. Often, a key design goal is one of interoperability - the requirement that systems work together seamlessly, including when exchanging data. Teiid provides graphical and other tools for defining these interoperable data services, essentially relational and XML views that can be used by business applications in a semantically-meaningful manner.
+A more business or user-centric view of data services is that they are information representations required by business applications. From this perspective, data services are defined and _designed_ by business analysts, modelers, and developers to represent the information structures required by business applications. Often, a key design goal is one of interoperability - the requirement that systems work together seamlessly, including when exchanging data. Teiid provides graphical and other tools for defining these interoperable data services, essentially relational and XML views that can be used by business applications in a semantically-meaningful manner.
 
 These two viewpoints roughly correspond to the **Execution** and **Modeling** components of a data services solution, respectively.
 

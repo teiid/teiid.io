@@ -15,6 +15,10 @@ weight: 20
 
 There are many ways to contribute to Teiid. All contributions are valued and welcomed, be it [fixing a typo in documentation]({{< relref "#improving-documentation" >}}), raising an issue to report a bug, or creating a whole new awesome feature. Don't worry if this is your first contribution to an open source project: the Teiid maintainers can help you if you need it.
 
+## Licensing
+
+Starting with Teiid 10.0, the majority of the code in Teiid and related projects is provided under the business-friendly <a href="http://www.apache.org/licenses/LICENSE-2.0">ASL 2.0</a> license.  Libraries integrated with Teiid are licensed under the LGPL and a variety of compatible open source licenses including the ASL, BSD, CPL, and MIT licenses.  You will retain an implicit or explicit copyright, but it is expected that the code will be made availble under the ASL 2.0 or similar license of the relevant subproject. 
+
 ## Improving documentation
 
 Documentation is in various places in our repositories. We are committed to streamlining this, but for now there are a few different places to look.
