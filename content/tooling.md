@@ -25,7 +25,7 @@ The Teiid project includes a few tools to help you develop and manage various ar
 
 ## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](/tools/teiid_designer)
 
-**Teiid Designer** is a visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
+**Teiid Designer** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
 and testing your VDBs using the Teiid runtime framework.
 
 <div>
@@ -58,17 +58,17 @@ manage Teiid along with JBoss AS.
   5.  more...
 
 Look at the [Teiid Console](http://teiid.github.io/teiid-documents/master/content/admin/Teiid_Console.html) section of 
-the [Admin Guide](http://teiid.github.io/teiid-documents/10.1.x/content/admin/Administrators_Guide.html) document for 
+the [Admin Guide](http://teiid.github.io/teiid-documents/master/content/admin/Administrators_Guide.html) document for 
 installation and descriptions of all the features it supports.
 
 <div>
-<img width="600" height="363" src="http://static.jboss.org/teiid/images/webconsole1.png" frameborder="2" hspace="40" vspace="20" ></img>
+<img width="600" height="363" src="/images/webconsole1.png" frameborder="2" hspace="40" vspace="20" ></img>
 </div>
 
 ---
 ## **Admin Shell**
 
-The **Teiid Admin Shell** is a scripting tool based on Groovy that can be used to perform the administrative
+The **Teiid Admin Shell** is a deprecated scripting tool based on Groovy that can be used to perform the administrative
 functions on a Teiid Server from a command line shell, GUI shell or a script file. This tool exposes the java based Admin API
 with its tooling to allow easily editable scripting. 
 

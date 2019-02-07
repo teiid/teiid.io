@@ -14,7 +14,7 @@ weight: 10
 [**Teiid Basics**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Virtual Databases](../vdbs) &nbsp;&nbsp; | &nbsp;&nbsp; **Models** &nbsp;&nbsp; | &nbsp;&nbsp; [Data Services](../dataservices) &nbsp;&nbsp; | &nbsp;&nbsp; [Connectors](../connectors)
 
 <div>
-<img src="http://static.jboss.org/teiid/images/teiid-model-internals.png" frameborder="2" hspace="40" ></img>
+<img src="/images/teiid-model-internals.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---
