@@ -19,7 +19,7 @@ weight: 10
 Data access services via data virtualization provide important abstraction and decoupling features.
 
 <div>
-<img height="400" src="http://static.jboss.org/teiid/images/teiid-soa.png" frameborder="2" hspace="40" ></img>
+<img height="400" src="/images/teiid-soa.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ### Services and Abstraction
@@ -71,4 +71,4 @@ A more business or user-centric view of data services is that they are informati
 
 These two viewpoints roughly correspond to the **Execution** and **Modeling** components of a data services solution, respectively.
 
-<div class="uploaded-img">![](http://static.jboss.org/teiid/images/teiid-dataservices.png)</div>
+<div class="uploaded-img">![](/images/teiid-dataservices.png)</div>

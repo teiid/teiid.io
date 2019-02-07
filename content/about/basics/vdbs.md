@@ -15,7 +15,7 @@ weight: 10
 [**Teiid Basics**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Virtual Databases** &nbsp;&nbsp; | &nbsp;&nbsp; [Models](../models) &nbsp;&nbsp; | &nbsp;&nbsp; [Data Services](../dataservices) &nbsp;&nbsp; | &nbsp;&nbsp; [Connectors](../connectors)
 
 <div>
-<img width="356" height="319" src="http://static.jboss.org/teiid/images/teiid-vdbinternals.png" frameborder="2" hspace="40" ></img>
+<img width="356" height="319" src="/images/teiid-vdbinternals.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---
@@ -37,7 +37,7 @@ VDBs can contain one or more models representing the information to be integrate
 
 A VDB must always be in a complete state, meaning that all information is contained within the VDB itself -- there are no external dependencies.
 <div>
-<img width="503" height="256" src="http://static.jboss.org/teiid/images/teiid-queryengine.png" frameborder="2" ></img>
+<img width="503" height="256" src="/images/teiid-queryengine.png" frameborder="2" ></img>
 </div>
 
 ---
