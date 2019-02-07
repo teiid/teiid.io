@@ -77,9 +77,9 @@ Teiid comes with an administrative shell that allows programatic access to admin
 
 **9\. Works Like a Charm - Fast**
 
-Your time is precious - we know that. You can't waste your time investigating every newfangled product and solution marketed to you. With Teiid, you don't have to. In 30 minutes, you can demonstrate to yourself that you can issue federated queries against 2 of your own databases.
+Your time is precious - we know that. You can't waste your time investigating every new-fangled product and solution marketed to you. With Teiid, you don't have to. In 30 minutes, you can demonstrate to yourself that you can issue federated queries against 2 of your own databases.
 
-*   [30 minutes to get started](https://docs.jboss.org/author/display/teiidexamples/Home)
+*   [30 minutes to get started](https://github.com/teiid/teiid-wildfly-quickstarts)
 
 **10\. Tip of the Iceberg**
 

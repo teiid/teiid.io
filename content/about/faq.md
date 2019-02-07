@@ -49,7 +49,7 @@ Any Java developer who has to get access to data in more than one "enterprise st
 
 **How do I get started with Teiid?**
 
-Follow the [Quick Start Example](https://docs.jboss.org/author/display/teiidexamples/Home) and you should be able to issue joins across two JDBC data sources without any custom code.
+Follow the [WildFly Quickstart Example](https://github.com/teiid/teiid-wildfly-quickstarts) and you should be able to issue joins across two JDBC data sources without any custom code.
 
 **What are the key features of Teiid?**
 
