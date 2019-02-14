@@ -13,7 +13,7 @@ title: "Teiid Wildfly"
 toc: true
 weight: 20
 ---
-[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../microservices) &nbsp;&nbsp; 
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Wildfly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp; 
 
 **Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.**
 

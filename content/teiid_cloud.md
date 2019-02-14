@@ -21,7 +21,7 @@ With Teiid Cloud you can...
 <img  width="540" height="314" src="/images/teiid-cloud.png" frameborder="2" hspace="40" usemap="#teiidmap"></img>
 
 <map name="teiidmap">
-  <area shape="rect" coords="12,12,170,60" alt="Computer" href="../teiid_runtimes/microservices">
+  <area shape="rect" coords="12,12,170,60" alt="Computer" href="../teiid_runtimes/springboot">
   <area shape="rect" coords="12,123,170,167" alt="Phone" href="../teiid_runtimes/thorntail">
 </map>
 </div>

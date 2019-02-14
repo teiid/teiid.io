@@ -12,7 +12,7 @@ toc: true
 weight: 10
 ---
 
-The Quickstart guide for data virtualization on a wildfly server using Teiid is documented at: http://github.com/teiid/teiid-quickstarts.
+The Quickstart guide for data virtualization on a wildfly server using Teiid is documented at: http://github.com/teiid/teiid-wildfly-quickstarts.
 
 This Quick Start Guide takes you through an introduction to the concepts important to Teiid, downloading the software, building and deploying a virtual database and integrating data sources. The goal is to provide you with examples that help explain how to use to Teiid in order to get you off the ground. It also introduces to some of the essential concepts of Teiid.
 
