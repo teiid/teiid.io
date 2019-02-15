@@ -28,7 +28,7 @@ weight: 20
       <li>Configure minishift with the following services</li>
       <ul>
         <li>PostgresSQL DB data service</li>
-        <li>Beetle Studio / Teiid Runtime / Wildfly server</li>
+        <li>Beetle Studio / Teiid Runtime / WildFly server</li>
       </ul>
     </ul>
     </div>

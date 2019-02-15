@@ -15,7 +15,7 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
 
 ---
 
-## [Teiid Wildfly](teiid_wildfly)
+## [Teiid WildFly](teiid_wildfly)
   - Integration of Teiid as a module on the popular WildFly Java Application Server and accessing your data services via JDBC, OData and REST APIs.
 
 ---

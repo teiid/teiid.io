@@ -21,6 +21,6 @@ Here are some important links:
 * **Source code:** [GitHub organization](https://github.com/teiid)
 * **IRC:** [#teiid on freenode](irc://freenode.net/teiid)
 * **Gitter:** [Teiid](https://gitter.im/teiid)
-* **JIRA:** [Teiid](https://issues.jboss.org/projects/TEIID/summary)
+* **[Issues](/issues)**
 * **Forum:** [Teiid](https://developer.jboss.org/en/teiid)
 

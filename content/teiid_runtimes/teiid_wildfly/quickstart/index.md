@@ -5,9 +5,9 @@ menu:
   sidenav:
     name: Quickstart
     weight: -279
-    parent: Teiid Wildfly
+    parent: Teiid WildFly
 sidebar: sidenav
-title: "Teiid Wildfly Quickstart"
+title: "Teiid WildFly Quickstart"
 toc: true
 weight: 10
 ---
