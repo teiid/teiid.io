@@ -12,7 +12,7 @@ title: "Teiid Thorntail"
 toc: true
 weight: 20
 ---
-[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; **Thorntail** &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../microservices) &nbsp;&nbsp;
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; **Thorntail** &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp;
 
 <div>
 <img width="583" height="487" src="/images/teiid-wildfly-swarm.png" frameborder="2" hspace="40" ></img>

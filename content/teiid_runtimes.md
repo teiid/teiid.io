@@ -21,11 +21,11 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
 ---
 
 ## [Teiid Thorntail](thorntail)
-  - Integration of Teiid on the popular Thorntail embedded application platform for running Teiid as microservices
+  - Integration of Teiid on the Thorntail embedded application platform.
   
 ---
 
-## [Teiid Spring Boot](./microservices)
+## [Teiid Spring Boot](./springboot)
   - Teiid implemented for the Spring Boot framework.
 
 ---
