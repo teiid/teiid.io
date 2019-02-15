@@ -12,7 +12,7 @@ title: "Teiid Embedded"
 toc: true
 weight: 20
 ---
-[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Wildfly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp; | &nbsp;&nbsp; **Embedded** 
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [WildFly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp; | &nbsp;&nbsp; **Embedded** 
 
 **Teiid Embedded** is raw Teiid jars for use in any Java 8+ JRE application. WildFly nor any application server is not required. This feature is still evolving and is only for highly custom scenarios. Please consult the source examples and even unit tests utilizing the EmbeddedServer for a more complete guide as to its use.
 

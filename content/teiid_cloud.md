@@ -10,11 +10,9 @@ menu:
 toc: true
 ---
 
-With Teiid Cloud you can...
+With Teiid Cloud you can define and utilize simple cloud microservices that provide access to specific data sets from one or more sources.
 
- - **Define and utilize simple cloud microservices that provide access to specific data sets from one or more sources**
- - **Access your microservices by binding with your cloud application**
-
+As a [Spring Boot](../teiid_runtimes/springboot) or [Thorntail](../teiid_runtimes/thorntail) developer you can define and deploy a VDB to your cloud environment quickly in a light-weight image.
 
 <div>
 <br>
@@ -28,13 +26,11 @@ With Teiid Cloud you can...
 
 ---
 
-
 ## Data Virtualization Services
 
-**Teiid is all [about](about) virtualizing your data to provide an [abstraction layer](about/basics/vdbs) to facilitate .  .  . .**
+**Teiid is all [about](/about) virtualizing your data to provide an [abstraction layer](/about/basics/vdbs) to facilitate ...**
 
  - performance optimization
- - micro data services
  - improved security and governance
  - schema migration
 

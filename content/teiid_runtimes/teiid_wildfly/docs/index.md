@@ -5,9 +5,9 @@ menu:
   sidenav:
     name: Documents (TW)
     weight: -277
-    parent: Teiid Wildfly
+    parent: Teiid WildFly
 sidebar: sidenav
-title: "Teiid Wildfly Documents"
+title: "Teiid WildFly Documents"
 toc: true
 weight: 10
 ---
