@@ -13,7 +13,7 @@ toc: true
 weight: 100
 ---
 
-![Designer](/images/designer32.png?raw=true) **Teiid Designer** is a visual tool built for Eclipse, that enables rapid, model-driven definition, integration, management
+![Designer](/images/designer32.png?raw=true) **Teiid Designer** is a deprecated visual tool built for Eclipse, that enables rapid, model-driven definition, integration, management 
 and testing your VDBs using the Teiid runtime framework.
 
 <div>

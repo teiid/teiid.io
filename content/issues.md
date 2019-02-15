@@ -16,6 +16,6 @@ menu:
 
 There are 3 JIRA projects for issues related to Teiid and associated tools.
 
-* **[Teiid Core](https://issues.jboss.org/projects/TEIID/issues)**  >>  https://issues.jboss.org/projects/TEIID/issues
-* **[Web Tooling](https://issues.jboss.org/projects/TEIIDTOOLS/issues)** >>  https://issues.jboss.org/projects/TEIIDTOOLS/issues
-* **[Teiid Designer Tooling](https://issues.jboss.org/projects/TEIIDDES/issues)** >>  https://issues.jboss.org/projects/TEIIDDES/issues
+* **[Teiid Core, WildFly, and Thorntail](https://issues.jboss.org/projects/TEIID/issues)**  >>  https://issues.jboss.org/projects/TEIID/issues
+* **[Teiid Spring Boot](https://issues.jboss.org/projects/TEIIDSB/issues)** >>  https://issues.jboss.org/projects/TEIIDSB/issues
+* **[Cloud Tooling](https://issues.jboss.org/projects/TEIIDTOOLS/issues)** >>  https://issues.jboss.org/projects/TEIIDTOOLS/issues

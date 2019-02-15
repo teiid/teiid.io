@@ -37,8 +37,8 @@ and testing your VDBs using the Teiid runtime framework.
 ## **Teiid Console**
 
 The **Teiid Console** is a graphical web based administrative tool that is written using the GWT technologies which is used
-to monitor the JBoss AS instances. Teiid provides an additional plugin-in into this system that lets users configure and
-manage Teiid along with JBoss AS.
+to monitor WildFly instances. Teiid provides an additional plugin-in into this system that lets users configure and
+manage Teiid along with WildFly.
 
 ### What can the console do?
 
