@@ -28,10 +28,10 @@ Teiid 12.0.0 for WildFly 14.0.1 is now available. The main features are:
 </ul>
 
 ### **Latest**
-- **Version 12.0.0**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.0/teiid-wildfly-12.0.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/teiid-wildfly-12.0.0-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.0.0/teiid-12.0.0-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.0/teiid-wildfly-12.0.0-src.zip)
+- **Version 12.0.1**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/teiid-wildfly-12.0.1-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.0.1/teiid-12.0.1-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
