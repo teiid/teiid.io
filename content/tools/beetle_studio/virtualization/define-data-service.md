@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: Define a Data Service
     weight: -380
-    parent: Virtualization
+    parent: Virtualization Quickstart
 sidebar: sidenav
 title: "Define a Data Service"
 toc: true

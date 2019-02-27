@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: Setup
     weight: -400
-    parent: Virtualization
+    parent: Virtualization Quickstart
 sidebar: sidenav
 title: "Setup for Teiid Cloud Quickstart"
 toc: true
