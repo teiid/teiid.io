@@ -15,23 +15,22 @@ menu:
 toc: true
 ---
 
-## [Teiid Spring Boot / OpenShift Examples](https://github.com/teiid/teiid-openshift-examples)
-
-## [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)
-
-## Beetle Studio Quickstarts
+---
+## <img src="/images/datavirt-logo.png"/> [Teiid Spring Boot / OpenShift Examples](https://github.com/teiid/teiid-openshift-examples)
 
 ---
+## <img src="/images/datavirt-logo.png"/> [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)
 
-### <img src="/images/datavirt-logo.png"> <img> [Virtualization Quickstart](/tools/beetle_studio/virtualization)
+---
+## Beetle Studio Quickstarts
+
+### <img src="/images/datavirt-logo.png"/> [Virtualization Quickstart](/tools/beetle_studio/virtualization)
 
 - Exposing single database as an OData service
 
----
-
-### <img src="/images/dataintegration-icon.png"> <img> [Integration Quickstart](/tools/beetle_studio//integration)
+### <img src="/images/dataintegration-icon.png"/> [Integration Quickstart](/tools/beetle_studio//integration)
 
 - Combine 2 database instances and report as single source in under 5 minutes
 
-## [Teiid WildFly Quickstart](teiid_runtimes/teiid_wildfly/quickstart)
-
+---
+## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstart](/teiid_runtimes/teiid_wildfly/quickstart)
