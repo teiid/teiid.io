@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: Access Data Service -
     weight: -360
-    parent: Integration
+    parent: Integration Quickstart
 sidebar: sidenav
 title: "Access Data Service"
 toc: true

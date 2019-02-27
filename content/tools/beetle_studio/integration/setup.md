@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: Setup -
     weight: -400
-    parent: Integration
+    parent: Integration Quickstart
 sidebar: sidenav
 title: "Setup for Integration Quickstart"
 toc: true
