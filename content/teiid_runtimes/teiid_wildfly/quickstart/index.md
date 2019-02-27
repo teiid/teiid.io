@@ -20,15 +20,11 @@ This Quick Start Guide takes you through an introduction to the concepts importa
 
 This Quick Start Guide takes you through an introduction to the concepts important to Teiid, downloading the software, building and deploying a virtual database and integrating data sources. The goal is to provide you with examples that help explain how to use to Teiid in order to get you off the ground.  It also introduces to some of the essential concepts of Teiid.
 
-TIP: **Further Reading** - Please read http://teiid.github.io/teiid-documents/master/content/[Teiid Documentation] to understand different terminologies used, resources needed, and artifacts to be generated before developing a successful application. This example takes advantage of only a minimal set of features in Teiid for the sake of simplicity and time.
+TIP: **Further Reading** - Please read [Teiid Documentation](http://teiid.github.io/teiid-documents/master/content/) to understand different terminologies used, resources needed, and artifacts to be generated before developing a successful application. This example takes advantage of only a minimal set of features in Teiid for the sake of simplicity and time.
 
-NOTE: **Ask Us** - Ask us any questions you have on this Quick Start or any other Teiid related questions on https://community.jboss.org/en/teiid?view=discussions[Teiid Forums].
+NOTE: **Ask Us** - Ask us any questions you have on this Quick Start or any other Teiid related questions on [Teiid Forums](https://community.jboss.org/en/teiid?view=discussions).
 
 ### Introduction
-
-Quick starts for http://teiid.jboss.org/[Teiid].
-
-To contribute a quick start, goto http://github.com/teiid/teiid-quickstarts.
 
 The link:dist[dist] folder contains the Maven scripts to build the quick start zip of the quickstarts.
 

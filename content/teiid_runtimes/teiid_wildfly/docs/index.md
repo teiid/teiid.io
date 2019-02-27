@@ -3,8 +3,9 @@ bref: ""
 draft: false
 menu:
   sidenav:
-    name: Documents (TW)
-    weight: -277
+    identifier: "Teiid WildFly Documents"
+    name: Documents
+    weight: -270
     parent: Teiid WildFly
 sidebar: sidenav
 title: "Teiid WildFly Documents"

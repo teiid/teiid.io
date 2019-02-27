@@ -4,9 +4,9 @@ date: 2017-05-19T14:40:12+01:00
 draft: false
 menu:
   sidenav:
-    name: Virtualization
+    name: "Virtualization Quickstart"
     weight: -400
-    parent: Quickstarts
+    parent: Beetle Studio
 sidebar: sidenav
 title: "Virtualization Quickstart"
 toc: true
