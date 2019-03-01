@@ -35,7 +35,7 @@ Version 11.1.2
 
 Copyright © 2018 Red Hat, Inc.
 
-[Legal Notice](Legal_Notice.html)
+[Legal Notice](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/Legal_Notice.html)
 
 [Table of Contents](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/) (abbreviated)
 

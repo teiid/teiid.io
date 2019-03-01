@@ -17,7 +17,7 @@ weight: 20
 
 **Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.**
 
-Teiid is comprised of [tools](/tooling/#teiid-console), components and services for creating and executing bi-directional data access services.
+Teiid is comprised of [tools](/tools/#teiid-console), components and services for creating and executing bi-directional data access services.
 
 Through abstraction and federation, data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record.
 

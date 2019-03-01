@@ -22,9 +22,9 @@ A Translator provides an abstraction layer between Teiid Query Engine and physic
 
 Teiid provides various pre-built translators for sources like Oracle, DB2, SQL Server, MySQL, PostgreSQL, XML, File etc.
 
-A Translator also defines the capabilities of a perticular source, like whether it can natively support query joins (inner joins, cross joins etc) or support criteria.
+A Translator also defines the capabilities of a particular source, like whether it can natively support query joins (inner joins, cross joins etc) or support criteria.
 
-A Transaltor along with its Resource Adaptor is always must be configured on a **Source Model**. Cross-source queries issued against a VDB running in Teiid result in source queries being issued to translator, which interact with the physical data sources.
+A Translator along with its Resource Adaptor is always must be configured on a **Source Model**. Cross-source queries issued against a VDB running in Teiid result in source queries being issued to translator, which interact with the physical data sources.
 
 A Translator is defined by using one of the default pre-built ones, or you can override the default properties of the pre-built ones to define your own. The tooling will provide mechanisms to define override translators.
 
@@ -56,6 +56,6 @@ It is possible to use the security system of individual data sources if this is 
 ### Administering
 
 
-In <span class="product">Teiid</span>, Translators and Resource adaptors can be configured and monitored using the Teiid Console, or using the [Teiid Server Administrative API](../../teiid_wildfly/docs/index.html).
+In <span class="product">Teiid</span>, Translators and Resource adaptors can be configured and monitored using the Teiid Console, or using the [Teiid Server Administrative API](/teiid_runtimes/teiid_wildfly/docs/index.html).
 
 <p></p>
