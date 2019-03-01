@@ -13,7 +13,7 @@ toc: true
 weight: 10
 ---
 
-Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](http://www.jboss.com/products/platforms/dataservices) and the [community resources](../community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/)
+Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](http://www.jboss.com/products/platforms/dataservices) and the [community resources](/community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/)
  
 - The [12.x](http://teiid.github.io/teiid-documents/12.0.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
  
