@@ -18,6 +18,14 @@ weight: 10
 
 ---
 
+- **Version 11.2.2**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-wildfly-server.zip)
+  - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-adminshell-dist.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.2/teiid-11.2.2-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.0/teiid-releasenotes.html)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
+
 - **Version 11.1.2**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-server.zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-adminshell-dist.zip)
