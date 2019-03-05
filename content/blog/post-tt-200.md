@@ -1,5 +1,5 @@
 ---
-date: "2019-03-05T22:42:50+01:00"
+date: "2019-03-05T11:42:50+01:00"
 draft: false
 title: "Teiid Thorntail 2.0.0 Released"
 menu:
