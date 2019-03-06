@@ -47,7 +47,8 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 | [10.x-11.x](https://github.com/teiid/teiid-embedded-examples/blob/teiid-10.x/README.md)
 
 - ###### **Quick Start**
-  - Version 10.0+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
+  - Version 12.1+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
+| Version 10.x-11.x [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-10.x/README.adoc)
 
 - ###### **API Docs**
   - Version [12.1](http://docs.jboss.org/teiid/12.1.0/apidocs)
@@ -77,8 +78,7 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 - ###### [**Teiid Embedded Examples**](https://github.com/teiid/teiid-embedded-examples/blob/teiid-9.x/README.md)
 
-- ###### **Quick Start**
-  - [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-9.x/README.adoc)
+- ###### [**Quick Start**](https://github.com/teiid/teiid-quickstarts/blob/teiid-9.x/README.adoc)
 
 - ###### **API Docs**
   - Version [9.3](http://docs.jboss.org/teiid/9.3.0.Final/apidocs) |
