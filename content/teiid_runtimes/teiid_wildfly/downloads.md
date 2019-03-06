@@ -116,7 +116,7 @@ Teiid 10+
 You should use maven to directly control what features you need when embedding Teiid. See:  
 
 - [**Teiid Spring Boot**](https://github.com/teiid/teiid-spring-boot)  
-- [**Teiid Thorntail Examples**](https://github.com/teiid/thorntail-teiid-examples) Note that the current Thorntail integration will utilize Teiid 11.2.x until Thorntail moves to later WildFly.
+- [**Teiid Thorntail Examples**](https://github.com/teiid/thorntail-teiid-examples)
 - [**The Embedded Examples**](https://github.com/teiid/teiid-embedded-examples)
 
 ---
