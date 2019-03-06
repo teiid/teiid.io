@@ -29,7 +29,7 @@ Teiid 12.1.0 for WildFly 15.0.1 is now available. The main features are:
 
 ### **Latest**
 - **Version 12.1.0**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.0/teiid-wildfly-12.1.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/teiid-wildfly-12.1.0-server.zip)
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.0/teiid-wildfly-12.1.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.0/teiid-wildfly-12.1.0-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.1.0/teiid-12.1.0-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.0/teiid-wildfly-12.1.0-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.1.0/teiid-releasenotes.html)
@@ -37,14 +37,14 @@ Teiid 12.1.0 for WildFly 15.0.1 is now available. The main features are:
 
 ### **Previous**
 - **Version 12.0.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/teiid-wildfly-12.0.1-server.zip)
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.0.1/teiid-12.0.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.0.1/teiid-wildfly-12.0.1-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.0.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Older 11.x releases**
-  - [**Version 11.2.2, 11.1.2, 11.0.3**](/teiid_runtimes/teiid_wildfly/downloads_11/)
+  - [**Version 11.2.2, 11.1.2, 11.0.3**](/teiid_runtimes/teiid_wildfly/downloads_11.x/)
 
 ### **Unstable**
 - **Version 12.2 SNAPSHOT**
@@ -55,7 +55,7 @@ Teiid 12.1.0 for WildFly 15.0.1 is now available. The main features are:
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Historical Version Downloads**
-- [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_runtimes/teiid_wildfly/downloads_11/)
+- [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_runtimes/teiid_wildfly/downloads_11.x/)
 - [**10.x (WildFly 11.0.0 Java 8+)**](http://teiid.jboss.org/downloads_10x)
 - [**9.x (WildFly 10.0.0 Java 8+)**](http://teiid.jboss.org/downloads_9x)
 - [**9.0 (WildFly 9.0.2 Java 7+)**](http://teiid.jboss.org/downloads_900)
