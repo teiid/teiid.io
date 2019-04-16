@@ -8,13 +8,6 @@ metaDataFormat: "yaml"
 pygmentsCodeFences: true
 pygmentsCodeFencesGuessSyntax: true
 pygmentsStyle: github
-
-menu:
-  topnav:
-  - name: "code"
-    weight: -110
-    identifier: "code"
-    url: "https://github.com/teiid"
     
 params:
   proddtm: "http://www.redhat.com/dtm.js"
