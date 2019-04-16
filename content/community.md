@@ -16,11 +16,21 @@ menu:
 
 We <i class="fa fa-heart text-danger"></i> community! Contributions and feedback in whatever form are always welcome, as long as they're constructive!
 
-Here are some important links:
-
-* **Source code:** [GitHub organization](https://github.com/teiid)
 * **IRC:** [#teiid on freenode](irc://freenode.net/teiid)
 * **Gitter:** [Teiid](https://gitter.im/teiid)
-* **[Issues](/issues)**
 * **Forum:** [Teiid](https://developer.jboss.org/en/teiid)
+* **Source code:** [GitHub organization](https://github.com/teiid)
+    
+There are 3 JIRA projects for issues related to Teiid and associated tools:
+
+* **Teiid Core, WildFly, and Thorntail**
+    * [JIRA Issues](https://issues.jboss.org/projects/TEIID/issues)
+    * [Core/WildFly Source](https://github.com/teiid/teiid), [Thorntail Source](https://github.com/teiid/teiid-thorntail) 
+* **Teiid Spring Boot**
+    * [JIRA Issues](https://issues.jboss.org/projects/TEIIDSB/issues)
+    * [Source](https://github.com/teiid/teiid-spring-boot)
+* **Cloud Tooling**
+    * [JIRA Issues](https://issues.jboss.org/projects/TEIIDTOOLS/issues)
+    * [Backend (Komodo) Source](https://github.com/teiid/teiid-komodo), [UI](https://github.com/syndesisio/syndesis-react)
+
 
