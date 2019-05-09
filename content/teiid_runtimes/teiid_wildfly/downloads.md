@@ -18,7 +18,7 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 12.1.0 Released on March 4th, 2019 ##
+## Latest Release Announcement: 12.2.0 Released on May 9th, 2019 ##
 Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
 <ul>
   <li><a href="https://issues.jboss.org/browse/TEIID-5619">TEIID-5619</a> Added system admin tables and procedures for sessions, requests, and transactions.</li>
