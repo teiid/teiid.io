@@ -24,7 +24,7 @@ weight: 10
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.3/teiid-11.2.3-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.3/teiid-11.2.3-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 - **Version 11.1.2**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-server.zip)
@@ -32,7 +32,7 @@ weight: 10
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.1.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 - **Version 11.0.3**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-wildfly-server.zip)
@@ -40,7 +40,7 @@ weight: 10
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.0.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/thirdparty-releases/content/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.0.1/dist-3.0.1-overlay.zip)
 
 
 #### Maven
