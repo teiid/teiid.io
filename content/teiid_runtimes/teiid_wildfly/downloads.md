@@ -32,7 +32,7 @@ Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.2.0/teiid-12.2.0-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.0/teiid-wildfly-12.2.0-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.2.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Previous**
 - **Version 12.1.1**
@@ -40,7 +40,7 @@ Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.1.1/teiid-12.1.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.1.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Older 11.x releases**
   - [**Version 11.2.3, 11.1.2, 11.0.3**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
@@ -51,7 +51,7 @@ Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=src&e=zip)
   - [**Release Notes/Change Log**](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12340672&projectId=12310782)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/service/local/repositories/releases/content/org/jboss/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Historical Version Downloads**
 - [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
