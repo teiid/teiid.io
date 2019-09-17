@@ -18,15 +18,23 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 12.2.0 Released on May 9th, 2019 ##
-Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
+## Latest Release Announcement: 12.3.0 Released on September 17th, 2019 ##
+Teiid 12.3.0 with WildFly 17.0.0.Final support is now available. The main features are:
 <ul>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5619">TEIID-5619</a> Added system admin tables and procedures for sessions, requests, and transactions.</li>
-  <li>Various refactorings to support lighter-weight embedded and Spring scenarios.  Including optional geospatial and xml/xpath libraries, and removal of several dependencies from the core.</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5500">TEIID-5500</a> Improved OData performance - especially with large results.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5481">TEIID-5481</a> Added a JsonPath based JSONTABLE as an alternative to jsontoxml with XMLTABLE.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5738">TEIID-5738</a> Upgraded to WildFly 17</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5704">TEIID-5704</a> OpenAPI source supported was added for OpenAPI 2/3 services.</li>
 </ul>
 
 ### **Latest**
+- **Version 12.3.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.0/teiid-wildfly-12.3.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.0/teiid-wildfly-12.3.0-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.3.0/teiid-12.3.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.0/teiid-wildfly-12.3.0-src.zip)
+  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.3.0/teiid-releasenotes.html)
+  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
+
+### **Previous**
 - **Version 12.2.1**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.1/teiid-wildfly-12.2.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.1/teiid-wildfly-12.2.1-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.2.1/teiid-12.2.1-jdbc.jar)
@@ -34,16 +42,9 @@ Teiid 12.2.0 for WildFly 15.0.1 is now available. The main features are:
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.2.1/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
-### **Previous**
-- **Version 12.1.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.1.1/teiid-12.1.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.1.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
-
 ### **Older 11.x releases**
-  - [**Version 11.2.3, 11.1.2, 11.0.3**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
+  - [**Version 12.x**](/teiid_runtimes/teiid_wildfly/downloads_12x/)
+  - [**Version 11.x**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
 
 ### **Unstable**
 - **Version 12.3 SNAPSHOT**

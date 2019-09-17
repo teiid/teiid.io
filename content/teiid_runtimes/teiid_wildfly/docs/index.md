@@ -32,7 +32,8 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 
 - ###### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
-  - Version [12.2](http://teiid.github.io/teiid-documents/12.2.x/content)
+  - Version [12.3](http://teiid.github.io/teiid-documents/12.3.x/content)
+| [12.2](http://teiid.github.io/teiid-documents/12.2.x/content)
 | [12.1](http://teiid.github.io/teiid-documents/12.1.x/content)
 | [12.0](http://teiid.github.io/teiid-documents/12.0.x/content) 
 | [11.2](http://teiid.github.io/teiid-documents/11.2.x/content) 
@@ -52,7 +53,8 @@ Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
 | Version 10.x-11.x [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-10.x/README.adoc)
 
 - ###### **API Docs**
-  - Version [12.2](http://docs.jboss.org/teiid/12.2.0/apidocs) 
+  - Version [12.3](http://docs.jboss.org/teiid/12.3.0/apidocs)
+| [12.2](http://docs.jboss.org/teiid/12.2.0/apidocs) 
 | [12.1](http://docs.jboss.org/teiid/12.1.0/apidocs)
 | [12.0](http://docs.jboss.org/teiid/12.0.0/apidocs) 
 | [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs) 
