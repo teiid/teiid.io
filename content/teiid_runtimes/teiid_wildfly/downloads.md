@@ -23,7 +23,7 @@ Teiid 12.3.0 with WildFly 17.0.0.Final support is now available. The main featur
 <ul>
   <li><a href="https://issues.jboss.org/browse/TEIID-5481">TEIID-5481</a> Added a JsonPath based JSONTABLE as an alternative to jsontoxml with XMLTABLE.</li>
   <li><a href="https://issues.jboss.org/browse/TEIID-5738">TEIID-5738</a> Upgraded to WildFly 17</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5704">TEIID-5704</a> OpenAPI source supported was added for OpenAPI 2/3 services.</li>
+  <li><a href="https://issues.jboss.org/browse/TEIID-5704">TEIID-5704</a> OpenAPI source supported was added for OpenAPI 2 or 3 services.</li>
 </ul>
 
 ### **Latest**
@@ -134,8 +134,9 @@ Please consult the respective Migration Guides [**from 9.x to 10.x.**](http://te
 Teiid Requires:
 
 - [**JRE**](http://www.java.com/en/download/manual.jsp)
-  - Java 1.8 for Teiid 9.1+
+  - Java 1.8 for Teiid 9.1+, Teiid 12.1.0 and later may use Java 11
 - [**WildFly**](http://wildfly.org/downloads/)
+  - WildFly 17.0.0 for Teiid 12.3.0+
   - WildFly 15.0.1 for Teiid 12.1.0+
   - WildFly 14.0.1 for Teiid 12.0
   - WildFly 11.0.0 for Teiid 10/11
