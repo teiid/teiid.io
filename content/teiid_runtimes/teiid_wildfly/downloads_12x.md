@@ -16,10 +16,10 @@ weight: 15
 
 ## Runtime
 ---
-- **Version 12.1.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.1.1/teiid-12.1.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.1/teiid-wildfly-12.1.1-src.zip)
+- **Version 12.1.2**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.2/teiid-wildfly-12.1.2-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.2/teiid-wildfly-12.1.2-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.1.2/teiid-12.1.2-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.1.2/teiid-wildfly-12.1.2-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.1.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
