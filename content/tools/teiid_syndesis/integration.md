@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: "Integration Quickstart"
     weight: -300
-    parent: Beetle Studio
+    parent: Teiid Syndesis
 sidebar: sidenav
 title: "Integration Quickstart"
 toc: true

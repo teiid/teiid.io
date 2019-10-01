@@ -15,7 +15,7 @@ weight: 20
 [**Quickstarts**](../..) &nbsp;&nbsp; < &nbsp;&nbsp; [Integration Quickstart](..)  &nbsp;&nbsp; >  &nbsp;&nbsp; [Setup](../setup)  &nbsp;&nbsp; >  &nbsp;&nbsp; **Define a Data Service**  &nbsp;&nbsp; >  &nbsp;&nbsp; [Access Data Service](../access-data-service)
 
 
-- Open Beetle Studio
+- Open Teiid Syndesis
   - connect to MySQL database
   - create a view joining some of your data
   - test your data

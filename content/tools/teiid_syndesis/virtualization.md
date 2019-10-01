@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: "Virtualization Quickstart"
     weight: -400
-    parent: Beetle Studio
+    parent: Teiid Syndesis
 sidebar: sidenav
 title: "Virtualization Quickstart"
 toc: true
@@ -28,7 +28,7 @@ weight: 20
       <li>Configure minishift with the following services</li>
       <ul>
         <li>PostgresSQL DB data service</li>
-        <li>Beetle Studio / Teiid Runtime / WildFly server</li>
+        <li>Teiid Syndesis</li>
       </ul>
     </ul>
     </div>

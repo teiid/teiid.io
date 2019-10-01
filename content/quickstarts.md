@@ -22,13 +22,13 @@ toc: true
 ## <img src="/images/datavirt-logo.png"/> [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)
 
 ---
-## Beetle Studio Quickstarts
+## Teiid Syndesis Quickstarts
 
-### <img src="/images/datavirt-logo.png"/> [Virtualization Quickstart](/tools/beetle_studio/virtualization)
+### <img src="/images/datavirt-logo.png"/> [Virtualization Quickstart](/tools/teiid_syndesis/virtualization)
 
 - Exposing single database as an OData service
 
-### <img src="/images/dataintegration-icon.png"/> [Integration Quickstart](/tools/beetle_studio//integration)
+### <img src="/images/dataintegration-icon.png"/> [Integration Quickstart](/tools/teiid_syndesis/integration)
 
 - Combine 2 database instances and report as single source in under 5 minutes
 

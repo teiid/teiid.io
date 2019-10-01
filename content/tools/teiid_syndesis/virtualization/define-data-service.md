@@ -18,7 +18,7 @@ weight: 20
 * [Setup](../setup)
 
 ##### Define a Data Service
-Uses beetle-studio to:
+Uses Teiid Syndesis to:
 
 1. Create a connection to the Openshift US-States database service;
 2. Create a virtualization using the connection adding filters if required;

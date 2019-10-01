@@ -37,14 +37,14 @@ This provides a data service in Openshift which can be virtualized. The database
   <div id="caption">Video installing the data service</div>
 </div>
 
-## Beetle Studio
-The beetle-studio services provide the UI, API and repository for generating new virtualization services from existing Openshift services.
+## Teiid Syndesis
+Teiid Syndesis provides the UI, API and repository for generating new virtualization services from existing Openshift services.
 
 <div class="thumbnail-video">
   <video width="600" height="400" poster="/videos/quickstart/virtualization/_thb_install-beetle-studio.png" controls>
     <source src="/videos/quickstart/virtualization/install-beetle-studio.webm" type='video/webm'>
   </video>
-  <div id="caption">Video installing beetle-studio</div>
+  <div id="caption">Video installing Teiid Syndesis</div>
 </div>
 
 **NOTE:** if you are using minishift 1.18, you should install **admin-user** addon to the minishift (*minishift addon apply admin-user*) and login as admin instead of system:admin due to this issue https://github.com/minishift/minishift/issues/2107
