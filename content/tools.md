@@ -15,10 +15,10 @@ The Teiid project includes a few tools to help you develop and manage various ar
 
 ---
 
-## ![Beetle](/images/beetle_32x26.png?raw=true) [Beetle Studio](/tools/beetle_studio)
+## ![Teiid Syndesis](/images/syndesis_icon_32.svg) [Teiid Syndesis](/tools/teiid_syndesis)
 
 <div>
-<img width="600" height="363" src="/images/beetle-studio-home.png" frameborder="2" hspace="40" ></img>
+<img width="600" src="/images/ts-home.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---

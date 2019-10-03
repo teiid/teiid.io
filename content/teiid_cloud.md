@@ -32,6 +32,6 @@ As a [Spring Boot](../teiid_runtimes/springboot) or [Thorntail](../teiid_runtime
 
 ---
 
-## [Beetle Studio](/tools/beetle_studio)
+## [Teiid Syndesis](/tools/teiid_syndesis)
 
-For citizen developers <a href="/tools/beetle_studio" role="button"><strong>Beetle Studio</strong></a> lets you connect to, view, combine and secure your data - and create a managed virtualization leveraging Teiid on Spring Boot.
+For citizen developers <a href="/tools/teiid_syndesis" role="button"><strong>Teiid Syndesis</strong></a> lets you connect to, view, combine and secure your data - and create a managed virtualization leveraging Teiid on Spring Boot.
