@@ -65,6 +65,6 @@ Teiid is the query engine at the heart of the Red Hat Data Virtualization Platfo
 
 **How is Teiid related to Teiid Designer?** _(previously Dimension and Modeler)_
 
-The Teiid Designer is an Eclipse-based graphical modeling environment used to define data services. Teiid is also used by Designer for testing queries against VDBs prior to deployment.  
+The Teiid Designer is an Eclipse-based graphical modeling environment used to define data virtualizations. Teiid is also used by Designer for testing queries against VDBs prior to deployment.  
 Teiid is actually used inside the Teiid Designer modeling environment. It is used for validating queries against VDBs prior to deployment. And it is the query engine packaged as a Web Service application, which is deployed as a standard WAR file for deployment and execution on standard J2EE application servers.  
 Examples of functionality available with Designer that are not available with the Teiid project are: real-time transformation of non-XML data into XML structures backed by XML Schemas; use of the Teiid Designer modeling tool; and deployment of Web services exposing integrated data.

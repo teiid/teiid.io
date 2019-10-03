@@ -4,11 +4,11 @@ date: 2017-05-19T14:40:12+01:00
 draft: false
 menu:
   sidenav:
-    name: Beetle Studio
+    name: Teiid Syndesis
     weight: -400
     parent: Tools
 sidebar: sidenav
-title: "Beetle Studio"
+title: "Teiid Syndesis"
 toc: true
 weight: 100
 ---
@@ -17,16 +17,16 @@ weight: 100
   <div class="container">
     <div class="row align-items-center">
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 push-md-6 mb-2">
-        <img width="450" class="screenshot" src="/images/beetle-studio-home.png" alt="Data Service Wizard"/>
+        <img width="450" class="screenshot" src="/images/ts-home.png" alt="Teiid Syndesis Home"/>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pull-md-6">
         <h4>
-          <img style="padding:1rem" src="/images/beetle_32x26.png" />Visual data service design tool
+          <img style="padding:1rem" src="/images/syndesis_icon_32.svg" />Visual data virtualization design tool
         </h4>
         <p class="lead">
-          Beetle Studio is a browser-based visual tool that enables rapid, model-driven definition, integration, management and testing your data services.
+          Teiid Syndesis is a browser-based visual tool that enables rapid, model-driven definition, integration, management and testing your data.
 
-Beetle Studio will be part of <a href="https://syndesis.io/">Syndesis</a>.  Syndesis will allow you to connect to your sources, define REST APIs, integrations, and data virtualizations in minutes.  Beetle Studio allows you to create views and expose your data as OData or database protocols.
+Teiid Syndesis is part of <a href="https://syndesis.io/">Syndesis</a>.  Syndesis allows you to connect to your sources, define REST APIs, integrations, and data virtualizations in minutes.  Teiid Syndesis allows you to create views and expose your data as OData or database protocols.
         </p>
       </div>
     </div>
