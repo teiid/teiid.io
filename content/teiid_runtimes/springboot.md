@@ -21,7 +21,7 @@ weight: 20
 
 ---
 
-The Teiid project includes a feature to help you develop data services within Spring applications.
+The Teiid project provides libraries for developing data virtualizations within Spring applications.
 
 ### [**Teiid Spring Boot**](https://github.com/teiid/teiid-spring-boot)
 
