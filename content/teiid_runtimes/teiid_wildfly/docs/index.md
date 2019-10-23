@@ -25,8 +25,7 @@ Teiid documentation provides introductory material, manuals, and guides covering
 
 ### Community Resources
 
-Many "How To" and other documents are posted as WIKI pages and articles on the [Teiid Community](https://www.jboss.org/community/docs/DOC-12956) and on the old [Teiid Blog](http://teiid.blogspot.com/) and the new Teiid Blog [Teiid Blog.](http://teiid.io/blog)
-Please also see our [GitHub site.](https://github.com/teiid/teiid-documents/)
+See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](https://github.com/teiid/teiid-documents/).  Documentation for the other Teiid projects is generally kept along side the code in the repository.
 
 ### Version 10 - 12 Releases
 

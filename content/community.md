@@ -17,8 +17,8 @@ menu:
 We <i class="fa fa-heart text-danger"></i> community! Contributions and feedback in whatever form are always welcome, as long as they're constructive!
 
 * **IRC:** [#teiid on freenode](irc://freenode.net/teiid)
-* **Gitter:** [Teiid](https://gitter.im/teiid)
-* **Forum:** [Teiid](https://developer.jboss.org/en/teiid)
+* **StackOverflow:** [Teiid Tag](https://stackoverflow.com/questions/tagged/teiid)
+* **Legacy Forum:** [Teiid](https://developer.jboss.org/en/teiid)
 * **Source code:** [GitHub organization](https://github.com/teiid)
     
 There are 3 JIRA projects for issues related to Teiid and associated tools:
