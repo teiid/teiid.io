@@ -35,7 +35,7 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 *   [Teiid Web Console](/tools/index.html)
 *   [Teiid Designer](http://teiiddesigner.jboss.org/) *Deprecated*
 *   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
-*   [Teiid Dashboard Builder](https://issues.jboss.org/browse/TEIIDDSHB) *Deprecated*
+*   [Teiid Dashboard Builder](https://issues.redhat.com/browse/TEIIDDSHB) *Deprecated*
 
 You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
 

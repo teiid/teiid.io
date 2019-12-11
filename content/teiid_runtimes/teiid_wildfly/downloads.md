@@ -18,29 +18,26 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 12.3.0 Released on September 17th, 2019 ##
-Teiid 12.3.0 with WildFly 17.0.0.Final support is now available. The main features are:
-<ul>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5481">TEIID-5481</a> Added a JsonPath based JSONTABLE as an alternative to jsontoxml with XMLTABLE.</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5738">TEIID-5738</a> Upgraded to WildFly 17</li>
-  <li><a href="https://issues.jboss.org/browse/TEIID-5704">TEIID-5704</a> OpenAPI source supported was added for OpenAPI 2 or 3 services.</li>
-</ul>
+## Latest Release Announcement: 13.0.0 Released on December 11th, 2019 ##
+Teiid 13.0.0 with WildFly 17.0.0.Final support is now available. The main features are:
+- [TEIID-3522](https://issues.redhat.com/browse/TEIID-3522) added support for some OData aggregation via the apply option - including top level aggregation (aggregate), grouping (groupby), and filtering (filter).  
+- [TEIID-5492](https://issues.redhat.com/browse/TEIID-5492) added support for an EXPLAIN statement.
 
 ### **Latest**
+- **Version 13.0.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.0/teiid-wildfly-13.0.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.0/teiid-wildfly-13.0.0-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.0.0/teiid-13.0.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.0/teiid-wildfly-13.0.0-src.zip)
+  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.0.x/content/reference/Release_Notes.html)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+
+### **Previous**
 - **Version 12.3.1**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.1/teiid-wildfly-12.3.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.1/teiid-wildfly-12.3.1-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.3.1/teiid-12.3.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.1/teiid-wildfly-12.3.1-src.zip)
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.3.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
-
-### **Previous**
-- **Version 12.2.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.1/teiid-wildfly-12.2.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.1/teiid-wildfly-12.2.1-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.2.1/teiid-12.2.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.2.1/teiid-wildfly-12.2.1-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.2.1/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Older 11.x releases**
   - [**Version 12.x**](/teiid_runtimes/teiid_wildfly/downloads_12x/)
@@ -51,7 +48,7 @@ Teiid 12.3.0 with WildFly 17.0.0.Final support is now available. The main featur
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=dist&e=zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=server&e=zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=jdbc)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid&a=teiid&v=LATEST&c=src&e=zip)
-  - [**Release Notes/Change Log**](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12340672&projectId=12310782)
+  - [**Release Notes/Change Log**](https://issues.redhat.com/secure/ReleaseNote.jspa?version=12340672&projectId=12310782)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Historical Version Downloads**
