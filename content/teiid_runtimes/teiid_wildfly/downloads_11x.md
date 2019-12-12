@@ -9,7 +9,7 @@ menu:
 sidebar: sidenav
 title: "Teiid WildFly 11.x Downloads"
 toc: true
-weight: 10
+weight: 20
 ---
 
 ---
