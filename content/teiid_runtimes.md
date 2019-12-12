@@ -20,11 +20,6 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
 
 ---
 
-## [Teiid Thorntail](thorntail)
-  - Integration of Teiid on the Thorntail embedded application platform.
-  
----
-
 ## [Teiid Spring Boot](./springboot)
   - Teiid implemented for the Spring Boot framework.
 
@@ -32,5 +27,10 @@ In addition to accessing Teiid in the the cloud there are 4 additional ways you 
 
 ## [Teiid Embedded](./embedded)
   - Raw Teiid jars for use in any Java 8+ JRE application - only for highly custom scenarios.
+  
+---
+
+## [Teiid Thorntail](thorntail)
+  - Integration of Teiid on the Thorntail embedded application platform.
   
 ---
