@@ -20,8 +20,9 @@ weight: 10
 
 ## Latest Release Announcement: 13.0.0 Released on December 11th, 2019 ##
 Teiid 13.0.0 with WildFly 17.0.0.Final support is now available. The main features are:
-- [TEIID-3522](https://issues.redhat.com/browse/TEIID-3522) added support for some OData aggregation via the apply option - including top level aggregation (aggregate), grouping (groupby), and filtering (filter).  
-- [TEIID-5492](https://issues.redhat.com/browse/TEIID-5492) added support for an EXPLAIN statement.
+
+* [TEIID-3522](https://issues.redhat.com/browse/TEIID-3522) added support for some OData aggregation via the apply option - including top level aggregation (aggregate), grouping (groupby), and filtering (filter).  
+* [TEIID-5492](https://issues.redhat.com/browse/TEIID-5492) added support for an EXPLAIN statement.
 
 ### **Latest**
 - **Version 13.0.0**
