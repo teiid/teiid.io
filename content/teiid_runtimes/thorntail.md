@@ -5,7 +5,7 @@ draft: false
 menu:
   sidenav:
     name: Thorntail
-    weight: -300
+    weight: -250
     parent: Teiid Runtimes
 sidebar: sidenav
 title: "Teiid Thorntail"
