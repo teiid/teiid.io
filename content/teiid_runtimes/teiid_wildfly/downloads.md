@@ -22,13 +22,13 @@ weight: 10
 Teiid 13.0.1 with WildFly 17.0.0.Final support is now available. The main features are:
 
 * [TEIID-3522](https://issues.redhat.com/browse/TEIID-3522) added support for some OData aggregation via the apply option - including top level aggregation (aggregate), grouping (groupby), and filtering (filter).  
-* [TEIID-5492](https://issues.redhat.com/browse/TEIID-5492) added support for an EXPLAIN statement.
+* [TEIID-5740](https://issues.redhat.com/browse/TEIID-5740) added support for an EXPLAIN statement.
 
 ### **Latest**
-- **Version 13.0.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.1/teiid-wildfly-13.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.1/teiid-wildfly-13.0.1-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.0.1/teiid-13.0.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.1/teiid-wildfly-13.0.1-src.zip)
+- **Version 13.0.2**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.2/teiid-wildfly-13.0.2-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.2/teiid-wildfly-13.0.2-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.0.2/teiid-13.0.2-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.2/teiid-wildfly-13.0.2-src.zip)
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.0.x/content/reference/Release_Notes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
