@@ -10,5 +10,5 @@ pygmentsCodeFencesGuessSyntax: true
 pygmentsStyle: github
     
 params:
-  proddtm: "http://www.redhat.com/dtm.js"
-  stagingdtm: "http://www.redhat.com/dtm-staging.js"
+  proddtm: "https://www.redhat.com/dtm.js"
+  stagingdtm: "https://www.redhat.com/dtm-staging.js"

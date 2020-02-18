@@ -95,7 +95,7 @@ Teiid Requires:
 
 - [**JRE**](http://www.java.com/en/download/manual.jsp)
   - Java 1.8 for Teiid 9.1+
-- [**WildFly**](http://wildfly.org/downloads/)
+- [**WildFly**](https://wildfly.org/downloads/)
   - WildFly 11.0.0 for Teiid 10/11
 
 For complete installation instructions please refer to "Administrator's Guide" in [Teiid Documents section](../docs/index.html).

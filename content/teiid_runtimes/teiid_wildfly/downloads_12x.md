@@ -93,7 +93,7 @@ Teiid Requires:
 
 - [**JRE**](http://www.java.com/en/download/manual.jsp)
   - Java 1.8 for Teiid 9.1+
-- [**WildFly**](http://wildfly.org/downloads/)
+- [**WildFly**](https://wildfly.org/downloads/)
   - WildFly 15.0.1 for Teiid 12.1.0+
   - WildFly 14.0.1 for Teiid 12.0
 

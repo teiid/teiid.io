@@ -33,4 +33,4 @@ toc: true
 - Combine 2 database instances and report as single source in under 5 minutes
 
 ---
-## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstart](/teiid_runtimes/teiid_wildfly/quickstart)
+## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstart](https://github.com/teiid/teiid-wildfly-quickstarts)
