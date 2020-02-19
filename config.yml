@@ -8,6 +8,7 @@ metaDataFormat: "yaml"
 pygmentsCodeFences: true
 pygmentsCodeFencesGuessSyntax: true
 pygmentsStyle: github
+disqusShortname: teiid-io
     
 params:
   proddtm: "https://www.redhat.com/dtm.js"
