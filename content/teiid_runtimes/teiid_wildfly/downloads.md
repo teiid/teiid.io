@@ -53,11 +53,11 @@ Teiid 13.1.0 with WildFly 17.0.0.Final support is now available. The main featur
 
 ### **Historical Version Downloads**
 - [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
-- [**10.x (WildFly 11.0.0 Java 8+)**](http://teiid.jboss.org/downloads_10x)
-- [**9.x (WildFly 10.0.0 Java 8+)**](http://teiid.jboss.org/downloads_9x)
-- [**9.0 (WildFly 9.0.2 Java 7+)**](http://teiid.jboss.org/downloads_900)
-- [**8.13 (WildFly 9.0.2 Java 7+)**](http://teiid.jboss.org/downloads_813)
-- [**8.12 (EAP 6.4 Alpha Java 6+)**](http://teiid.jboss.org/downloads_812)
+- [**10.x (WildFly 11.0.0 Java 8+)**](http://teiid.io/legacy/downloads_10x/)
+- [**9.x (WildFly 10.0.0 Java 8+)**](http://teiid.io/legacy/downloads_9x/)
+- [**9.0 (WildFly 9.0.2 Java 7+)**](http://teiid.io/legacy/downloads_900)
+- [**8.13 (WildFly 9.0.2 Java 7+)**](http://teiid.io/legacy/downloads_813)
+- [**8.12 (EAP 6.4 Alpha Java 6+)**](http://teiid.io/legacy/downloads_812)
 - [**8.11 and prior**](http://sourceforge.net/projects/teiid/files/teiid/)
 
 ---
