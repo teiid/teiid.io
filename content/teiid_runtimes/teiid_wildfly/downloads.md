@@ -18,13 +18,22 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 13.0.1 Released on December 16th, 2019 ##
-Teiid 13.0.1 with WildFly 17.0.0.Final support is now available. The main features are:
+## Latest Release Announcement: 13.1.0 Released on March 6th, 2020 ##
+Teiid 13.1.0 with WildFly 17.0.0.Final support is now available. The main features are:
 
-* [TEIID-3522](https://issues.redhat.com/browse/TEIID-3522) added support for some OData aggregation via the apply option - including top level aggregation (aggregate), grouping (groupby), and filtering (filter).  
-* [TEIID-5740](https://issues.redhat.com/browse/TEIID-5740) added support for an EXPLAIN statement.
+- [TEIID-5874](https://issues.redhat.com/browse/TEIID-5874) added support for transactional Infinispan/JDG access.  Support for cache aliasing was removed.
+- [TEIID-5896](https://issues.redhat.com/browse/TEIID-5896) added support for EXTRACT QUARTER and EPOCH.
+* [TEIID-5798](https://issues.redhat.com/browse/TEIID-5798) added the POLICY construct to replace specifying a CONDITION on a permission.
 
 ### **Latest**
+- **Version 13.1.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.0/teiid-wildfly-13.1.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.0/teiid-wildfly-13.1.0-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.1.0/teiid-13.1.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.0/teiid-wildfly-13.1.0-src.zip)
+  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.0.x/content/reference/Release_Notes.html)
+  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+
+### **Previous**
 - **Version 13.0.2**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.2/teiid-wildfly-13.0.2-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.0.2/teiid-wildfly-13.0.2-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.0.2/teiid-13.0.2-jdbc.jar)
@@ -32,17 +41,8 @@ Teiid 13.0.1 with WildFly 17.0.0.Final support is now available. The main featur
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.0.x/content/reference/Release_Notes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
-### **Previous**
-- **Version 12.3.2**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.2/teiid-wildfly-12.3.2-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.2/teiid-wildfly-12.3.2-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/12.3.2/teiid-12.3.2-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/12.3.2/teiid-wildfly-12.3.2-src.zip)
-  - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/12.3.0/teiid-releasenotes.html)
-  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
-
-### **Older 11.x releases**
+### **Older 12.x releases**
   - [**Version 12.x**](/teiid_runtimes/teiid_wildfly/downloads_12x/)
-  - [**Version 11.x**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
 
 ### **Unstable**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=dist&e=zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=server&e=zip)
