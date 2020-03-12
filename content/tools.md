@@ -17,28 +17,28 @@ The Teiid project includes a few tools to help you develop and manage various ar
 
 ## ![Teiid Syndesis](/images/syndesis_icon_32.svg) [Teiid Syndesis](/tools/teiid_syndesis)
 
+**[Teiid Syndesis](/tools/teiid_syndesis)** provides data virtualization to Syndesis.  You can create a virtualization against a number of connection types, then manage the deployment and additional revisions all from the Syndesis UI.
+
 <div>
-<img width="600" src="/images/ts-home.png" frameborder="2" hspace="40" ></img>
+<img width="500" src="/images/ts-home.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---
 
 ## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](/tools/teiid_designer)
 
-**Teiid Designer** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
+**[Teiid Designer](/tools/teiid_designer)** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
 and testing your VDBs using the Teiid runtime framework.
 
 <div>
-<img width="600" height="363" src="/images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
+<img width="500" height="363" src="/images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
 </div>
 
 ---
 
 ## **Teiid Console**
 
-The **Teiid Console** is a graphical web based administrative tool that is written using the GWT technologies which is used
-to monitor WildFly instances. Teiid provides an additional plugin-in into this system that lets users configure and
-manage Teiid along with WildFly.
+The **Teiid Console** is a graphical web based administrative tool that is written using the GWT technologies which is used to monitor WildFly instances. Teiid provides an additional plugin-in into this system that lets users configure and manage Teiid along with WildFly.
 
 ### What can the console do?
 

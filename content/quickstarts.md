@@ -18,8 +18,7 @@ toc: true
 ---
 ## <img src="/images/datavirt-logo.png"/> [Teiid Spring Boot / OpenShift Examples](https://github.com/teiid/teiid-openshift-examples)
 
----
-## <img src="/images/datavirt-logo.png"/> [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)
+See how to get Teiid on OpenShift in no time.
 
 ---
 ## Teiid Syndesis Quickstarts
@@ -33,4 +32,9 @@ toc: true
 - Combine 2 database instances and report as single source in under 5 minutes
 
 ---
-## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstart](https://github.com/teiid/teiid-wildfly-quickstarts)
+## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstarts](https://github.com/teiid/teiid-wildfly-quickstarts)
+
+A large library of quickstarts / examples showcasing Teiid on WildFly.
+
+---
+## <img src="/images/datavirt-logo.png"/> [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)

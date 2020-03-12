@@ -20,7 +20,7 @@ toc: true
 
 Teiid has a [long history](./history) of addressing the data access needs of any size enterprise environment.  Have a look at [Why Teiid?](../about/why-teiid) and the [FAQ](faq) to see if this project is a good fit for your needs.
 
-Teiid is [open source](/community/contributing/) and has been a part of the [JBoss Community](http://jboss.org) of projects for over 10 years. 
+Teiid is [open source](/community/contributing/) and has been a part of the [JBoss Community](https://developer.jboss.org/welcome) of projects under the Red Hat umbrella for over 10 years. 
 
 ---
 ## Core Teiid Components
@@ -36,6 +36,12 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 *   [Teiid Designer](http://teiiddesigner.jboss.org/) *Deprecated*
 *   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
 *   [Teiid Dashboard Builder](https://issues.redhat.com/browse/TEIIDDSHB) *Deprecated*
+
+## Components/Tooling for OpenShift
+
+*   [Teiid Operator](/teiid_cloud)
+*   [Teiid Syndesis](/tools/teiid_syndesis)
+
 
 You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
 
