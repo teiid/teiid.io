@@ -22,9 +22,9 @@ weight: 20
 Every Java developer is familiar with JDBC access to data sources.  It is also expected by many BI and other tools.  With Teiid you can use JDBC to access any supported source - and integrate across them.
 
 Teiid's JDBC driver:
-* provides the JDBC 4.0 API
-* designed for high performance, utilizing batching, read-ahead, and more
-* has been vetted with many leading tools
+*   provides the JDBC 4.0 API
+*   designed for high performance, utilizing batching, read-ahead, and more
+*   has been vetted with many leading tools
 
 It's actually a bit of a shortcut to say ODBC access.  What Teiid provides is actually an interface that emulates the PostgreSQL Database.  It has been vetted to work with PostgreSQL ODBC (and JDBC drivers) along with access from several platforms including Node.js. SQLAlchemy, and tools such as QGIS.
 
