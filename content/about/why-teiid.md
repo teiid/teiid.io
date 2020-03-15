@@ -15,13 +15,20 @@ weight: 20
 
 [**About**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **Why Teiid** &nbsp;&nbsp; | &nbsp;&nbsp; [**FAQ**](../faq) &nbsp;&nbsp; | &nbsp;&nbsp; [**Basics**](../basics) &nbsp;&nbsp; | &nbsp;&nbsp; [**Project History**](../history)
 
-**1\. Familiar Interface: JDBC**
+**1\. Familiar Interfaces**
 
-<span class="product">Teiid</span> has a very familiar interface: JDBC! Every Java developer is familiar with JDBC access to data sources. Now leverage your knowledge of the JDBC standard to access _all_ your data sources.
+<span class="product">Teiid</span> offers very familiar interfaces: JDBC/ODBC/OData/REST.
 
-*   JDBC 4.0 API
-*   DML SQL-92 support (with select SQL-99 and later features)
-*   Support for standard JDBC scalar functions
+Every Java developer is familiar with JDBC access to data sources.  It is also expected by many BI and other tools.  With Teiid you can use JDBC to access any supported source - and integrate across them.
+
+Teiid's JDBC driver:
+*   provides the JDBC 4.0 API
+*   designed for high performance, utilizing batching, read-ahead, and more
+*   has been vetted with many leading tools
+
+It's actually a bit of a shortcut to say ODBC access.  What Teiid provides is actually an interface that emulates the PostgreSQL Database.  It has been vetted to work with PostgreSQL ODBC (and JDBC drivers) along with access from several platforms including Node.js. SQLAlchemy, and tools such as QGIS.
+
+[OData](https://www.odata.org/) access provides a turn-key way to expose your virtual database as a service.  It is a well supported standard in the Microsoft and Salesforce ecosystems.
 
 **2\. Familiar Query Language: SQL**
 
@@ -40,11 +47,7 @@ With Teiid, you can join and union data that resides in very dissimilar data sou
 
 **4\. Easy To Deploy**
 
-The <span class="product">Teiid query engine</span> is a Java component - it plugs right into your application, like any other Java library. Deployment is simple.
-
-*   Embed in plain old Java app
-*   Deploy to app servers
-*   Available as a stand-alone server in [JBoss Enterprise Data Services Platform](http://www.jboss.com/products/platforms/dataservices)
+The Teiid query engine is available for [several runtimes](/teiid_runtimes) and can be run on [OpenShift](/teiid_cloud).
 
 **5\. Eliminate Hand-coded Data Access Logic**
 
@@ -73,35 +76,15 @@ Part of being battle-tested is operating at expected levels of performance in a 
 
 **8\. Scriptable Integration**
 
-Teiid comes with an administrative shell that allows programatic access to administrative features.
+Teiid WildFly comes with an administrative shell that allows programatic access to administrative features.
 
 **9\. Works Like a Charm - Fast**
 
 Your time is precious - we know that. You can't waste your time investigating every new-fangled product and solution marketed to you. With Teiid, you don't have to. In 30 minutes, you can demonstrate to yourself that you can issue federated queries against 2 of your own databases.
 
-*   [30 minutes to get started](https://github.com/teiid/teiid-wildfly-quickstarts)
+*   [Teiid on OpenShift Examples](https://github.com/teiid/teiid-openshift-examples)
+*   [30 minutes to get started with Teiid WildFly](https://github.com/teiid/teiid-wildfly-quickstarts)
 
 **10\. Tip of the Iceberg**
 
-Still not convinced? What if we told you that all this was merely the tip of the iceberg? That's right - there's more! Not only can you do more with the Teiid query engine, but everything you do can be leveraged and extended with the Teiid Server and <span class="product">JBoss Enterprise</span> Data Services Platform.
-
-With Teiid Designer, you get the following additional functionality:
-
-*   Data abstraction through an Eclipse-based modeling tool
-    *   Relational views - of _any_ type of data
-    *   XML views of non-XML data (XSD-compliant)
-*   Data Access Services - rapid design and deploy
-    *   For Web services architectures
-    *   For general services-oriented architectures
-
-Moving up to the [JBoss Enterprise Data Services Platform](http://www.jboss.com/products/platforms/dataservices) suite enables you to take advantage of the following enterprise-level features:
-
-*   Extensive connectivity to enterprise sources
-    *   Support for packaged applications such as SAP
-*   Security
-    *   Authentication and authorization (entitlements)
-    *   Integration of external authentication/user systems
-*   Model management
-    *   Searchable metadata for dependency and impact analyses
-*   Monitoring and administration
-    *   <span class="product">Enterprise administration and monitoring console</span>
+Still not convinced? What if we told you that all this was merely the tip of the iceberg? That's right - there's more! Not only can you do more with the Teiid query engine, but everything you do can be leveraged and extended with custom logic - anything from additional sources to rewriting queries.

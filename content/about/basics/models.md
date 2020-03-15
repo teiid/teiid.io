@@ -22,7 +22,7 @@ weight: 10
 ### Models
 
 A model is a representation of a set of information constructs. A familiar model is the relational model, 
-which defines tables composed of columns and containing records of data.
+which defines tables composed of columns and containing records of data.  A model is represented in relational access as a schema - in many cases the two terms in Teiid are used interchangeably.
 
 In Teiid, models are used to define the entities, and relationships between those entities, required to fully 
 define the integration of information sets so that they may be accessed in a uniform manner using a single API 
@@ -34,8 +34,7 @@ viewpoint these all appear to be in a single source.
 
 In addition to source models, Teiid provides the ability to define a variety of view models. These can be 
 used to define a layer of abstraction above the physical layer, so that information can be presented to 
-end users and consuming applications in business terms rather than as it is physically stored. These _business views_ can 
-be in a variety of forms: relational, XML, JSON, or Web services. Views are defined using transformations between models.
+end users and consuming applications in business terms rather than as it is physically stored. These _business views_ can be in a variety of forms: relational, XML, JSON, or Web services. Views are defined using transformations between models.
 
 ### Types of Models
 

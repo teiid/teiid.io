@@ -23,7 +23,7 @@ Teiid 13.1.0 with WildFly 17.0.0.Final support is now available. The main featur
 
 - [TEIID-5874](https://issues.redhat.com/browse/TEIID-5874) added support for transactional Infinispan/JDG access.  Support for cache aliasing was removed.
 - [TEIID-5896](https://issues.redhat.com/browse/TEIID-5896) added support for EXTRACT QUARTER and EPOCH.
-* [TEIID-5798](https://issues.redhat.com/browse/TEIID-5798) added the POLICY construct to replace specifying a CONDITION on a permission.
+- [TEIID-5798](https://issues.redhat.com/browse/TEIID-5798) added the POLICY construct to replace specifying a CONDITION on a permission.
 
 ### **Latest**
 - **Version 13.1.0**

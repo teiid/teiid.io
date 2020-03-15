@@ -16,7 +16,7 @@ weight: 20
 
 ### Teiid and Red Hat Products
 
-Teiid was initially offered as an officially supported product called JBoss Enterprise Data Services Platform.  That offering was later specialized to JBoss Data Virtualization.  Now Data Virtualization will be available with Fuse Online and Fuse Integration Services as part of a unified data integration offering.
+Teiid was initially offered as an officially supported product called JBoss Enterprise Data Services Platform.  That offering was later specialized to JBoss Data Virtualization.  Now Data Virtualization will be available with Fuse Online (Syndesis) and Fuse Integration Services as part of a unified [Red Hat Integration](https://www.redhat.com/en/products/integration) offering.
 
 ### Teiid and MetaMatrix
 

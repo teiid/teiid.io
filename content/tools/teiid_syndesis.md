@@ -37,7 +37,7 @@ Teiid Syndesis is part of <a href="https://syndesis.io/">Syndesis</a>.  Syndesis
 
 ## <img src="/images/datavirt-logo.png"> <img> [Virtualization Quickstart](./virtualization)
 
-- Exposing single database as an OData service
+- Exposing a single database as an OData service
 
 ---
 

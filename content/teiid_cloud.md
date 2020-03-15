@@ -1,37 +1,37 @@
 ---
-title: "Teiid Cloud"
+title: "Teiid on OpenShift"
 sidebar: sidenav
 
 menu:
   sidenav:
-    name: "Teiid Cloud"
+    name: "Teiid on OpenShift"
     pre: "<i class='fa fa-fw fa-cloud'></i>"
     weight: -500
 toc: true
 ---
 
-**Teiid is all [about](/about) virtualizing your data to provide an [abstraction layer](/about/basics/vdbs) to facilitate ...**
+OpenShift is Red Hat's hydrid cloud offering built on Kubernetes.  Teiid running on OpenShift provides a way to deploy Teiid into every major cloud vendor's environment or in your own on premise OpenShift.
 
- - performance optimization
- - improved security and governance
- - schema migration
- 
-## Bootable Runtimes
- 
-As a [Spring Boot](../teiid_runtimes/springboot) or [Thorntail](../teiid_runtimes/thorntail) developer you can define and deploy a VDB to your cloud environment quickly in a light-weight image.  Using a standard maven project you can run/test locally then build and even deploy your image.  Your VDB can just expose OData or REST to a single source, or combine and secure several sources - whatever your data virtualization and integration needs are.
+Getting started with OpenShift is easy. You can create a [local environment](https://code-ready.github.io/crc/) or utilize a [managed instance](https://www.openshift.com/).
 
-<div>
-<br>
-<img  width="540" height="314" src="/images/teiid-cloud.png" frameborder="2" hspace="40" usemap="#teiidmap"></img>
+**Stay tuned**: over time it is expected that Teiid on OpenShift will generally become Teiid on Kubernetes.
 
-<map name="teiidmap">
-  <area shape="rect" coords="12,12,170,60" alt="Computer" href="../teiid_runtimes/springboot">
-  <area shape="rect" coords="12,123,170,167" alt="Phone" href="../teiid_runtimes/thorntail">
-</map>
-</div>
+---
+
+## [Teiid Operator](https://github.com/teiid/teiid-operator)
+
+Please start with [Teiid Spring Boot / OpenShift Examples](https://github.com/teiid/teiid-openshift-examples).
+
+It is the job of the [Teiid Operator](https://github.com/teiid/teiid-operator) to deploy Teiid on your OpenShift instance.  The Operator also assists with management of and updates to your Teiid instances.  The Operator is under [active development](/community) and as always feedback, enhancements, and issues are always welcome.   
+
+This can be either based upon a Kubernetes custom resource which fully describes your Teiid instance and virtual data base, or a custom resource that points to maven artifact - typically a [Teiid Spring Boot](../teiid_runtimes/springboot) fat jar.
+
+**Note**: the Teiid project is currently not providing or no longer targeting OpenShift deployment of Teiid WildFly, Thorntail, and Embedded.
 
 ---
 
 ## [Teiid Syndesis](/tools/teiid_syndesis)
 
-For citizen developers <a href="/tools/teiid_syndesis" role="button"><strong>Teiid Syndesis</strong></a> lets you connect to, view, combine and secure your data - and create a managed virtualization leveraging Teiid on Spring Boot.
+For citizen developers the [Teiid Syndesis](/tools/teiid_syndesis) OpenShift application lets you connect to, view, combine and secure your data - and create a managed virtualization leveraging Teiid on Spring Boot without writing a single line of code.
+
+---
