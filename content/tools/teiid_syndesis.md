@@ -35,12 +35,4 @@ Teiid Syndesis is part of <a href="https://syndesis.io/">Syndesis</a>.  Syndesis
 
 ---
 
-## <img src="/images/datavirt-logo.png"> <img> [Virtualization Quickstart](./virtualization)
-
-- Exposing a single database as an OData service
-
----
-
-## <img src="/images/dataintegration-icon.png"> <img> [Integration Quickstart](./integration)
-
-- Combine 2 database instances and report as single source in under 5 minutes
+Please see the [Syndesis Quickstart](https://syndesis.io/quickstart/).  Note that by default Teiid Syndesis is not enabled in Syndesis.  We will update this page with instructions on that as well as links to Teiid specific quickstarts.
