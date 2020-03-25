@@ -12,6 +12,8 @@ toc: true
 
 OpenShift is Red Hat's hydrid cloud offering built on Kubernetes.  Teiid running on OpenShift provides a way to deploy Teiid into every major cloud vendor's environment or in your own on premise OpenShift.
 
+<a href="/images/data_virt_arch.png"><img src="/images/data_virt_arch.png" width="480" height="300" alt="Teiid On OpenShift Architecture" title="Click To Enlarge"/></a>
+
 Getting started with OpenShift is easy. You can create a [local environment](https://code-ready.github.io/crc/) or utilize a [managed instance](https://www.openshift.com/).
 
 **Stay tuned**: over time it is expected that Teiid on OpenShift will generally become Teiid on Kubernetes.

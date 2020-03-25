@@ -13,3 +13,8 @@ disqusShortname: teiid-io
 params:
   proddtm: "https://www.redhat.com/dtm.js"
   stagingdtm: "https://www.redhat.com/dtm-staging.js"
+  
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
