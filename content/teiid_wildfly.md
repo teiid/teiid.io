@@ -21,12 +21,12 @@ Download the latest of everything as a [bundle](https://oss.sonatype.org/service
 
 ## [Quickstarts](https://github.com/teiid/teiid-wildfly-quickstarts)
 
-## [Downloads](./teiid_wildfly/downloads)
+## [Downloads](./downloads)
 
-## [Documents](./teiid_wildfly/docs)
+## [Documents](./docs)
 
 <div>
 <img width="700" height="665" src="http://docs.jboss.org/teiid/teiid_architecture.png" frameborder="2" ></img>
 </div>
 
-## [Tools](./teiid_wildfly/tools)
+## [Tools](./tools)
