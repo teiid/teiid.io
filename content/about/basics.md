@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: Basics
     weight: -300
-    parent: About Teiid
+    parent: About
 sidebar: sidenav
 title: "Teiid Basics"
 toc: true

@@ -6,10 +6,7 @@ menu:
   sidenav:
     name: FAQ
     weight: -350
-    parent: About Teiid
-  topnav:
-    name: "faq"
-    weight: -190
+    parent: About
 sidebar: sidenav
 title: "FAQ"
 toc: true
@@ -33,11 +30,11 @@ Teiid is not itself a database management system, though it will appear to be on
 
 ### How can Teiid be used?
 
-You can choose any of the supported [Teiid runtimes](/teiid_runtimes).  There download bundles for Teiid WildFly and example projects for everything else to get you started.
+You can choose any of the supported [Teiid runtimes](/about/teiid_runtimes).  There download bundles for [Teiid WildFly](/teiid_wildfly) and example projects for everything else to get you started.
 
 ### Where can Teiid be used?
 
-Teiid can be used basically anywhere Java can run as Teiid embedded or Teiid Spring Boot.  Teiid can also run within WildFly.  Depending on your needs, you can also containerize Teiid to run on the cloud of your choice including [OpenShift]{/teiid_cloud).
+Teiid can be used basically anywhere Java can run as [Teiid Embedded](/embedded) or [Teiid Spring Boot](/springboot).  Teiid can also run within WildFly.  Depending on your needs, you can also containerize Teiid to run on the cloud of your choice including [OpenShift]{/teiid_cloud).
 
 ### Why would I want to use Teiid?
 
@@ -61,12 +58,12 @@ Or see all of the [quickstarts](/quickstarts)
 
 ### What sort of documentation is available for Teiid?
 
-We provide everything you need to get started with and subsequently master Teiid. The primary documentation is for [Teiid WildFly](/teiid_runtimes/teiid_wildfly/docs).
+We provide everything you need to get started with and subsequently master Teiid. The primary documentation is for [Teiid WildFly](/teiid_wildfly/docs).
 
 ### How is Teiid used by Red Hat
 
-Teiid is the query engine at the heart of the Red Hat Data Virtualization Platform. Teiid is also providing data virtualization for [Red Hat Integration](https://www.redhat.com/en/products/integration) - the upstream project is [Teiid Syndesis](/tools/teiid_syndesis)
+Teiid is the query engine at the heart of the Red Hat Data Virtualization Platform. Teiid is also providing data virtualization for [Red Hat Integration](https://www.redhat.com/en/products/integration) - the upstream project is [Teiid Syndesis](/teiid_cloud)
 
 ### How is Teiid related to Teiid Designer? _(previously Dimension and Modeler)_
 
-[Teiid Designer](/tools/teiid_designer) is/was an Eclipse-based graphical modeling environment used to define data virtualizations. Designer could work with a WildFly/EAP install of Teiid to provide a rapid development and test cycle for your VDBs.  Unfortunately Teiid Designer is now deprecated and no more releases are expected.  
+[Teiid Designer](/wildfly/teiid_designer) is/was an Eclipse-based graphical modeling environment used to define data virtualizations. Designer could work with a WildFly/EAP install of Teiid to provide a rapid development and test cycle for your VDBs.  Unfortunately Teiid Designer is now deprecated and no more releases are expected.  

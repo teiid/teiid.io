@@ -6,33 +6,12 @@ sidebar: sidenav
 menu:
   sidenav:
     name: "Tools"
-    pre: "<i class='fa fa-fw fa-wrench'></i>"
-    weight: -240
+    weight: -277
+    parent: Teiid WildFly
 toc: true
 ---
 
-The Teiid project includes a few tools to help you develop and manage various artifacts and components.
-
----
-
-## ![Teiid Syndesis](/images/syndesis_icon_32.svg) [Teiid Syndesis](/tools/teiid_syndesis)
-
-**[Teiid Syndesis](/tools/teiid_syndesis)** provides data virtualization to Syndesis.  You can create a virtualization against a number of connection types, then manage the deployment and additional revisions all from the Syndesis UI.
-
-<div>
-<img width="500" src="/images/ts-home.png" frameborder="2" hspace="40" ></img>
-</div>
-
----
-
-## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](/tools/teiid_designer)
-
-**[Teiid Designer](/tools/teiid_designer)** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
-and testing your VDBs using the Teiid runtime framework.
-
-<div>
-<img width="500" height="363" src="/images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
-</div>
+Teiid WildFly includes a few tools to help you develop and manage various artifacts and components.
 
 ---
 
@@ -75,3 +54,13 @@ with its tooling to allow easily editable scripting.
 If you would like to know more about the tool and how it can be used please look at the
  [AdminShell](http://teiid.github.io/teiid-documents/10.1.x/content/admin/AdminShell.html) section of the
   [Admin Guide](http://teiid.github.io/teiid-documents/10.1.x/content/admin/Administrators_Guide.html).
+  
+---
+## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](teiid_designer)
+
+**[Teiid Designer](teiid_designer)** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
+and testing your VDBs using the Teiid runtime framework.
+
+<div>
+<img width="500" height="363" src="/images/teiid-designer-home.png" frameborder="2" hspace="40" ></img>
+</div>

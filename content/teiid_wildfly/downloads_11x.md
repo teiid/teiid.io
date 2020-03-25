@@ -4,7 +4,7 @@ draft: false
 menu:
   sidenav:
     name: 11.x Downloads
-    weight: -270
+    weight: -274
     parent: Teiid WildFly
 sidebar: sidenav
 title: "Teiid WildFly 11.x Downloads"

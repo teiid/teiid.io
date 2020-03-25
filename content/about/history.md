@@ -6,7 +6,7 @@ menu:
   sidenav:
     name: History
     weight: -200
-    parent: About Teiid
+    parent: About
 sidebar: sidenav
 title: "History"
 toc: true

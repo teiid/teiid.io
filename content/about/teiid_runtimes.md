@@ -6,8 +6,8 @@ sidebar: sidenav
 menu:
   sidenav:
     name: "Teiid Runtimes"
-    pre: "<i class='fa fa-fw fa-cogs'></i>"
     weight: -300
+    parent: About
 toc: true
 ---
 
@@ -23,17 +23,17 @@ Teiid is foremost an extensible Java project.  There are a lot of extension poin
 
 ---
 
-## [Teiid WildFly](teiid_wildfly)
+## [Teiid WildFly](/teiid_wildfly)
   - Teiid WildFly is deep integration of Teiid into the popular WildFly Java Application Server.  This is the most robust offering as you have the full power of a premier application server running along side Teiid.  WildFly provides robust and well documented options for transaction management, connection pooling, security configuration, resource management, clustered deployment, and much more.
 
 ---
 
-## [Teiid Spring Boot](./springboot)
+## [Teiid Spring Boot](/springboot)
   - Teiid implemented for the Spring Boot framework.  While not yet as feature full as Teiid on WildFly, Teiid Spring Boot offers the ease of development and concise packaging of the Spring Boot platform.  Here you can choose via your project dependencies what features / implementations you want - including a transaction manager, connection pools, security integration, etc.  If you wish to use [Teiid on OpenShift](/teiid_cloud) and the Teiid project's associated tools, then you should use Teiid Spring Boot. 
 
 ---
 
-## [Teiid Embedded](./embedded)
+## [Teiid Embedded](/embedded)
   - Raw Teiid jars for use in any Java 8+ JRE application - only for highly custom scenarios.
   
 ---

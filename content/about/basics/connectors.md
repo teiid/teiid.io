@@ -53,6 +53,6 @@ It is possible to use the security system of individual data sources if this is 
 
 #### Administering
 
-In <span class="product">Teiid</span>, Translators and Resource adaptors can be configured and monitored using the Teiid Console, or using the [Teiid Server Administrative API](/teiid_runtimes/teiid_wildfly/docs/index.html).
+In <span class="product">Teiid</span>, Translators and Resource adaptors can be configured and monitored using the Teiid Console, or using the [Teiid Server Administrative API](/teiid_wildfly/docs/index.html).
 
 <p></p>

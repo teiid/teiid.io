@@ -1,10 +1,10 @@
 ---
-title: About Teiid
+title: About
 sidebar: sidenav
 
 menu:
   sidenav:
-    name: "About Teiid"
+    name: "About"
     pre: "<i class='fa fa-fw fa-info'></i>"
     weight: -200
   topnav:
@@ -25,7 +25,7 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 ---
 ## Core Teiid Components
 
-*   [Teiid Query Engine](/teiid_runtimes/)
+*   [Teiid Query Engine](./teiid_runtimes)
 *   [Virtual Databases](./basics/vdbs/index.html)
 *   [Connector Framework](./basics/connectors/index.html)
 
@@ -39,9 +39,8 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 
 ## Components/Tooling for OpenShift
 
-*   [Teiid Operator](/teiid_cloud)
-*   [Teiid Syndesis](/tools/teiid_syndesis)
-
+*   [Teiid Operator](/teiid_cloud#teiid-operator)
+*   [Teiid Syndesis](/teiid_cloud#teiid-syndesis)
 
 You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
 

@@ -4,16 +4,14 @@ date: 2017-05-19T14:40:12+01:00
 draft: false
 menu:
   sidenav:
-    name: Spring Boot
+    name: Teiid Spring Boot
     weight: -280
-    parent: Teiid Runtimes
+    pre: "<i class='fa fa-fw fa-cogs'></i>"
 sidebar: sidenav
 title: "Teiid Spring Boot"
 toc: true
 weight: 20
 ---
-
-[**Teiid Runtimes**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [WildFly] (../teiid_wildfly) &nbsp;&nbsp;  | &nbsp;&nbsp; **Spring Boot** &nbsp;&nbsp;
 
 <div>
 <img width="583" height="435" src="/images/teiid-spring-boot.png" frameborder="2" hspace="40" ></img>

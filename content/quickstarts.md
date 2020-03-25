@@ -7,7 +7,7 @@ menu:
     identifier: "quickstart parent"
     name: "Quickstarts"
     pre: "<i class='fa fa-fw fa-rocket'></i>"
-    weight: -450
+    weight: -230
   topnav:
     identifier: "quickstart parent"
     name: "quickstarts"

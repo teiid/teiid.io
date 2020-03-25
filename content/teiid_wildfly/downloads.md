@@ -4,7 +4,7 @@ draft: false
 menu:
   sidenav:
     name: Downloads
-    weight: -278
+    weight: -280
     parent: Teiid WildFly
 sidebar: sidenav
 title: "Teiid WildFly Downloads"
@@ -42,7 +42,7 @@ Teiid 13.1.0 with WildFly 17.0.0.Final support is now available. The main featur
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Older 12.x releases**
-  - [**Version 12.x**](/teiid_runtimes/teiid_wildfly/downloads_12x/)
+  - [**Version 12.x**](/teiid_wildfly/downloads_12x/)
 
 ### **Unstable**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=dist&e=zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org/teiid/wildfly&a=teiid-wildfly&v=LATEST&c=server&e=zip)
@@ -52,7 +52,7 @@ Teiid 13.1.0 with WildFly 17.0.0.Final support is now available. The main featur
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
 ### **Historical Version Downloads**
-- [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_runtimes/teiid_wildfly/downloads_11x/)
+- [**11.x (WildFly 11.0.0 Java 8+)**](/teiid_wildfly/downloads_11x/)
 - [**10.x (WildFly 11.0.0 Java 8+)**](http://teiid.io/legacy/downloads_10x/)
 - [**9.x (WildFly 10.0.0 Java 8+)**](http://teiid.io/legacy/downloads_9x/)
 - [**9.0 (WildFly 9.0.2 Java 7+)**](http://teiid.io/legacy/downloads_900)

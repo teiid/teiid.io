@@ -29,7 +29,7 @@ There are 3 JIRA projects for issues related to Teiid and associated tools:
 * **Teiid Spring Boot, Teiid Operator**
     * [JIRA Issues](https://issues.redhat.com/projects/TEIIDSB/issues)
     * [Source](https://github.com/teiid/teiid-spring-boot)
-* **Cloud Backend**
+* **Teiid Syndesis and other Tools**
     * [JIRA Issues](https://issues.redhat.com/projects/TEIIDTOOLS/issues)
-    * [Backend Source](https://github.com/app/dv), [UI](https://github.com/syndesisio/syndesis-react)
+    * [Teiid Syndesis Backend Source](https://github.com/app/dv), [Teiid Syndesis UI](https://github.com/syndesisio/syndesis-react)
 

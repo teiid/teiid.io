@@ -22,7 +22,7 @@ and testing your VDBs using the Teiid runtime framework.
 
 ---
 
-[**Download and Install**](../../teiid_runtimes/teiid_wildfly/downloads/#teiid-designer)
+[**Download and Install**](/teiid_wildfly/downloads/#teiid-designer)
 
 **User Guide -
 [HTML](http://docs.jboss.org/teiid/designer/11.1.2/user-guide/html/)
