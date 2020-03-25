@@ -113,7 +113,6 @@ Teiid 10-11
 You should use maven to directly control what features you need when embedding Teiid. See:  
 
 - [**Teiid Spring Boot**](https://github.com/teiid/teiid-spring-boot)  
-- [**Teiid Thorntail Examples**](https://github.com/teiid/thorntail-teiid-examples)
 - [**The Embedded Examples**](https://github.com/teiid/teiid-embedded-examples)
 
 ---

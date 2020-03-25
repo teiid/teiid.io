@@ -38,7 +38,7 @@ Teiid is foremost an extensible Java project.  There are a lot of extension poin
   
 ---
 
-## [Teiid Thorntail](thorntail)
-  - Integration of Teiid on the Thorntail embedded application platform.
+## [Teiid Thorntail](https://github.com/teiid/teiid-thorntail)
+  - Integration of Teiid on the Thorntail bootable JEE container.  This is no longer being maintained.  Please consider Teiid Spring Boot instead.  We are assessing when these efforts can align with the Red Hat MicroProfile and Quarkus initiatives.
   
 ---

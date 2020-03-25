@@ -13,7 +13,7 @@ toc: true
 weight: 20
 ---
 
-[**Teiid Runtimes**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [WildFly] (../teiid_wildfly) &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; **Spring Boot** &nbsp;&nbsp;
+[**Teiid Runtimes**](..) &nbsp;&nbsp; <  &nbsp;&nbsp; [WildFly] (../teiid_wildfly) &nbsp;&nbsp;  | &nbsp;&nbsp; **Spring Boot** &nbsp;&nbsp;
 
 <div>
 <img width="583" height="435" src="/images/teiid-spring-boot.png" frameborder="2" hspace="40" ></img>

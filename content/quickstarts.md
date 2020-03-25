@@ -21,20 +21,8 @@ toc: true
 See how to get Teiid on OpenShift in no time.
 
 ---
-## Teiid Syndesis Quickstarts
-
-### <img src="/images/datavirt-logo.png"/> [Virtualization Quickstart](/tools/teiid_syndesis/virtualization)
-
-- Exposing single database as an OData service
-
-### <img src="/images/dataintegration-icon.png"/> [Integration Quickstart](/tools/teiid_syndesis/integration)
-
-- Combine 2 database instances and report as single source in under 5 minutes
-
----
 ## <img src="/images/datavirt-logo.png"/> [Teiid WildFly Quickstarts](https://github.com/teiid/teiid-wildfly-quickstarts)
 
 A large library of quickstarts / examples showcasing Teiid on WildFly.
 
 ---
-## <img src="/images/datavirt-logo.png"/> [Teiid Thorntail Examples](https://github.com/teiid/teiid-thorntail/tree/master/examples)

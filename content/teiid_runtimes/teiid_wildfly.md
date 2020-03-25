@@ -13,7 +13,7 @@ title: "Teiid WildFly"
 toc: true
 weight: 20
 ---
-[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **WildFly** &nbsp;&nbsp; | &nbsp;&nbsp; [Thorntail](../thorntail) &nbsp;&nbsp; | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp; 
+[**Teiid Runtimes**](..) &nbsp;&nbsp; < &nbsp;&nbsp; **WildFly** &nbsp;&nbsp;  | &nbsp;&nbsp; [Spring Boot](../springboot) &nbsp;&nbsp; 
 
 Teiid WildFly brings the power of Teiid to the popular WildFly application server.  Together they provide a full featured integration and virtualization environment that can also have your traditional JEE applications deployed to it.  WildFly provides robust and well documented options for transaction management, connection pooling, security configuration, resource management, clustered deployment, and much more.  The deep integration of Teiid means that deployment of your VDBs is managed just like WARs.
 
