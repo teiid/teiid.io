@@ -15,7 +15,7 @@ weight: 10
 
 Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](https://www.redhat.com/en/topics/middleware) and the [community resources](/community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/)
  
- - The [13.x](http://teiid.github.io/teiid-documents/13.0.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
+ - The [13.x](http://teiid.github.io/teiid-documents/13.1.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
  
 - The [12.x](http://teiid.github.io/teiid-documents/12.3.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
  
@@ -33,7 +33,9 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 
 - ###### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
-  - Version [13.0](http://teiid.github.io/teiid-documents/13.0.x/content)
+  - Version
+  [13.1](http://teiid.github.io/teiid-documents/13.1.x/content) 
+| [13.0](http://teiid.github.io/teiid-documents/13.0.x/content)
 | [12.3](http://teiid.github.io/teiid-documents/12.3.x/content)
 | [12.2](http://teiid.github.io/teiid-documents/12.2.x/content)
 | [12.1](http://teiid.github.io/teiid-documents/12.1.x/content)
@@ -55,7 +57,9 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 | Version 10.x-11.x [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-10.x/README.adoc)
 
 - ###### **API Docs**
-  - Version [13.0](http://docs.jboss.org/teiid/13.0.0/apidocs)
+  - Version 
+  [13.1](http://docs.jboss.org/teiid/13.1.0/apidocs)
+| [13.0](http://docs.jboss.org/teiid/13.0.0/apidocs)
 | [12.3](http://docs.jboss.org/teiid/12.3.0/apidocs)
 | [12.2](http://docs.jboss.org/teiid/12.2.0/apidocs) 
 | [12.1](http://docs.jboss.org/teiid/12.1.0/apidocs)

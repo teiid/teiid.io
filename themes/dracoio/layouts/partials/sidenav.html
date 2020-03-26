@@ -44,8 +44,5 @@
       {{end}}
     </li>
   {{end}}
-  {{ if .IsPage }}
-  {{ $File := .File }} {{with $File.Path }}<li><a href="https://github.com/teiid/teiid.io/edit/dev/content/{{ $File.Dir }}{{ $File.LogicalName }}" target="blank"><i class='fa fa-fw fa-edit'></i> Refine this Page</a></li>{{end}}
-  {{ end }}
   </ul>
 </aside>
