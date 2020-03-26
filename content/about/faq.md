@@ -14,15 +14,13 @@ weight: 20
 ---
 [**About**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [**Why Teiid**](../why-teiid) &nbsp;&nbsp; | &nbsp;&nbsp; **FAQ** &nbsp;&nbsp; | &nbsp;&nbsp; [**Basics**](../basics) &nbsp;&nbsp; | &nbsp;&nbsp; [**Project History**](../history)
 
-## What is Teiid? 
-First it's a whiptailed lizard, but it's much more. Teiid provides a data virtualization and secure data access layer that can simplify your data integration with your applications. 
-
-
 ## Frequently Asked Questions
 
-<div id="proj_faq">**What is Teiid?**
-
 Teiid is a flexible Java component that provides integrated access to multiple data sources through a single uniform API. Teiid is a query engine for integrating data from multiple sources in an optimal manner. Using Teiid, your applications can access information using standard JDBC/ODBC/OData/REST, even if that information resides in more than one source or in sources that do not understand standard queries.
+
+### What is Teiid? 
+
+First it's a whiptailed lizard, but it's much more. Teiid provides a data virtualization and secure data access layer that can simplify your data integration with your applications. 
 
 ### Is Teiid a database management system?
 
@@ -66,4 +64,4 @@ Teiid is the query engine at the heart of the Red Hat Data Virtualization Platfo
 
 ### How is Teiid related to Teiid Designer? _(previously Dimension and Modeler)_
 
-[Teiid Designer](/wildfly/teiid_designer) is/was an Eclipse-based graphical modeling environment used to define data virtualizations. Designer could work with a WildFly/EAP install of Teiid to provide a rapid development and test cycle for your VDBs.  Unfortunately Teiid Designer is now deprecated and no more releases are expected.  
+[Teiid Designer](/teiid_wildfly/teiid_designer) is/was an Eclipse-based graphical modeling environment used to define data virtualizations. Designer could work with a WildFly/EAP install of Teiid to provide a rapid development and test cycle for your VDBs.  Unfortunately Teiid Designer is now deprecated and no more releases are expected.  

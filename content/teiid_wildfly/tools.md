@@ -52,13 +52,13 @@ functions on a Teiid Server from a command line shell, GUI shell or a script fil
 with its tooling to allow easily editable scripting. 
 
 If you would like to know more about the tool and how it can be used please look at the
- [AdminShell](http://teiid.github.io/teiid-documents/10.1.x/content/admin/AdminShell.html) section of the
-  [Admin Guide](http://teiid.github.io/teiid-documents/10.1.x/content/admin/Administrators_Guide.html).
+ [AdminShell](http://teiid.github.io/teiid-documents/master/content/admin/AdminShell.html) section of the
+  [Admin Guide](http://teiid.github.io/teiid-documents/master/content/admin/Administrators_Guide.html).
   
 ---
-## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](teiid_designer)
+## ![Designer](/images/designer32.png?raw=true) [Teiid Designer](/teiid_wildfly/teiid_designer)
 
-**[Teiid Designer](teiid_designer)** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
+**[Teiid Designer](/teiid_wildfly/teiid_designer)** is a deprecated visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management
 and testing your VDBs using the Teiid runtime framework.
 
 <div>
