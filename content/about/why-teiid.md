@@ -47,7 +47,7 @@ With Teiid, you can join and union data that resides in very dissimilar data sou
 
 **4\. Easy To Deploy**
 
-The Teiid query engine is available for [several runtimes](/about/teiid_runtimes) and can be run on [OpenShift](/teiid_cloud).
+The Teiid query engine is available for [several distributions](/about/teiid_runtimes) and can be run on [OpenShift](/teiid_cloud).
 
 **5\. Eliminate Hand-coded Data Access Logic**
 

@@ -5,7 +5,7 @@ draft: false
 menu:
   sidenav:
     name: Teiid Spring Boot
-    weight: -280
+    weight: -311
     pre: "<i class='fa fa-fw fa-cogs'></i>"
 sidebar: sidenav
 title: "Teiid Spring Boot"

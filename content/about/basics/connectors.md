@@ -40,7 +40,7 @@ Translator capabilities define the capabilities of a source in terms of language
 
 ### Resource Adaptors
 
-In WildFly and Thorntail JEE runtimes a Resource Adaptor provides the connectivity to the physical data source. This also provides way to natively issue commands to the source and gather results. A Resource Adaptor can be a RDBMS data source, Web Service, text file, connection to main frame or to a custom source you defined. This is often is [JCA](http://java.sun.com/j2ee/connector/)&nbsp;Connector, however there is no restriction how somebody provides the connection semantics to the Translator.
+In runtimes with Java Connector Architecture (JCA) support, such as WildFly, a Resource Adaptor provides the connectivity to the physical data source. This also provides way to natively issue commands to the source and gather results. A Resource Adaptor can be a RDBMS data source, Web Service, text file, connection to main frame or to a custom source you defined. This is often is [JCA](http://java.sun.com/j2ee/connector/)&nbsp;Connector, however there is no restriction how somebody provides the connection semantics to the Translator.
 
 However, if your source needs participate in distributed XA transactions, then this must be a JCA connector. Other than providing transactions, JCA defines how to do configuration, packaging and deployment. This also provides a standard interaction model with the Container, connection pools etc.  It can be used for more than just Teiid data integration purposes.
 

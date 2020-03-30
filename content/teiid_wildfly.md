@@ -21,6 +21,8 @@ Download the latest of everything as a [bundle](https://oss.sonatype.org/service
 
 ## [Quickstarts](https://github.com/teiid/teiid-wildfly-quickstarts)
 
+A large library of quickstarts / examples showcasing Teiid on WildFly.
+
 ## [Downloads](./downloads)
 
 ## [Documents](./docs)

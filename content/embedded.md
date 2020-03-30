@@ -16,4 +16,4 @@ weight: 20
 
 See [**The Embedded Examples**](https://github.com/teiid/teiid-embedded-examples) for how to integrate multiple, heterogeneous data stores and enterprise services in a light-weight way.
 
-Note that Teiid Embedded is intended for highly customized usage of Teiid or for use in unsupported platforms.  Please check out [**Teiid Spring Boot**](https://github.com/teiid/teiid-spring-boot) and [**Teiid Thorntail Examples**](https://github.com/teiid/thorntail-teiid-examples) for existing bootable runtime support.
+Note that Teiid Embedded is intended for highly customized usage of Teiid or for use in unsupported platforms.  Please check out [**Teiid Spring Boot**](https://github.com/teiid/teiid-spring-boot) for bootable runtime support.

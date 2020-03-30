@@ -1,13 +1,16 @@
 ---
 draft: false
-title: "Teiid Runtimes"
+title: "Teiid Distributions"
 sidebar: sidenav
 
 menu:
   sidenav:
-    name: "Teiid Runtimes"
-    weight: -300
+    name: "Distributions"
+    weight: -400
     parent: About
+  topnav:
+    name: "distributions"
+    weight: -200
 toc: true
 ---
 
@@ -21,15 +24,13 @@ The core processing engine of Teiid remains the same regardless of the runtime p
 
 Teiid is foremost an extensible Java project.  There are a lot of extension points you can utilize if needed.  How you tie everything together is the job of the runtime.  There are 4 runtimes to utilize Teiid.  Each option has distinct benefits and drawbacks.  You should choose the best fit for your integration, deployment, and development needs.
 
+## [Teiid Spring Boot](/springboot) / [Teiid on OpenShift](/teiid_cloud) 
+  - Teiid implemented for the Spring Boot framework.  While not yet as feature full as Teiid on WildFly, Teiid Spring Boot offers the ease of development and concise packaging of the Spring Boot platform.  Here you can choose via your project dependencies what features / implementations you want - including a transaction manager, connection pools, security integration, etc.  If you wish to use [Teiid on OpenShift](/teiid_cloud) and the Teiid project's associated tools, then you will be using Teiid Spring Boot either explicitly or implicitly. 
+
 ---
 
 ## [Teiid WildFly](/teiid_wildfly)
   - Teiid WildFly is deep integration of Teiid into the popular WildFly Java Application Server.  This is the most robust offering as you have the full power of a premier application server running along side Teiid.  WildFly provides robust and well documented options for transaction management, connection pooling, security configuration, resource management, clustered deployment, and much more.
-
----
-
-## [Teiid Spring Boot](/springboot)
-  - Teiid implemented for the Spring Boot framework.  While not yet as feature full as Teiid on WildFly, Teiid Spring Boot offers the ease of development and concise packaging of the Spring Boot platform.  Here you can choose via your project dependencies what features / implementations you want - including a transaction manager, connection pools, security integration, etc.  If you wish to use [Teiid on OpenShift](/teiid_cloud) and the Teiid project's associated tools, then you should use Teiid Spring Boot. 
 
 ---
 

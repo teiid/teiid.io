@@ -25,22 +25,22 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 ---
 ## Core Teiid Components
 
-*   [Teiid Query Engine](./teiid_runtimes)
+*   [Teiid Engine/Distributions](./teiid_runtimes)
 *   [Virtual Databases](./basics/vdbs/index.html)
 *   [Connector Framework](./basics/connectors/index.html)
-
-## Components/Tooling for EAP/WildFly
-
-*   [Admin Shell](/teiid_wildfly/tools#admin-shell) *Deprecated*
-*   [Teiid Web Console](/teiid_wildfly/tools#teiid-console)
-*   [Teiid Designer](http://teiiddesigner.jboss.org/) *Deprecated*
-*   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
-*   [Teiid Dashboard Builder](https://issues.redhat.com/browse/TEIIDDSHB) *Deprecated*
 
 ## Components/Tooling for OpenShift
 
 *   [Teiid Operator](/teiid_cloud#teiid-operator)
 *   [Teiid Syndesis](/teiid_cloud#teiid-syndesis)
+
+## Components/Tooling for EAP/WildFly
+
+*   [Teiid Web Console](/teiid_wildfly/tools#teiid-console)
+*   [Admin Shell](/teiid_wildfly/tools#admin-shell) *Deprecated*
+*   [Teiid Designer](http://teiiddesigner.jboss.org/) *Deprecated*
+*   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
+*   [Teiid Dashboard Builder](https://issues.redhat.com/browse/TEIIDDSHB) *Deprecated*
 
 You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
 

@@ -28,7 +28,7 @@ Teiid is not itself a database management system, though it will appear to be on
 
 ### How can Teiid be used?
 
-You can choose any of the supported [Teiid runtimes](/about/teiid_runtimes).  There download bundles for [Teiid WildFly](/teiid_wildfly) and example projects for everything else to get you started.
+You can choose any of the availabe [Teiid distributions](/about/teiid_runtimes).  There are download bundles for [Teiid WildFly](/teiid_wildfly) and example projects for everything else to get you started.
 
 ### Where can Teiid be used?
 
@@ -51,8 +51,6 @@ Teiid is great for Java developers, especially those targeting OpenShift, who ne
 Choose a [Teiid Spring Boot / OpenShift Example](https://github.com/teiid/teiid-openshift-examples) to quickly get a Teiid pod up in OpenShift.
 
 Follow the [WildFly Quickstart Example](https://github.com/teiid/teiid-wildfly-quickstarts) and you should be able to issue joins across two JDBC data sources without any custom code.
-
-Or see all of the [quickstarts](/quickstarts)
 
 ### What sort of documentation is available for Teiid?
 

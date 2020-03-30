@@ -28,7 +28,7 @@ It is the job of the [Teiid Operator](https://github.com/teiid/teiid-operator) t
 
 This can be either based upon a Kubernetes custom resource which fully describes your Teiid instance and virtual data base, or a custom resource that points to maven artifact - typically a [Teiid Spring Boot](/springboot) fat jar.
 
-**Note**: the Teiid project is currently not providing or no longer targeting OpenShift deployment of Teiid WildFly, Thorntail, and Embedded.
+**Note**: the Teiid project is currently not providing or no longer targeting OpenShift deployment of other Teiid distributions.
 
 ---
 
