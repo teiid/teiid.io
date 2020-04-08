@@ -17,9 +17,14 @@ weight: 20
 
 ### Teiid Basics
 
-*   [Virtual Databases](./vdbs) - Learn about how Teiid encapsulates your data access as a database.
-*   [Models](./models) - Learn about how Teiid represents metadata.
-*   [Connectors](./connectors) - Learn about how Teiid connects to enterprise information systems.
-*   [Data Access Services](./dataservices) - Learn about how Teiid exposes data access service.
+Getting started with Teiid will feel familiar for those with a database background.  The goal is to create a virtual database to encapsulate your data access needs, such that exactly the right data - and only that data - is available to your chosen clients.
+
+The following topics help clarify some of the terms used by Teiid to accelerate the creation of your virtualization.
+
+*   [Virtual Databases](/about/basics/vdbs) - Learn about how Teiid encapsulates your data access as a database.
+*   [Schemas](/about/basics/schemas) - Learn about how Teiid represents database object metadata.
+*   [Sources](/about/basics/sources) - Learn about how Teiid connects to sources.
+*   [Data Access Services](/about/basics/dataservices) - Learn about how Teiid exposes data access service.
+
 
 ---

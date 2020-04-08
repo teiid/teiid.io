@@ -11,10 +11,9 @@ title: "Data Services"
 toc: true
 weight: 10
 ---
-[**Teiid Basics**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Virtual Databases](../vdbs) &nbsp;&nbsp; | &nbsp;&nbsp; [Models](../models) &nbsp;&nbsp; | &nbsp;&nbsp; **Data Services** &nbsp;&nbsp; | &nbsp;&nbsp; [Connectors](../connectors)
+[**Teiid Basics**](..) &nbsp;&nbsp; < &nbsp;&nbsp; [Virtual Databases](../vdbs) &nbsp;&nbsp; | &nbsp;&nbsp; [Schemas](../schemas) &nbsp;&nbsp; | &nbsp;&nbsp; **Data Services** &nbsp;&nbsp; | &nbsp;&nbsp; [Sources](../sources)
 
 ## Services
-
 
 Data access services via data virtualization provide important abstraction and decoupling features.
 
@@ -27,14 +26,6 @@ Data access services via data virtualization provide important abstraction and d
 Decoupling is _the_ key concept in services and is achieved through abstraction based on service interfaces. Business processes represent a formalized executable form of the actual enterprise's processes, but offer a layer of abstraction above the physical processes, be they automated or manual. Business processes are composed of business services. Just as business processes represent an abstraction from their real-world counterparts, so do business services offer an abstraction of actual physical services.
 
 Business processes and services both make use of business information, which is likely resident in many different types and instances of databases and files. This information can be exposed to business services using the same service-oriented paradigm - as **_data access services._**
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 ## Data Access Services
 
@@ -52,7 +43,7 @@ The two key components of a data services architecture, then, are:
 
 <div class="proj_basics">
 
-*   **Modeling environment**, to define the abstraction layers -- views and Web services
+*   **Design environment**, to define the abstraction layers -- views and Web services
 *   **Execution environment**, to actualize the abstract structures from the underlying data, and expose them through standard APIs. A query engine is a required part of the execution environment, to optimally federate data from multiple disparate sources.
 
 </div>
@@ -69,6 +60,6 @@ Teiid provides a suite of projects that provide _data services_ to business appl
 
 A more business or user-centric view of data services is that they are information representations required by business applications. From this perspective, data services are defined and _designed_ by business analysts, modelers, and developers to represent the information structures required by business applications. Often, a key design goal is one of interoperability - the requirement that systems work together seamlessly, including when exchanging data. Teiid provides graphical and other tools for defining these interoperable data services, essentially relational and XML views that can be used by business applications in a semantically-meaningful manner.
 
-These two viewpoints roughly correspond to the **Execution** and **Modeling** components of a data services solution, respectively.
+These two viewpoints roughly correspond to the **Execution** and **Design** components of a data services solution, respectively.
 
 <div class="uploaded-img">![](/images/teiid-dataservices.png)</div>
