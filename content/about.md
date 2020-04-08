@@ -26,8 +26,8 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 ## Core Teiid Components
 
 *   [Teiid Engine/Distributions](./teiid_runtimes)
-*   [Virtual Databases](./basics/vdbs/index.html)
-*   [Connector Framework](./basics/connectors/index.html)
+*   [Virtual Databases](./basics/vdbs)
+*   [Sources](./basics/sources)
 
 ## Components/Tooling for OpenShift
 
@@ -42,16 +42,14 @@ Teiid is [open source](/community/contributing/) and has been a part of the [JBo
 *   [Teiid RHQ Plugin](https://community.jboss.org/wiki/NewTeiidRHQPluginForTeiid8x) *Deprecated*
 *   [Teiid Dashboard Builder](https://issues.redhat.com/browse/TEIIDDSHB) *Deprecated*
 
-You can even start with Teiid Basics section to learn about Virtual Databases (VDBs), models, connector bindings, and more.
-
-So, why wait, let's go..
-
 ---
-## Teiid Basics
+## [Teiid Basics](./basics)
 
-*   [Virtual Databases](../about/basics/vdbs/) - Learn about how Teiid encapsulates your data access as a database.
-*   [Models](../about/basics/models/) - Learn about how Teiid represents metadata.
-*   [Connectors](../about/basics/connectors/) - Learn about how Teiid connects to enterprise information systems.
-*   [Data Access Services](../about/basics/dataservices/) - Learn about how Teiid exposes data access service.
+You can even start with these to learn about Virtual Databases (VDBs), schemas, sources, and more.
+
+*   [Virtual Databases](/about/basics/vdbs) - Learn about how Teiid encapsulates your data access as a database.
+*   [Schemas](/about/basics/schemas) - Learn about how Teiid represents database object metadata.
+*   [Sources](/about/basics/sources) - Learn about how Teiid connects to sources.
+*   [Data Access Services](/about/basics/dataservices) - Learn about how Teiid exposes data access service.
 
 ---
