@@ -13,23 +13,13 @@ toc: true
 weight: 10
 ---
 
-Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](https://www.redhat.com/en/topics/middleware) and the [community resources](/community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/)
+Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project.  For product users, the community documentation can be used in conjunction with the [product documentation](https://www.redhat.com/en/topics/middleware) and the [community resources](/community) to answer any question you might have. The documentation project can be found at [GitHub.](https://github.com/teiid/teiid-documents/), the 9.x+ source use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.  There are links below to pre-published html versions.
  
- - The [13.x](http://teiid.github.io/teiid-documents/13.1.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
- 
-- The [12.x](http://teiid.github.io/teiid-documents/12.3.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
- 
-- The [11.x](http://teiid.github.io/teiid-documents/11.2.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
- 
-- The [10.x](http://teiid.github.io/teiid-documents/10.3.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
-
-- The [9.x](http://teiid.github.io/teiid-documents/9.3.x/content/) series of releases use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation.
-
 ### Community Resources
 
 See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](https://github.com/teiid/teiid-documents/).  Documentation for the other Teiid projects is generally kept along side the code in the repository.
 
-### Version 10 - 12 Releases
+### Version 10+ Releases
 
 - ###### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides

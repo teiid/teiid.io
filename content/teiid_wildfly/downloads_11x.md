@@ -17,7 +17,6 @@ weight: 20
 ## Runtime
 
 ---
-
 - **Version 11.2.3**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.3/teiid-11.2.3-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.3/teiid-11.2.3-wildfly-server.zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.2.3/teiid-11.2.3-adminshell-dist.zip)
@@ -26,6 +25,7 @@ weight: 20
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.2.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
+---
 - **Version 11.1.2**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-wildfly-server.zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.1.2/teiid-11.1.2-adminshell-dist.zip)
@@ -34,6 +34,7 @@ weight: 20
   - [**Release Notes/Change Log**](http://docs.jboss.org/teiid/11.1.0/teiid-releasenotes.html)
   - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
 
+---
 - **Version 11.0.3**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-wildfly-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-wildfly-server.zip)
   - [**Teiid AdminShell**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/11.0.3/teiid-11.0.3-adminshell-dist.zip)
