@@ -22,7 +22,7 @@ weight: 10
 Teiid 14.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
 
 - [TEIID-5859](https://issues.redhat.com/browse/TEIID-5859) Upgraded to WildFly 19.1.0 including bringing the default standalone-teiid configuration up to date.
-- [TEIID-5927](https://issues.redhat.com/browse/TEIID-5927) [TEIID-5935(]https://issues.redhat.com/browse/TEIID-5935) The amazon-s3 translator is now capable of utilizing other s3 services including minio and ceph. 
+- [TEIID-5927](https://issues.redhat.com/browse/TEIID-5927) [TEIID-5935](https://issues.redhat.com/browse/TEIID-5935) The amazon-s3 translator is now capable of utilizing other s3 services including minio and ceph. 
 
 ### **Latest**
 - **Version 14.0.0**
