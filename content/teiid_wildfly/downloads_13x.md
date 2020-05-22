@@ -3,7 +3,7 @@ bref: ""
 draft: false
 menu:
   sidenav:
-    name: 12.x Downloads
+    name: 13.x Downloads
     weight: -276
     parent: Teiid WildFly
 sidebar: sidenav
