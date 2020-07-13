@@ -30,7 +30,7 @@ Teiid 14.0.0 with WildFly 19.1.0.Final support is now available. The main featur
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/14.0.0/teiid-14.0.0-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.0/teiid-wildfly-14.0.0-src.zip)
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/14.0.x/content/reference/Release_Notes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
 
 ### **Previous**
 - **Version 13.1.1**
@@ -38,7 +38,7 @@ Teiid 14.0.0 with WildFly 19.1.0.Final support is now available. The main featur
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.1.1/teiid-13.1.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.1/teiid-wildfly-13.1.1-src.zip)
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.1.x/content/reference/Release_Notes.html)
-  - [**Teiid Web Console**](https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/org/teiid/hal/dist/3.1.0/dist-3.1.0-overlay.zip)
+  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
 
 ### **Older Releases**
   - [**Version 13.x**](/teiid_wildfly/downloads_13x/)
