@@ -36,7 +36,7 @@ For more details see:
 
 ## - [User Guide](https://github.com/teiid/teiid-spring-boot/blob/master/docs/UserGuide.adoc)
 
-## - [Sample Projects](https://github.com/teiid/teiid-spring-boot/samples)
+## - [Sample Projects](https://github.com/teiid/teiid-spring-boot/tree/master/samples)
 
 ## - [OpenShift Examples](https://github.com/teiid/teiid-openshift-examples)
 
