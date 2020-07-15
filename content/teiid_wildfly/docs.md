@@ -24,7 +24,8 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 - ###### **Full book set** 
   - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
   - Version
-  [13.1](http://teiid.github.io/teiid-documents/13.1.x/content) 
+  [14.0](http://teiid.github.io/teiid-documents/14.0.x/content)
+| [13.1](http://teiid.github.io/teiid-documents/13.1.x/content) 
 | [13.0](http://teiid.github.io/teiid-documents/13.0.x/content)
 | [12.3](http://teiid.github.io/teiid-documents/12.3.x/content)
 | [12.2](http://teiid.github.io/teiid-documents/12.2.x/content)
@@ -48,7 +49,8 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 
 - ###### **API Docs**
   - Version 
-  [13.1](http://docs.jboss.org/teiid/13.1.0/apidocs)
+  [14.0](http://docs.jboss.org/teiid/14.0.0/apidocs)
+| [13.1](http://docs.jboss.org/teiid/13.1.0/apidocs)
 | [13.0](http://docs.jboss.org/teiid/13.0.0/apidocs)
 | [12.3](http://docs.jboss.org/teiid/12.3.0/apidocs)
 | [12.2](http://docs.jboss.org/teiid/12.2.0/apidocs) 
