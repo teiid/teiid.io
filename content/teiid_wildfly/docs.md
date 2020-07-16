@@ -21,23 +21,29 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 
 ### Version 10+ Releases
 
-- ###### **Full book set** 
-  - includes Reference, Developer’s, Client Developer’s, Admin, Caching, and Security Guides
-  - Version
-  [14.0](http://teiid.github.io/teiid-documents/14.0.x/content)
-| [13.1](http://teiid.github.io/teiid-documents/13.1.x/content) 
-| [13.0](http://teiid.github.io/teiid-documents/13.0.x/content)
-| [12.3](http://teiid.github.io/teiid-documents/12.3.x/content)
-| [12.2](http://teiid.github.io/teiid-documents/12.2.x/content)
-| [12.1](http://teiid.github.io/teiid-documents/12.1.x/content)
-| [12.0](http://teiid.github.io/teiid-documents/12.0.x/content) 
-| [11.2](http://teiid.github.io/teiid-documents/11.2.x/content) 
-| [11.1](http://teiid.github.io/teiid-documents/11.1.x/content) 
-| [11.0](http://teiid.github.io/teiid-documents/11.0.x/content) 
-| [10.3](http://teiid.github.io/teiid-documents/10.3.x/content) 
-| [10.2](http://teiid.github.io/teiid-documents/10.2.x/content) 
-| [10.1](http://teiid.github.io/teiid-documents/10.1.x/content) 
-| [10.0](http://teiid.github.io/teiid-documents/10.0.x/content)
+<style>.table-2 table {border-collapse: collapse;} th,td { border: 1px solid #ddd; padding: 4px; } tr:nth-child(even) {background-color: #f2f2f2;} tr:hover {background-color: #ddd;} </style>
+
+<div class="table-2">
+<div></div>
+
+Version | Full Book Set | API Java Docs
+--------|---------------|--------------
+14.0    | [html](http://teiid.github.io/teiid-documents/14.0.x/content), [pdf](http://teiid.github.io/teiid-documents/14.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/14.0.0/apidocs)
+13.1    | [html](http://teiid.github.io/teiid-documents/13.1.x/content), [pdf](http://teiid.github.io/teiid-documents/13.1.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/13.1.0/apidocs)
+13.0    | [html](http://teiid.github.io/teiid-documents/13.0.x/content), [pdf](http://teiid.github.io/teiid-documents/13.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/13.0.0/apidocs)
+12.3    | [html](http://teiid.github.io/teiid-documents/12.3.x/content), [pdf](http://teiid.github.io/teiid-documents/12.3.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/12.3.0/apidocs)
+12.2    | [html](http://teiid.github.io/teiid-documents/12.2.x/content), [pdf](http://teiid.github.io/teiid-documents/12.2.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/12.2.0/apidocs)
+12.1    | [html](http://teiid.github.io/teiid-documents/12.1.x/content), [pdf](http://teiid.github.io/teiid-documents/12.1.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/12.1.0/apidocs)
+12.0    | [html](http://teiid.github.io/teiid-documents/12.0.x/content), [pdf](http://teiid.github.io/teiid-documents/12.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/12.0.0/apidocs)
+11.2    | [html](http://teiid.github.io/teiid-documents/11.2.x/content), [pdf](http://teiid.github.io/teiid-documents/11.2.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/11.2.0/apidocs)
+11.1    | [html](http://teiid.github.io/teiid-documents/11.1.x/content), [pdf](http://teiid.github.io/teiid-documents/11.1.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/11.1.0/apidocs)
+11.0    | [html](http://teiid.github.io/teiid-documents/11.0.x/content), [pdf](http://teiid.github.io/teiid-documents/11.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/11.0.0/apidocs)
+10.3    | [html](http://teiid.github.io/teiid-documents/10.3.x/content), [pdf](http://teiid.github.io/teiid-documents/10.3.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/10.3.0/apidocs)
+10.2    | [html](http://teiid.github.io/teiid-documents/10.2.x/content), [pdf](http://teiid.github.io/teiid-documents/10.2.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/10.2.0/apidocs)
+10.1    | [html](http://teiid.github.io/teiid-documents/10.1.x/content), [pdf](http://teiid.github.io/teiid-documents/10.1.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/10.1.0/apidocs)
+10.0    | [html](http://teiid.github.io/teiid-documents/10.0.x/content), [pdf](http://teiid.github.io/teiid-documents/10.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
+
+</div>
 
 - ###### **Teiid Embedded Examples**
   - Version [12.x+](https://github.com/teiid/teiid-embedded-examples/blob/master/README.md)
@@ -46,23 +52,6 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 - ###### **Quick Start**
   - Version 12.1+ [GitHub](https://github.com/teiid/teiid-quickstarts/blob/master/README.adoc)
 | Version 10.x-11.x [GitHub](https://github.com/teiid/teiid-quickstarts/blob/teiid-10.x/README.adoc)
-
-- ###### **API Docs**
-  - Version 
-  [14.0](http://docs.jboss.org/teiid/14.0.0/apidocs)
-| [13.1](http://docs.jboss.org/teiid/13.1.0/apidocs)
-| [13.0](http://docs.jboss.org/teiid/13.0.0/apidocs)
-| [12.3](http://docs.jboss.org/teiid/12.3.0/apidocs)
-| [12.2](http://docs.jboss.org/teiid/12.2.0/apidocs) 
-| [12.1](http://docs.jboss.org/teiid/12.1.0/apidocs)
-| [12.0](http://docs.jboss.org/teiid/12.0.0/apidocs) 
-| [11.2](http://docs.jboss.org/teiid/11.2.0/apidocs) 
-| [11.1](http://docs.jboss.org/teiid/11.1.0/apidocs) 
-| [11.0](http://docs.jboss.org/teiid/11.0.0/apidocs) 
-| [10.3](http://docs.jboss.org/teiid/10.3.0/apidocs) 
-| [10.2](http://docs.jboss.org/teiid/10.2.0/apidocs) 
-| [10.1](http://docs.jboss.org/teiid/10.1.0/apidocs) 
-| [10.0](http://docs.jboss.org/teiid/10.0.0.Final/apidocs)
 
 ### Version 9 Releases
 
