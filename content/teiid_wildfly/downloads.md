@@ -18,28 +18,34 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 14.0.0 Released on May 21st, 2020 ##
-Teiid 14.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
+## Latest Release Announcement: 14.0.0 Released on August 7th, 2020 ##
+Teiid 15.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
 
-- [TEIID-5859](https://issues.redhat.com/browse/TEIID-5859) Upgraded to WildFly 19.1.0 including bringing the default standalone-teiid configuration up to date.
-- [TEIID-5927](https://issues.redhat.com/browse/TEIID-5927) [TEIID-5935](https://issues.redhat.com/browse/TEIID-5935) The amazon-s3 translator is now capable of utilizing other s3 services including minio and ceph. 
+* [TEIID-5040](https://issues.redhat.com/browse/TEIID-5040) The google spreadsheet source can specify more than one spreadsheet with the new SpreadsheetMap property.
+* [TEIID-3647](https://issues.redhat.com/browse/TEIID-3647) Added a HDFS file source utilizing the hadoop client jars.
+* [TEIID-5950](https://issues.redhat.com/browse/TEIID-5950) Added an Amazon Athena Translator.
+* [TEIID-5936](https://issues.redhat.com/browse/TEIID-5936) Added an S3 source, which can be used with the Excel translator, for all S3 sources.
+* [TEIID-5928](https://issues.redhat.com/browse/TEIID-5928) Added properties for the partitioned load of materialized views.
+* [TEIID-5977](https://issues.redhat.com/browse/TEIID-5977) Added support for pushing virtual functions via a source function option teiid_rel:virtual-function
+* [TEIID-6005](https://issues.redhat.com/browse/TEIID-6005) Better support for Teiid in DBeaver as a postgres source
+* [TEIID-5780](https://issues.redhat.com/browse/TEIID-5780) Added SSL authentication support
 
 ### **Latest**
+- **Version 15.0.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.0/teiid-wildfly-15.0.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.0/teiid-wildfly-15.0.0-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/15.0.0/teiid-15.0.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.0/teiid-wildfly-15.0.0-src.zip)
+  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/15.0.x/content/reference/Release_Notes.html)
+  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
+
+### **Previous**
 - **Version 14.0.1**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.1/teiid-wildfly-14.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.1/teiid-wildfly-14.0.1-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/14.0.1/teiid-14.0.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.1/teiid-wildfly-14.0.1-src.zip)
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/14.0.x/content/reference/Release_Notes.html)
   - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
-
-### **Previous**
-- **Version 13.1.1**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.1/teiid-wildfly-13.1.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.1/teiid-wildfly-13.1.1-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/13.1.1/teiid-13.1.1-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/13.1.1/teiid-wildfly-13.1.1-src.zip)
-  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/13.1.x/content/reference/Release_Notes.html)
-  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
-
+  
 ### **Older Releases**
   - [**Version 13.x**](/teiid_wildfly/downloads_13x/)
   - [**Version 12.x**](/teiid_wildfly/downloads_12x/)

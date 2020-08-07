@@ -28,6 +28,7 @@ See also [Teiid Blogspot](http://teiid.blogspot.com/) and our [GitHub site.](htt
 
 Version | Full Book Set | API Java Docs
 --------|---------------|--------------
+15.0    | [html](http://teiid.github.io/teiid-documents/15.0.x/content), [pdf](http://teiid.github.io/teiid-documents/15.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/15.0.0/apidocs)
 14.0    | [html](http://teiid.github.io/teiid-documents/14.0.x/content), [pdf](http://teiid.github.io/teiid-documents/14.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/14.0.0/apidocs)
 13.1    | [html](http://teiid.github.io/teiid-documents/13.1.x/content), [pdf](http://teiid.github.io/teiid-documents/13.1.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/13.1.0/apidocs)
 13.0    | [html](http://teiid.github.io/teiid-documents/13.0.x/content), [pdf](http://teiid.github.io/teiid-documents/13.0.x/teiid-documents.pdf) | [html](http://docs.jboss.org/teiid/13.0.0/apidocs)
