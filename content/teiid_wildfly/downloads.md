@@ -18,35 +18,31 @@ weight: 10
 
 ---
 
-## Latest Release Announcement: 14.0.0 Released on August 7th, 2020 ##
-Teiid 15.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
+## Latest Release Announcement: 16.0.0 Released on December 28th, 2020 ##
+Teiid 16.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
 
-* [TEIID-5040](https://issues.redhat.com/browse/TEIID-5040) The google spreadsheet source can specify more than one spreadsheet with the new SpreadsheetMap property.
-* [TEIID-3647](https://issues.redhat.com/browse/TEIID-3647) Added a HDFS file source utilizing the hadoop client jars.
-* [TEIID-5950](https://issues.redhat.com/browse/TEIID-5950) Added an Amazon Athena Translator.
-* [TEIID-5936](https://issues.redhat.com/browse/TEIID-5936) Added an S3 source, which can be used with the Excel translator, for all S3 sources.
-* [TEIID-5928](https://issues.redhat.com/browse/TEIID-5928) Added properties for the partitioned load of materialized views.
-* [TEIID-5977](https://issues.redhat.com/browse/TEIID-5977) Added support for pushing virtual functions via a source function option teiid_rel:virtual-function
-* [TEIID-6005](https://issues.redhat.com/browse/TEIID-6005) Better support for Teiid in DBeaver as a postgres source
-* [TEIID-5780](https://issues.redhat.com/browse/TEIID-5780) Added SSL authentication support
+* [TEIID-6021](https://issues.redhat.com/browse/TEIID-6021) Added bulk update and delete handling for Salesforce.  Bulk update can be controlled via a hint or now by execution properties.  Bulk delete behavior can also be specified as hard delete via a hint or execution property.
+* [TEIID-4594](https://issues.redhat.com/browse/TEIID-4594) Thanks to Aditya Manglam Sharma we've added a parquet translator for use with file sources - namely file, hdfs, and s3.
+* [TEIID-5861](https://issues.redhat.com/browse/TEIID-5861) Added multiple join support to the salesforce translator which can be enabled with the maxFromGroups translator property.
 
 ### **Latest**
+- **Version 16.0.0**
+  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/16.0.0/teiid-wildfly-16.0.0-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/16.0.0/teiid-wildfly-16.0.0-server.zip)
+  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/16.0.0/teiid-16.0.0-jdbc.jar)
+  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/16.0.0/teiid-wildfly-16.0.0-src.zip)
+  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/16.0.x/content/reference/Release_Notes.html)
+  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
+  
+### **Previous**
 - **Version 15.0.1**
   - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.1/teiid-wildfly-15.0.1-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.1/teiid-wildfly-15.0.1-server.zip)
   - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/15.0.1/teiid-15.0.1-jdbc.jar)
   - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/15.0.1/teiid-wildfly-15.0.1-src.zip)
   - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/15.0.x/content/reference/Release_Notes.html)
   - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
-
-### **Previous**
-- **Version 14.0.2**
-  - [**Teiid Runtime**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.2/teiid-wildfly-14.0.2-dist.zip) [(with WildFly/Console)](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.2/teiid-wildfly-14.0.2-server.zip)
-  - [**JDBC Driver**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/teiid/14.0.2/teiid-14.0.2-jdbc.jar)
-  - [**Teiid Source**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/wildfly/teiid-wildfly/14.0.2/teiid-wildfly-14.0.2-src.zip)
-  - [**Release Notes/Change Log**](http://teiid.github.io/teiid-documents/14.0.x/content/reference/Release_Notes.html)
-  - [**Teiid Web Console**](https://oss.sonatype.org/service/local/repositories/releases/content/org/teiid/hal/dist/3.1.3/dist-3.1.3-overlay.zip)
   
 ### **Older Releases**
+  - [**Version 14.x**](/teiid_wildfly/downloads_14x/)
   - [**Version 13.x**](/teiid_wildfly/downloads_13x/)
   - [**Version 12.x**](/teiid_wildfly/downloads_12x/)
 
@@ -131,7 +127,7 @@ You can create your own Docker images of the combined WildFly/Teiid/Console runt
 
 ### Installation
 
-Please consult the respective Migration Guides [**from 10.x to 11.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_10.x.html), [**from 11.x to 12.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_11.x.html), [**from 12.x to 13.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_12.x.html), and [**from 13.x to 14.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_13.x.html)
+Please consult the respective Migration Guides [**from 10.x to 11.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_10.x.html), [**from 11.x to 12.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_11.x.html), [**from 12.x to 13.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_12.x.html), [**from 13.x to 14.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_13.x.html), [**from 14.x to 15.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_14.x.html), and [**from 15.x to 16.x.**](http://teiid.github.io/teiid-documents/master/content/admin/Migration_Guide_From_Teiid_15.x.html)
 
 Teiid Requires:
 
