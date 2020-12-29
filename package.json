@@ -36,7 +36,7 @@
     "postcss-cssnext": "2.10.0",
     "postcss-flexbugs-fixes": "2.1.1",
     "postcss-import": "9.1.0",
-    "sass-lint": "1.10.2",
+    "sass-lint": "^1.13.1",
     "scrollpos-styler": "0.6.1"
   }
 }
