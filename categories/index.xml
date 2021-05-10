@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Teiid</title>
+    <link>https://teiid.io/categories/</link>
+    <description>Recent content in Categories on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://teiid.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teiid Wildfly</title>
+      <link>https://teiid.io/categories/teiid-wildfly/</link>
+      <pubDate>Mon, 16 Nov 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/categories/teiid-wildfly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

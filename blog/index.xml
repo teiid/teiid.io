@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Teiid</title>
+    <link>https://teiid.io/blog/</link>
+    <description>Recent content in Blog on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 09 May 2021 11:42:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teiid 15.0.2 Released</title>
+      <link>https://teiid.io/blog/post-150002/</link>
+      <pubDate>Sun, 09 May 2021 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-150002/</guid>
+      <description>&lt;h5 id=&#34;teiid-15-0-2-is-now-available-for-download-teiid-wildfly-downloads-and-includes-6-total-issues-addressed&#34;&gt;Teiid 15.0.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 6 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 16.0.0 Released</title>
+      <link>https://teiid.io/blog/post-160000/</link>
+      <pubDate>Mon, 28 Dec 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-160000/</guid>
+      <description>&lt;h5 id=&#34;teiid-16-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-44-total-issues-addressed&#34;&gt;Teiid 16.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 44 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 14.0.2 Released</title>
+      <link>https://teiid.io/blog/post-140002/</link>
+      <pubDate>Mon, 16 Nov 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-140002/</guid>
+      <description>&lt;h5 id=&#34;teiid-14-0-2-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 14.0.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 15.0.1 Released</title>
+      <link>https://teiid.io/blog/post-150001/</link>
+      <pubDate>Thu, 12 Nov 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-150001/</guid>
+      <description>&lt;h5 id=&#34;teiid-15-0-1-is-now-available-for-download-teiid-wildfly-downloads-and-includes-16-total-issues-addressed&#34;&gt;Teiid 15.0.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 16 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid related project direction</title>
+      <link>https://teiid.io/blog/post-2020-11-12/</link>
+      <pubDate>Thu, 12 Nov 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-11-12/</guid>
+      <description>&lt;h5 id=&#34;we-need-to-address-the-shifts-that-are-happening-in-the-teiid-community-work&#34;&gt;We need to address the shifts that are happening in the Teiid community work.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GSOC Wrap-up</title>
+      <link>https://teiid.io/blog/post-2020-09-03/</link>
+      <pubDate>Thu, 03 Sep 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-09-03/</guid>
+      <description>&lt;h5 id=&#34;gsoc-2020-has-ended-let-s-recap&#34;&gt;GSOC 2020 has ended, let&amp;rsquo;s recap&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.1.2 Released</title>
+      <link>https://teiid.io/blog/post-130102/</link>
+      <pubDate>Wed, 12 Aug 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-130102/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-1-2-is-now-available-for-download-teiid-wildfly-downloads-13x-and-addresses-several-important-issues&#34;&gt;Teiid 13.1.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_13x&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 15.0.0 Released</title>
+      <link>https://teiid.io/blog/post-150000/</link>
+      <pubDate>Fri, 07 Aug 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-150000/</guid>
+      <description>&lt;h5 id=&#34;teiid-15-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-44-total-issues-addressed&#34;&gt;Teiid 15.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 44 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 14.0.1 Released</title>
+      <link>https://teiid.io/blog/post-140001/</link>
+      <pubDate>Thu, 30 Jul 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-140001/</guid>
+      <description>&lt;h5 id=&#34;teiid-14-0-1-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 14.0.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Enhanced source support in Teiid 15</title>
+      <link>https://teiid.io/blog/post-2020-07-13/</link>
+      <pubDate>Mon, 13 Jul 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-07-13/</guid>
+      <description>&lt;h5 id=&#34;teiid-15-is-refining-s3-support-and-adding-direct-support-for-hdfs&#34;&gt;Teiid 15 is refining S3 support and adding direct support for HDFS.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid In Syndesis</title>
+      <link>https://teiid.io/blog/post-2020-06-02/</link>
+      <pubDate>Mon, 01 Jun 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-06-02/</guid>
+      <description>&lt;h5 id=&#34;teiid-in-syndesis-provides-data-virtualization-on-openshift-in-just-a-few-clicks-let-s-explore-that-a-little-more&#34;&gt;Teiid in Syndesis provides data virtualization on OpenShift in just a few clicks.  Let&amp;rsquo;s explore that a little more.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.1.1 and 13.0.3 Released</title>
+      <link>https://teiid.io/blog/post-130101/</link>
+      <pubDate>Thu, 21 May 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-130101/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-1-1-and-13-0-3-are-now-available-for-download-teiid-wildfly-downloads-13x-and-addresses-several-important-issues&#34;&gt;Teiid 13.1.1 and 13.0.3 are now available for &lt;a href=&#34;../teiid_wildfly/downloads_13x&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 14.0.0 Released</title>
+      <link>https://teiid.io/blog/post-140000/</link>
+      <pubDate>Wed, 20 May 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-140000/</guid>
+      <description>&lt;h5 id=&#34;teiid-14-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-37-total-issues-addressed&#34;&gt;Teiid 14.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 37 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summer Interns in 2020</title>
+      <link>https://teiid.io/blog/post-2020-05-06/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0600</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-05-06/</guid>
+      <description>&lt;h5 id=&#34;summer-interns-in-2020&#34;&gt;Summer Interns in 2020&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A CRD is the new VDB</title>
+      <link>https://teiid.io/blog/post-2020-04/</link>
+      <pubDate>Thu, 30 Apr 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-04/</guid>
+      <description>&lt;h5 id=&#34;here-s-a-quick-rundown-of-how-teiid-is-evolving-to-make-usage-on-openshift-as-easy-as-possible-it-all-starts-with-a-crd&#34;&gt;Here&amp;rsquo;s a quick rundown of how Teiid is evolving to make usage on OpenShift as easy as possible.  It all starts with a CRD.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overview of Happenings in Teiid Land</title>
+      <link>https://teiid.io/blog/post-2020-03/</link>
+      <pubDate>Wed, 25 Mar 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-2020-03/</guid>
+      <description>&lt;h5 id=&#34;there-s-a-lot-happening-across-the-various-teiid-related-projects-here-s-a-brief-overview-of-where-things-are-at&#34;&gt;There&amp;rsquo;s a lot happening across the various Teiid related projects.  Here&amp;rsquo;s a brief overview of where things are at.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.1.0 Released</title>
+      <link>https://teiid.io/blog/post-130100/</link>
+      <pubDate>Fri, 06 Mar 2020 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-130100/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-1-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-37-total-issues-addressed&#34;&gt;Teiid 13.1.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 37 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.3.2 Released</title>
+      <link>https://teiid.io/blog/post-120302/</link>
+      <pubDate>Tue, 03 Mar 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120302/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-3-2-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 12.3.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.0.2 Released</title>
+      <link>https://teiid.io/blog/post-130002/</link>
+      <pubDate>Fri, 31 Jan 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-130002/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-0-2-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 13.0.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.0.1 and 12.2.2 Released</title>
+      <link>https://teiid.io/blog/post-120202/</link>
+      <pubDate>Mon, 16 Dec 2019 15:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120202/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-0-1-teiid-wildfly-downloads-and-12-2-2-teiid-wildfly-downloads-12x&#34;&gt;Teiid &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;13.0.1&lt;/a&gt; and &lt;a href=&#34;../teiid_wildfly/downloads_12x/&#34;&gt;12.2.2&lt;/a&gt;.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 13.0.0 Released</title>
+      <link>https://teiid.io/blog/post-130000/</link>
+      <pubDate>Wed, 11 Dec 2019 14:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-130000/</guid>
+      <description>&lt;h5 id=&#34;teiid-13-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-38-total-issues-addressed-including-updated-wildfly-support&#34;&gt;Teiid 13.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 38 total issues addressed including updated WildFly support.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.3.1 Released</title>
+      <link>https://teiid.io/blog/post-120301/</link>
+      <pubDate>Fri, 08 Nov 2019 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120301/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-3-1-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 12.3.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.1.2 Released</title>
+      <link>https://teiid.io/blog/post-120102/</link>
+      <pubDate>Mon, 23 Sep 2019 21:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120102/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-1-2-is-now-available-for-download-teiid-wildfly-downloads-12x-and-addresses-several-important-issues&#34;&gt;Teiid 12.1.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_12x/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.3.0 Released</title>
+      <link>https://teiid.io/blog/post-120300/</link>
+      <pubDate>Tue, 17 Sep 2019 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120300/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-3-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-48-total-issues-addressed&#34;&gt;Teiid 12.3.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 48 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid Thorntail 2.1.0 Released</title>
+      <link>https://teiid.io/blog/post-tt-210/</link>
+      <pubDate>Wed, 12 Jun 2019 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-tt-210/</guid>
+      <description>&lt;h5 id=&#34;teiid-thorntail-2-1-0-is-now-available-with-support-for-thorntail-2-4&#34;&gt;Teiid Thorntail 2.1.0 is now available with support for Thorntail 2.4.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.2.1 Released</title>
+      <link>https://teiid.io/blog/post-120201/</link>
+      <pubDate>Wed, 12 Jun 2019 10:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120201/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-2-1-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 12.2.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.2.0 Released</title>
+      <link>https://teiid.io/blog/post-120200/</link>
+      <pubDate>Thu, 09 May 2019 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120200/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-2-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-51-total-issues-addressed&#34;&gt;Teiid 12.2.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 51 total issues addressed.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.2.3 Released</title>
+      <link>https://teiid.io/blog/post-110203/</link>
+      <pubDate>Fri, 03 May 2019 14:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-110203/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-2-3-is-now-available-for-download-teiid-wildfly-downloads-11x-and-addresses-several-important-issues&#34;&gt;Teiid 11.2.3 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_11x/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.0.2 Released</title>
+      <link>https://teiid.io/blog/post-120002/</link>
+      <pubDate>Tue, 30 Apr 2019 16:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120002/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-0-2-is-now-available-for-download-teiid-wildfly-downloads-12x-and-addresses-several-important-issues&#34;&gt;Teiid 12.0.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_12x/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.1.1 Released</title>
+      <link>https://teiid.io/blog/post-120101/</link>
+      <pubDate>Mon, 29 Apr 2019 21:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120101/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-1-1-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 12.1.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid Thorntail 2.0.0 Released</title>
+      <link>https://teiid.io/blog/post-tt-200/</link>
+      <pubDate>Tue, 05 Mar 2019 11:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-tt-200/</guid>
+      <description>&lt;h5 id=&#34;teiid-thorntail-2-0-0-is-now-available-with-support-for-thorntail-2-3&#34;&gt;Teiid Thorntail 2.0.0 is now available with support for Thorntail 2.3.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.1.0 Released</title>
+      <link>https://teiid.io/blog/post-120100/</link>
+      <pubDate>Mon, 04 Mar 2019 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120100/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-1-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-58-total-issues-addressed-including-updated-wildfly-support&#34;&gt;Teiid 12.1.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 58 total issues addressed including updated WildFly support.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.0.1 Released</title>
+      <link>https://teiid.io/blog/post-120001/</link>
+      <pubDate>Tue, 26 Feb 2019 21:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120001/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-0-1-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 12.0.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.2.2 Released</title>
+      <link>https://teiid.io/blog/post-110202/</link>
+      <pubDate>Fri, 01 Feb 2019 21:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-110202/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-2-2-is-now-available-for-download-teiid-wildfly-downloads-and-addresses-several-important-issues&#34;&gt;Teiid 11.2.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and addresses several important issues.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.0.0 Released</title>
+      <link>https://teiid.io/blog/post-120000/</link>
+      <pubDate>Tue, 15 Jan 2019 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-120000/</guid>
+      <description>&lt;h5 id=&#34;teiid-12-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-58-total-issues-addressed-including-updated-wildfly-support&#34;&gt;Teiid 12.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 58 total issues addressed including updated WildFly support.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.1.2 Released</title>
+      <link>https://teiid.io/blog/post-110102/</link>
+      <pubDate>Tue, 15 Jan 2019 21:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-110102/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-1-2-is-now-available-for-download-teiid-wildfly-downloads-11x-and-includes-several-bug-fixes&#34;&gt;Teiid 11.1.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_11x/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.2.1 Released</title>
+      <link>https://teiid.io/blog/post-12-05-18-110201/</link>
+      <pubDate>Wed, 05 Dec 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-12-05-18-110201/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-2-1-is-now-available-for-download-teiid-wildfly-downloads&#34;&gt;Teiid 11.2.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads&#34;&gt;download&lt;/a&gt;.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.0.3 Released</title>
+      <link>https://teiid.io/blog/post-11-20-18-110003/</link>
+      <pubDate>Tue, 20 Nov 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-11-20-18-110003/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-0-3-is-now-available-for-download-teiid-wildfly-downloads-11x-and-includes-several-bug-fixes&#34;&gt;Teiid 11.0.3 is now available for &lt;a href=&#34;../teiid_wildfly/downloads_11x/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 12.x and beyond</title>
+      <link>https://teiid.io/blog/post-11-20-18/</link>
+      <pubDate>Tue, 20 Nov 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-11-20-18/</guid>
+      <description>&lt;h5 id=&#34;what-to-expect-for-teiid-12-x-and-13-x&#34;&gt;What to expect for Teiid 12.x and 13.x&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.2.0 and 10.3.5 Released</title>
+      <link>https://teiid.io/blog/post-10-23-18/</link>
+      <pubDate>Tue, 23 Oct 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-10-23-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-2-0-is-now-available-for-download-teiid-wildfly-downloads-44-total-issues-were-addressed-including-adding-two-new-data-types&#34;&gt;Teiid 11.2.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt;. 44 total issues were addressed including adding two new data types.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.1.1 Released</title>
+      <link>https://teiid.io/blog/post-09-17-18/</link>
+      <pubDate>Mon, 17 Sep 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-09-17-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-1-1-is-now-available-for-download-teiid-wildfly-downloads-and-includes-8-fixes&#34;&gt;Teiid 11.1.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 8 fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.1.0, 11.0.2 and 10.3.4 Released</title>
+      <link>https://teiid.io/blog/post-09-04-18/</link>
+      <pubDate>Tue, 04 Sep 2018 12:42:50 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-09-04-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-1-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-54-total-issues-addressed-including-the-remaining-analytical-functions&#34;&gt;Teiid 11.1.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 54 total issues addressed including the remaining analytical functions.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 10.3.3 Released</title>
+      <link>https://teiid.io/blog/post-07-27-18-100303/</link>
+      <pubDate>Fri, 27 Jul 2018 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-07-27-18-100303/</guid>
+      <description>&lt;h5 id=&#34;teiid-10-3-3-is-now-available-for-download-teiid-wildfly-downloads-and-includes-several-bug-fixes&#34;&gt;Teiid 10.3.3 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.0.1 Released</title>
+      <link>https://teiid.io/blog/post-07-27-18-110001/</link>
+      <pubDate>Fri, 27 Jul 2018 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-07-27-18-110001/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-0-1-is-now-available-for-download-teiid-wildfly-downloads-and-includes-several-bug-fixes&#34;&gt;Teiid 11.0.1 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 10.2.3 Released</title>
+      <link>https://teiid.io/blog/post-07-02-18-100203/</link>
+      <pubDate>Mon, 02 Jul 2018 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-07-02-18-100203/</guid>
+      <description>&lt;h5 id=&#34;teiid-10-2-3-is-now-available-for-download-http-teiid-jboss-org-downloads-10x-and-includes-several-bug-fixes&#34;&gt;Teiid 10.2.3 is now available for &lt;a href=&#34;http://teiid.jboss.org/downloads_10x/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 10.3.2 Released</title>
+      <link>https://teiid.io/blog/post-07-02-18-100302/</link>
+      <pubDate>Mon, 02 Jul 2018 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-07-02-18-100302/</guid>
+      <description>&lt;h5 id=&#34;teiid-10-3-2-is-now-available-for-download-teiid-wildfly-downloads-and-includes-several-bug-fixes&#34;&gt;Teiid 10.3.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 11.0.0 Released</title>
+      <link>https://teiid.io/blog/post-07-02-18-110000/</link>
+      <pubDate>Mon, 02 Jul 2018 22:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-07-02-18-110000/</guid>
+      <description>&lt;h5 id=&#34;teiid-11-0-0-is-now-available-for-download-teiid-wildfly-downloads-and-includes-51-total-issues-addressed-including-new-exasol-connectivity&#34;&gt;Teiid 11.0.0 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes 51 total issues addressed including new Exasol connectivity.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid new project site launch</title>
+      <link>https://teiid.io/blog/post-05-30-18/</link>
+      <pubDate>Wed, 30 May 2018 12:55:00 -0500</pubDate>
+      
+      <guid>https://teiid.io/blog/post-05-30-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-s-community-website-has-been-redesigned-and-now-available-here-at-https-teiid-io-https-teiid-io&#34;&gt;Teiid&amp;rsquo;s community website has been redesigned and now available here, at &lt;a href=&#34;https://teiid.io&#34;&gt;https://teiid.io&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Since we&amp;rsquo;ve been working on cloud focused data virtualization features, we decided to take the opportunity to move and streamlined our site content and build process to &lt;a href=&#34;https://github.com/teiid/teiid.io&#34;&gt;https://github.com/teiid/teiid.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Teiid 10.2.2 Released</title>
+      <link>https://teiid.io/blog/post-05-23-18/</link>
+      <pubDate>Wed, 23 May 2018 16:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/blog/post-05-23-18/</guid>
+      <description>&lt;h5 id=&#34;teiid-10-2-2-is-now-available-for-download-teiid-wildfly-downloads-and-includes-several-bug-fixes&#34;&gt;Teiid 10.2.2 is now available for &lt;a href=&#34;../teiid_wildfly/downloads/&#34;&gt;download&lt;/a&gt; and includes several bug fixes.&lt;/h5&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

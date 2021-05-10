@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://teiid.io/about/basics/dataservices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/basics/schemas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/basics/sources/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/downloads/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/basics/vdbs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/downloads_12x/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/downloads_13x/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/downloads_14x/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/faq/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/history/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/basics/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/embedded/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/springboot/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/why-teiid/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/downloads_11x/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/teiid_designer/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-150002/</loc>
+    <lastmod>2021-05-09T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-160000/</loc>
+    <lastmod>2020-12-28T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-140002/</loc>
+    <lastmod>2020-11-16T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-150001/</loc>
+    <lastmod>2020-11-12T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-11-12/</loc>
+    <lastmod>2020-11-12T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-09-03/</loc>
+    <lastmod>2020-09-03T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-130102/</loc>
+    <lastmod>2020-08-12T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-150000/</loc>
+    <lastmod>2020-08-07T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-140001/</loc>
+    <lastmod>2020-07-30T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-07-13/</loc>
+    <lastmod>2020-07-13T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-06-02/</loc>
+    <lastmod>2020-06-01T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-130101/</loc>
+    <lastmod>2020-05-21T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-140000/</loc>
+    <lastmod>2020-05-20T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-05-06/</loc>
+    <lastmod>2020-05-06T00:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-04/</loc>
+    <lastmod>2020-04-30T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-2020-03/</loc>
+    <lastmod>2020-03-25T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-130100/</loc>
+    <lastmod>2020-03-06T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120302/</loc>
+    <lastmod>2020-03-03T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-130002/</loc>
+    <lastmod>2020-01-31T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120202/</loc>
+    <lastmod>2019-12-16T15:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-130000/</loc>
+    <lastmod>2019-12-11T14:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120301/</loc>
+    <lastmod>2019-11-08T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120102/</loc>
+    <lastmod>2019-09-23T21:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120300/</loc>
+    <lastmod>2019-09-17T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-tt-210/</loc>
+    <lastmod>2019-06-12T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120201/</loc>
+    <lastmod>2019-06-12T10:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120200/</loc>
+    <lastmod>2019-05-09T17:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-110203/</loc>
+    <lastmod>2019-05-03T14:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120002/</loc>
+    <lastmod>2019-04-30T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120101/</loc>
+    <lastmod>2019-04-29T21:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-tt-200/</loc>
+    <lastmod>2019-03-05T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120100/</loc>
+    <lastmod>2019-03-04T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120001/</loc>
+    <lastmod>2019-02-26T21:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-110202/</loc>
+    <lastmod>2019-02-01T21:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-120000/</loc>
+    <lastmod>2019-01-15T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-110102/</loc>
+    <lastmod>2019-01-15T21:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-12-05-18-110201/</loc>
+    <lastmod>2018-12-05T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-11-20-18-110003/</loc>
+    <lastmod>2018-11-20T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-11-20-18/</loc>
+    <lastmod>2018-11-20T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-10-23-18/</loc>
+    <lastmod>2018-10-23T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-09-17-18/</loc>
+    <lastmod>2018-09-17T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-09-04-18/</loc>
+    <lastmod>2018-09-04T12:42:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-07-27-18-100303/</loc>
+    <lastmod>2018-07-27T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-07-27-18-110001/</loc>
+    <lastmod>2018-07-27T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-07-02-18-100203/</loc>
+    <lastmod>2018-07-02T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-07-02-18-100302/</loc>
+    <lastmod>2018-07-02T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-07-02-18-110000/</loc>
+    <lastmod>2018-07-02T22:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-05-30-18/</loc>
+    <lastmod>2018-05-30T12:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/post-05-23-18/</loc>
+    <lastmod>2018-05-23T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/13.0.2/</loc>
+    <lastmod>2020-01-31T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/13.0.3/</loc>
+    <lastmod>2020-05-21T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/13.1.1/</loc>
+    <lastmod>2020-05-21T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/13.1.2/</loc>
+    <lastmod>2020-08-12T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/14.0.1/</loc>
+    <lastmod>2020-07-30T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/14.0.2/</loc>
+    <lastmod>2020-11-16T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/blog/</loc>
+    <lastmod>2021-05-09T11:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/release/</loc>
+    <lastmod>2020-11-16T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/tags/</loc>
+    <lastmod>2020-01-31T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/about/teiid_runtimes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/categories/teiid-wildfly/</loc>
+    <lastmod>2020-11-16T17:42:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.io/teiid_wildfly/tools/</loc>
+  </url>
+  
+</urlset>

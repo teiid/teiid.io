@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teiid_wildflies on Teiid</title>
+    <link>https://teiid.io/teiid_wildfly/</link>
+    <description>Recent content in Teiid_wildflies on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/teiid_wildfly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teiid WildFly Documents</title>
+      <link>https://teiid.io/teiid_wildfly/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/docs/</guid>
+      <description>Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project. For product users, the community documentation can be used in conjunction with the product documentation and the community resources to answer any question you might have. The documentation project can be found at GitHub., the 9.x+ source use gitbook, which can be used to download/generate PDF, EPUB, and MOBI documentation. There are links below to pre-published html versions.</description>
+    </item>
+    
+    <item>
+      <title>Teiid WildFly Downloads</title>
+      <link>https://teiid.io/teiid_wildfly/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/downloads/</guid>
+      <description>Runtime Latest Release Announcement: 16.0.0 Released on December 28th, 2020 Teiid 16.0.0 with WildFly 19.1.0.Final support is now available. The main features are:
+ TEIID-6021 Added bulk update and delete handling for Salesforce. Bulk update can be controlled via a hint or now by execution properties. Bulk delete behavior can also be specified as hard delete via a hint or execution property. TEIID-4594 Thanks to Aditya Manglam Sharma we&amp;rsquo;ve added a parquet translator for use with file sources - namely file, hdfs, and s3.</description>
+    </item>
+    
+    <item>
+      <title>Teiid WildFly 12.x Downloads</title>
+      <link>https://teiid.io/teiid_wildfly/downloads_12x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/downloads_12x/</guid>
+      <description>Runtime  Version 12.3.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 12.2.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 12.1.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 12.0.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.</description>
+    </item>
+    
+    <item>
+      <title>Teiid WildFly 13.x Downloads</title>
+      <link>https://teiid.io/teiid_wildfly/downloads_13x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/downloads_13x/</guid>
+      <description>Runtime  Version 13.1.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 13.0.3  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.
+ https://mvnrepository.com/artifact/org.teiid  JDBC Driver &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.teiid&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;teiid&amp;lt;/artifactId&amp;gt; &amp;lt;classifier&amp;gt;jdbc&amp;lt;/classifier&amp;gt; &amp;lt;version&amp;gt;X.</description>
+    </item>
+    
+    <item>
+      <title>Teiid WildFly 14.x Downloads</title>
+      <link>https://teiid.io/teiid_wildfly/downloads_14x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/downloads_14x/</guid>
+      <description>Runtime  Version 14.0.2  Teiid Runtime (with WildFly/Console) JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.
+ https://mvnrepository.com/artifact/org.teiid  JDBC Driver &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.teiid&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;teiid&amp;lt;/artifactId&amp;gt; &amp;lt;classifier&amp;gt;jdbc&amp;lt;/classifier&amp;gt; &amp;lt;version&amp;gt;X.X.X&amp;lt;/version&amp;gt; &amp;lt;/dependency&amp;gt; Server Distribution &amp;lt;dependency&amp;gt; &amp;lt;groupId&amp;gt;org.teiid.wildfly&amp;lt;/groupId&amp;gt; &amp;lt;artifactId&amp;gt;teiid-wildfly&amp;lt;/artifactId&amp;gt; &amp;lt;classifier&amp;gt;server&amp;lt;/classifier&amp;gt; &amp;lt;version&amp;gt;X.X.X&amp;lt;/version&amp;gt; &amp;lt;type&amp;gt;zip&amp;lt;/type&amp;gt; &amp;lt;/dependency&amp;gt; Embedding You should use maven to directly control what features you need when embedding Teiid.</description>
+    </item>
+    
+    <item>
+      <title>Teiid WildFly 11.x Downloads</title>
+      <link>https://teiid.io/teiid_wildfly/downloads_11x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/downloads_11x/</guid>
+      <description>Runtime  Version 11.2.3  Teiid Runtime (with WildFly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 11.1.2  Teiid Runtime (with WildFly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console    Version 11.0.3  Teiid Runtime (with WildFly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Designer</title>
+      <link>https://teiid.io/teiid_wildfly/teiid_designer/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/teiid_designer/</guid>
+      <description> Teiid Designer is a deprecated visual tool built for Eclipse, that enables rapid, model-driven definition, integration, management and testing your VDBs using the Teiid runtime framework.
+   Download and Install
+User Guide - HTML | HTML Single | PDF
+User Guide Table Of Contents Version 11.1.2
+Copyright © 2018 Red Hat, Inc.
+Legal Notice
+Table of Contents (abbreviated)
+ Introduction Dive Right In! Server Management New Model Wizards Importers Creating and Editing Model Objects Metadata-specific Modeling User Defined Functions Editing Models and Projects Managing VDBs Testing Your Models Materialization Support Searching Appendices  Supported Data Sources Designer Metadata Usage Requirements In Teiid Runtime User Preferences UI Reference   </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://teiid.io/teiid_wildfly/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/teiid_wildfly/tools/</guid>
+      <description>Teiid WildFly includes a few tools to help you develop and manage various artifacts and components.
+Teiid Console The Teiid Console is a graphical web based administrative tool that is written using the GWT technologies which is used to monitor WildFly instances. Teiid provides an additional plugin-in into this system that lets users configure and manage Teiid along with WildFly.
+What can the console do?  help with various administrative tasks such as&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

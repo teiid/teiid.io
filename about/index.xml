@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Teiid</title>
+    <link>https://teiid.io/about/</link>
+    <description>Recent content in Abouts on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Services</title>
+      <link>https://teiid.io/about/basics/dataservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/about/basics/dataservices/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Schemas &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Sources
+Services Data access services via data virtualization provide important abstraction and decoupling features.
+   Services and Abstraction Decoupling is the key concept in services and is achieved through abstraction based on service interfaces. Business processes represent a formalized executable form of the actual enterprise&amp;rsquo;s processes, but offer a layer of abstraction above the physical processes, be they automated or manual.</description>
+    </item>
+    
+    <item>
+      <title>Schemas</title>
+      <link>https://teiid.io/about/basics/schemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/about/basics/schemas/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Schemas &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Sources
+Schemas Originally Teiid used the term models to refer to its schemas as the constructs Teiid used of relational schema were defined in the Eclipse Modeling Framework. There also used to be additional &amp;ldquo;model&amp;rdquo; types that Teiid / Teiid Designer utilized. Now however we deal strictly with schema in Teiid.</description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>https://teiid.io/about/basics/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/about/basics/sources/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Schemas &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Sources
+Access to data sources in Teiid take two components. A translator and a platform dependent access mechanism to provide source access. A translator is represented in DDL as a foreign data wrapper (FDW). The platform dependent access is abstracted in DDL the SERVER construct. Together this access is been referred to as a Teiid connector.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Databases</title>
+      <link>https://teiid.io/about/basics/vdbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/about/basics/vdbs/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Schemas &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Sources
+The Virtual Database A virtual database (or VDB) is a container for components used to integrate data from multiple data sources, so that they can be accessed in an integrated manner through a single, uniform API.
+VDB Creation and Validation In traditional Teiid development VDBs may be defined as a single file mixture of DDL and or XML, or a zip (.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://teiid.io/about/faq/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/about/faq/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Frequently Asked Questions Teiid is a flexible Java component that provides integrated access to multiple data sources through a single uniform API. Teiid is a query engine for integrating data from multiple sources in an optimal manner. Using Teiid, your applications can access information using standard JDBC/ODBC/OData/REST, even if that information resides in more than one source or in sources that do not understand standard queries.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://teiid.io/about/history/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/about/history/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; |&amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid and Red Hat Products Teiid was initially offered as an officially supported product called JBoss Enterprise Data Services Platform. That offering was later specialized to JBoss Data Virtualization. Now Data Virtualization will be available with Fuse Online (Syndesis) and Fuse Integration Services as part of a unified Red Hat Integration offering.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Basics</title>
+      <link>https://teiid.io/about/basics/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/about/basics/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid Basics Getting started with Teiid will feel familiar for those with a database background. The goal is to create a virtual database to encapsulate your data access needs, such that exactly the right data - and only that data - is available to your chosen clients.
+The following topics help clarify some of the terms used by Teiid to accelerate the creation of your virtualization.</description>
+    </item>
+    
+    <item>
+      <title>Why Teiid</title>
+      <link>https://teiid.io/about/why-teiid/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.io/about/why-teiid/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+1. Familiar Interfaces
+Teiid offers very familiar interfaces: JDBC/ODBC/OData/REST.
+Every Java developer is familiar with JDBC access to data sources. It is also expected by many BI and other tools. With Teiid you can use JDBC to access any supported source - and integrate across them.
+Teiid&amp;rsquo;s JDBC driver: * provides the JDBC 4.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Distributions</title>
+      <link>https://teiid.io/about/teiid_runtimes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.io/about/teiid_runtimes/</guid>
+      <description>The Engine The core processing engine of Teiid remains the same regardless of the runtime platform. Data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record. The engine uses the same scalable thread and memory management techniques adapted to the constraints of its VM to ensure the highest processing through put possible. The major paradigm of Teiid is to push as much work to the source as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

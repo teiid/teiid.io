@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Teiid</title>
+    <link>https://teiid.io/tags/</link>
+    <description>Recent content in Tags on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 31 Jan 2020 17:42:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>13.0.2</title>
+      <link>https://teiid.io/tags/13.0.2/</link>
+      <pubDate>Fri, 31 Jan 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/13.0.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13.0.3</title>
+      <link>https://teiid.io/tags/13.0.3/</link>
+      <pubDate>Thu, 21 May 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/13.0.3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13.1.1</title>
+      <link>https://teiid.io/tags/13.1.1/</link>
+      <pubDate>Thu, 21 May 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/13.1.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13.1.2</title>
+      <link>https://teiid.io/tags/13.1.2/</link>
+      <pubDate>Wed, 12 Aug 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/13.1.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.0.1</title>
+      <link>https://teiid.io/tags/14.0.1/</link>
+      <pubDate>Thu, 30 Jul 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/14.0.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.0.2</title>
+      <link>https://teiid.io/tags/14.0.2/</link>
+      <pubDate>Mon, 16 Nov 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/14.0.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://teiid.io/tags/release/</link>
+      <pubDate>Mon, 16 Nov 2020 17:42:50 +0100</pubDate>
+      
+      <guid>https://teiid.io/tags/release/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
